@@ -6,8 +6,9 @@ import numpy as np
 
 x = [datetime.date(2010,7,24),
      datetime.date(2013,1,13),
-     datetime.date(2014,6,15)]
-y = [2,3,4]
+     datetime.date(2014,6,15),
+     datetime.date(2017,1,17)]
+y = [2,3,4,5]
 
 d = [(x1 - x[0]).days for x1 in x]
 
@@ -29,4 +30,4 @@ ax.set_xticks(x)
 ax.xaxis.set_major_formatter(mdates.DateFormatter('%-d %b\n%Y'))
 ax.grid(True)
 
-fig.savefig('size.png')
+fig.savefig('plots/size.eps')
