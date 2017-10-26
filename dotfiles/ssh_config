@@ -1,0 +1,37 @@
+Host gerrit
+	HostName vlab.ncep.noaa.gov
+	User Daryl.Herzmann
+	Port 29418
+Host mtremote
+	HostName mtremote.agron.iastate.edu
+	LocalForward 1080 nagios.agron.iastate.edu:443
+Host mesonet
+        # Proxied iemdb connection
+	LocalForward 172.16.172.1:5432 iemdb:5432
+	LocalForward 5556 iemdb-hads:5432
+        # Waverly webcam
+        LocalForward 172.16.172.1:2000 216.159.168.180:80
+        # Washington
+        LocalForward 172.16.172.1:2001 205.221.150.200:80
+        # Coralville
+	LocalForward 172.16.172.1:2002 199.120.90.95:80
+	# Iowa City
+	LocalForward 2003 198.62.108.14:80
+        # Openfire
+        LocalForward 9999 127.0.0.1:9091
+Host tunnel
+	LocalForward 1081 www.nids.noaa.gov:443
+	LocalForward 1082 phppgadmin.dev.nids.noaa.gov:443
+	LocalForward 1083 subversion.dev.nids.noaa.gov:443
+	LocalForward 1084 nwschat1.dev.nids.noaa.gov:80
+	LocalForward 1085 nwschat1.dev.nids.noaa.gov:9090
+	LocalForward 1086 nwschat1.dev.nids.noaa.gov:9091
+	LocalForward 1087 jira.dev.nids.noaa.gov:443
+	LocalForward 1088 10.60.113.187:9091
+	LocalForward 1089 10.60.113.187:5222
+	LocalForward 1090 10.60.115.22:80
+	LocalForward 1091 10.60.115.22:443
+	LocalForward 1092 127.0.0.1:9999
+	LocalForward 1093 127.0.0.1:10000
+	LocalForward 1094 127.0.0.1:10001
+        Hostname rhel6
