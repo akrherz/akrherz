@@ -19,6 +19,8 @@ Host mesonet
 	LocalForward 2003 198.62.108.14:80
         # Openfire
         LocalForward 9999 127.0.0.1:9091
+	# openmanage on iemvm2
+	LocalForward 3333 192.168.0.7:1311
 Host tunnel
 	LocalForward 1081 www.nids.noaa.gov:443
 	LocalForward 1082 phppgadmin.dev.nids.noaa.gov:443
