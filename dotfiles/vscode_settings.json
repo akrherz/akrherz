@@ -1,0 +1,16 @@
+{
+    "git.ignoreLegacyWarning": true,
+    "workbench.colorTheme": "Default Light+",
+    "git.confirmSync": false,
+    "editor.rulers": [79,],
+    "extensions.ignoreRecommendations": false,
+    "files.exclude": {
+        "**/*.pyc": true,
+        "**/__pycache__": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    }
+}
