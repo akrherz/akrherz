@@ -1,0 +1,162 @@
+\documentclass[twocolumn]{article}
+
+\usepackage[conf]{ametsoc}
+
+
+\begin{document}
+\title{\bf 6.4      USING GIS FOR ENVIRONMENTAL DATA IN IOWA}
+\author{D. P. Todey and D. Herzmann \thanks{Corresponding Author:  Daryl E. Herzmann, 3010
+Agronomy Hall, Iowa State University, Ames, IA Email: akrherz@iastate.edu}\\
+ Department of Agronomy, Iowa State University, Ames, Iowa \\
+}
+
+\amstitle
+
+\section{Introduction}
+
+The Iowa Environmental Mesonet (IEM hereafter) is a project at Iowa State 
+University aiming to gather, compare, disseminate and archive environmental 
+data from the state of Iowa.  Geographic Information Systems (GIS) have
+provided the IEM an invaluable mechanism for data visualization 
+and distribution.  This abstract highlights some of ways the IEM is using
+GIS to distribute environmental data in Iowa.
+
+\section{Technical Components}
+
+Data arriving at the IEM servers come in many formats.  None of these formats
+ would be classified as a true GIS datatype.  Via a handful of conversion
+scripts, the various data sources are eventually stored in a relational 
+database.  We choose PostgreSQL because of its open-source 
+license and enterprise functionality.  Within the database, PostgreSQL has 
+an extension called PostGIS, which spatially enables PostgreSQL.  With this 
+extension, the PostgreSQL database can act as a backend spatial datasource for
+GIS.
+
+With the IEM data in a spatial database, many GIS applications are able to 
+dynamically query out data they need.  The IEM uses a web-mapping GIS 
+application called MapServer to produce web graphics and display query results.
+MapServer is an OpenSource environment for building spatially enabled web
+applications.  Utilizing other OpenSource technologies, MapServer is a fast 
+cross platform GIS.
+
+The IEM also uses an extension to MapServer called MapScript.  In particular, 
+we use an extension to PHP to provide MapServer functionality in PHP.  PHP
+is a popular scripting languauge used primarily for web development.  The 
+combination of PHP and MapServer creates a terrific environment to build GIS
+applications.
+
+\section{MapServer Applications}
+
+To date, the IEM has produced over twenty web-based GIS applications using 
+MapServer.  It is our intention to continue to build more applications and
+refine the ones we have currently built.  For the sake of brevity, we will
+highlight four of these applications.
+
+\subsection{Iowa Tornado Database}
+
+A climatology of tornado reports in Iowa was generated based on a dataset 
+provided by the Storm Prediction Center in Norman, Oklahoma.  This dataset was 
+massaged and placed into a spatial database for further manipulation and 
+display. MapServer easily combined this datasource with other GIS layers to 
+produce a zoomable and queriable web application.
+
+Using the configurability of MapServer, tornados with different strengths 
+are segregated using different colors and 'killer tornados' can be 
+individually plotted as well.  MapServer also allows the user to query 
+the generated image for individual meta-data about points 
+(tornadic events) plotted in the image.
+
+Tornado reports were the first step in our effort to convert other hazzards
+into a GIS database.  Having the reports in a GIS container will open the 
+door to many interesting comparisons.  For example, a spatial correlation
+between tornado sitings and major roadways.  It will also make the dataset
+much more available for other users in the state.
+
+\subsection{Where's it raining?}
+
+The IEM collects environmental data from local school networks operated by
+KCCI-TV (Des Moines, Ia) and KELO-TV (Sioux Falls, SD).  These networks report
+live, up to the minute precipitation numbers to the IEM server.  A process
+monitors this datafeed and generates 15 minute accumulations in real-time.
+
+With the help of GEMPAK, another process converts recent NEXRAD imagery into
+GeoTIFFs.  GeoTIFFs are TIFF format images with a spatial reference attached
+to them.  Due to the lack of a tool to automatically do this conversion, 
+scripts and rough fitting are used to spatially align the image to a projection.
+
+MapServer, via a web interface, combines the NEXRAD imagery together with the
+15 minute accumulations to produce a qualitative comparison of the base
+reflectivity product (\#19) and accumulations.  This application has been 
+useful in cases of virga and general rainfall events.  It is also helpful when
+it is not raining, since the accumulation will look suspect on the map.
+
+\subsection{NWS COOP Climatology}
+
+The NWS COOP database provides the official climatological record. 
+Unfortunately, the formats distributed by NCDC are typically one-step away 
+from being in GIS format.  For many users, this first step is too large.  The
+IEM, in many cases, acts as a data bridge between those with data and those
+needing data.  Providing the NWS COOP dataset in GIS format is example of 
+our mission.
+
+With the help of the spatial database, the COOP data is easily queriable by
+MapServer and available for many other applications that connect to the
+database.  Many of the resulting dataset plots provide an interesting picture
+of climatology.  For instance, plotting the record low temperature for a day 
+and the year of the record produces a plot showing the spatial distribution 
+of temperatures and the year when it happened.
+
+
+\subsection{Data Map Generation}
+
+Visualization is a powerful tool for most types of story telling.  In 
+Meteorology, the theorem holds that a picture is worth a thousand words.  For
+example, NEXRAD base reflectivity is represented with images and not textual 
+tables.  Many data users of the IEM are only interested in quick and clean 
+data displays of a variable across the state, ie temperature.
+
+With the help of an extension to MapServer called PHP MapScript, dynamic GIS 
+plots are generated within seconds of the user's selection.
+  Since the application is GIS based, it makes it very easy to incorperate 
+other GIS layers such as road databases and river basins.  For example, we have
+combined a NEXRAD reflectivity layer with a GIS layer containing NWS Weather Forecast Office (WFO) County Warning Area (CWA) shapes with current county and 
+polygon warnings highlighted.  This plot can be looped over time to produce
+an interesting look at cell propogation within a warning box.
+
+
+\section{GIS-ready NEXRAD imagery}
+% http://ams.confex.com/ams/annual2003/19IIPS/abstracts/57902.htm
+
+The IEM was first exposed to GIS after receiving many requests for real-time
+NEXRAD information in various GIS applications.  Users were most interested in
+viewing reflectivity products and NEXRAD precipiation estimations. After 
+some investigation, we found it relatively easy to geo-reference 
+reflectivity images and statically provide the data to users.
+
+Some users are not able to handle imagery, so they wanted the NEXRAD data in
+ESRI shapefile format.  NEX2SHP, an open-source encoder written by Scott Shipley,
+ is currently being used to convert real-time imagery into shapefile format.
+Future versions of NEX2SHP will also include elevation information and the 
+polygons of the NEXRAD shapes.  
+
+The real challenge has been how to stream this information to users in real-time
+and avoid the static downloads.  It also seems difficult to include timestamp
+information with the products.  We are looking for ways to meet these 
+challenges in the near future.
+
+\section{Conclusions}
+
+Using the spatial extension, PostGIS, to the PostgreSQL database, the IEM has
+been able to distribute environmental data in the state of Iowa.  With the help
+of MapServer, we have been able to generate dynamic GIS plots of datasets for
+fast and clean viewing by our users.  Using PHP MapScript, an extension for 
+MapServer, we have been able to generate very customizable plotting applications
+and data visualization applications.
+
+The IEM has just tipped the iceberg with regards to the use of GIS with
+environmental data in the Iowa.  We are the first ones to admit that we 
+are not using GIS to its full capability. As we continue to build 
+partnerships and  collaborations, new ideas to utilize GIS will 
+formulated and it be exciting to see where our efforts take us.
+
+\end{document}

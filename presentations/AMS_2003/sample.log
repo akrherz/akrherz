@@ -1,0 +1,147 @@
+This is TeX, Version 3.14159 (Web2C 7.3.1) (format=latex 2002.6.15)  26 SEP 2002 11:31
+**sample.tex
+(sample.tex
+LaTeX2e <2000/06/01>
+Babel <v3.7h> and hyphenation patterns for american, french, german, ngerman, i
+talian, nohyphenation, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2000/05/19 v1.4b Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2000/05/19 v1.4b Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (ametsoc.sty
+Package: ametsoc 
+
+(/usr/share/texmf/tex/latex/natbib/natbib.sty
+Package: natbib 1999/05/28 7.0 (PWD)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 508.
+\c@NAT@ctr=\count87
+)
+(/usr/share/texmf/tex/latex/psnfss/times.sty
+Package: times 2000/01/12 PSNFSS-v8.1 Times font as default roman (SPQR) 
+)
+(/usr/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 1999/09/10 v1.1b Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf/tex/latex/carlisle/fix2col.sty
+Package: fix2col 1998/08/17 v0.03 Output Routine fixes for two column mode (DPC
+,FMi)
+)) (sample.aux)
+\openout1 = `sample.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 14.
+
+(/usr/share/texmf/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2000/01/12 PSNFSS-v8.1 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 23.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 25.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 27.
+
+(/usr/share/texmf/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2000/01/12 PSNFSS-v8.1 font definitions for OT1/pcr.
+)
+Overfull \hbox (58.05501pt too wide) in paragraph at lines 44--44
+[]\OT1/pcr/m/n/10 \bibliography{../mybib} %common bib for all papers.[] 
+ []
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 46.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 48.
+
+Package natbib Warning: Citation `Doswell' on page 1 undefined on input line 48
+.
+
+
+Package natbib Warning: Citation `csi' on page 1 undefined on input line 48.
+
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 51.
+(/usr/share/texmf/tex/latex/psnfss/omsphv.fd
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
+
+
+Package natbib Warning: Citation `csi' on page 1 undefined on input line 51.
+
+
+Package natbib Warning: Citation `Doswell' on page 1 undefined on input line 52
+.
+
+
+Package natbib Warning: Citation `goldberg' on page 1 undefined on input line 5
+5.
+
+
+Package natbib Warning: Citation `dejong' on page 1 undefined on input line 55.
+
+
+
+Package natbib Warning: Citation `annie' on page 1 undefined on input line 56.
+
+
+Package natbib Warning: Citation `aires' on page 1 undefined on input line 57.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 64.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 68.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 68.
+No file sample.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[1
+
+
+] (sample.aux) ) 
+Here is how much of TeX's memory you used:
+ 665 strings out of 20887
+ 7455 string characters out of 197363
+ 54907 words of memory out of 350001
+ 3649 multiletter control sequences out of 10000+15000
+ 13640 words of font info for 36 fonts, out of 400000 for 1000
+ 14 hyphenation exceptions out of 10000
+ 31i,12n,22p,140b,387s stack positions out of 3000i,100n,1500p,50000b,4000s
+
+Output written on sample.dvi (1 page, 3136 bytes).

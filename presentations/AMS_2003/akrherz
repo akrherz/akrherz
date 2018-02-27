@@ -1,0 +1,430 @@
+%!PS-Adobe-2.0
+%%Creator: dvips(k) 5.86 Copyright 1999 Radical Eye Software
+%%Title: e_abstract.dvi
+%%Pages: 2
+%%PageOrder: Ascend
+%%BoundingBox: 0 0 596 842
+%%DocumentFonts: Helvetica-Bold Helvetica Helvetica-Oblique
+%%EndComments
+%DVIPSWebPage: (www.radicaleye.com)
+%DVIPSCommandLine: dvips -o out.ps e_abstract.dvi
+%DVIPSParameters: dpi=600, compressed
+%DVIPSSource:  TeX output 2002.09.26:1414
+%%BeginProcSet: texc.pro
+%!
+/TeXDict 300 dict def TeXDict begin/N{def}def/B{bind def}N/S{exch}N/X{S
+N}B/A{dup}B/TR{translate}N/isls false N/vsize 11 72 mul N/hsize 8.5 72
+mul N/landplus90{false}def/@rigin{isls{[0 landplus90{1 -1}{-1 1}ifelse 0
+0 0]concat}if 72 Resolution div 72 VResolution div neg scale isls{
+landplus90{VResolution 72 div vsize mul 0 exch}{Resolution -72 div hsize
+mul 0}ifelse TR}if Resolution VResolution vsize -72 div 1 add mul TR[
+matrix currentmatrix{A A round sub abs 0.00001 lt{round}if}forall round
+exch round exch]setmatrix}N/@landscape{/isls true N}B/@manualfeed{
+statusdict/manualfeed true put}B/@copies{/#copies X}B/FMat[1 0 0 -1 0 0]
+N/FBB[0 0 0 0]N/nn 0 N/IEn 0 N/ctr 0 N/df-tail{/nn 8 dict N nn begin
+/FontType 3 N/FontMatrix fntrx N/FontBBox FBB N string/base X array
+/BitMaps X/BuildChar{CharBuilder}N/Encoding IEn N end A{/foo setfont}2
+array copy cvx N load 0 nn put/ctr 0 N[}B/sf 0 N/df{/sf 1 N/fntrx FMat N
+df-tail}B/dfs{div/sf X/fntrx[sf 0 0 sf neg 0 0]N df-tail}B/E{pop nn A
+definefont setfont}B/Cw{Cd A length 5 sub get}B/Ch{Cd A length 4 sub get
+}B/Cx{128 Cd A length 3 sub get sub}B/Cy{Cd A length 2 sub get 127 sub}
+B/Cdx{Cd A length 1 sub get}B/Ci{Cd A type/stringtype ne{ctr get/ctr ctr
+1 add N}if}B/id 0 N/rw 0 N/rc 0 N/gp 0 N/cp 0 N/G 0 N/CharBuilder{save 3
+1 roll S A/base get 2 index get S/BitMaps get S get/Cd X pop/ctr 0 N Cdx
+0 Cx Cy Ch sub Cx Cw add Cy setcachedevice Cw Ch true[1 0 0 -1 -.1 Cx
+sub Cy .1 sub]/id Ci N/rw Cw 7 add 8 idiv string N/rc 0 N/gp 0 N/cp 0 N{
+rc 0 ne{rc 1 sub/rc X rw}{G}ifelse}imagemask restore}B/G{{id gp get/gp
+gp 1 add N A 18 mod S 18 idiv pl S get exec}loop}B/adv{cp add/cp X}B
+/chg{rw cp id gp 4 index getinterval putinterval A gp add/gp X adv}B/nd{
+/cp 0 N rw exit}B/lsh{rw cp 2 copy get A 0 eq{pop 1}{A 255 eq{pop 254}{
+A A add 255 and S 1 and or}ifelse}ifelse put 1 adv}B/rsh{rw cp 2 copy
+get A 0 eq{pop 128}{A 255 eq{pop 127}{A 2 idiv S 128 and or}ifelse}
+ifelse put 1 adv}B/clr{rw cp 2 index string putinterval adv}B/set{rw cp
+fillstr 0 4 index getinterval putinterval adv}B/fillstr 18 string 0 1 17
+{2 copy 255 put pop}for N/pl[{adv 1 chg}{adv 1 chg nd}{1 add chg}{1 add
+chg nd}{adv lsh}{adv lsh nd}{adv rsh}{adv rsh nd}{1 add adv}{/rc X nd}{
+1 add set}{1 add clr}{adv 2 chg}{adv 2 chg nd}{pop nd}]A{bind pop}
+forall N/D{/cc X A type/stringtype ne{]}if nn/base get cc ctr put nn
+/BitMaps get S ctr S sf 1 ne{A A length 1 sub A 2 index S get sf div put
+}if put/ctr ctr 1 add N}B/I{cc 1 add D}B/bop{userdict/bop-hook known{
+bop-hook}if/SI save N @rigin 0 0 moveto/V matrix currentmatrix A 1 get A
+mul exch 0 get A mul add .99 lt{/QV}{/RV}ifelse load def pop pop}N/eop{
+SI restore userdict/eop-hook known{eop-hook}if showpage}N/@start{
+userdict/start-hook known{start-hook}if pop/VResolution X/Resolution X
+1000 div/DVImag X/IEn 256 array N 2 string 0 1 255{IEn S A 360 add 36 4
+index cvrs cvn put}for pop 65781.76 div/vsize X 65781.76 div/hsize X}N
+/p{show}N/RMat[1 0 0 -1 0 0]N/BDot 260 string N/Rx 0 N/Ry 0 N/V{}B/RV/v{
+/Ry X/Rx X V}B statusdict begin/product where{pop false[(Display)(NeXT)
+(LaserWriter 16/600)]{A length product length le{A length product exch 0
+exch getinterval eq{pop true exit}if}{pop}ifelse}forall}{false}ifelse
+end{{gsave TR -.1 .1 TR 1 1 scale Rx Ry false RMat{BDot}imagemask
+grestore}}{{gsave TR -.1 .1 TR Rx Ry scale 1 1 false RMat{BDot}
+imagemask grestore}}ifelse B/QV{gsave newpath transform round exch round
+exch itransform moveto Rx 0 rlineto 0 Ry neg rlineto Rx neg 0 rlineto
+fill grestore}B/a{moveto}B/delta 0 N/tail{A/delta X 0 rmoveto}B/M{S p
+delta add tail}B/b{S p tail}B/c{-4 M}B/d{-3 M}B/e{-2 M}B/f{-1 M}B/g{0 M}
+B/h{1 M}B/i{2 M}B/j{3 M}B/k{4 M}B/w{0 rmoveto}B/l{p -4 w}B/m{p -3 w}B/n{
+p -2 w}B/o{p -1 w}B/q{p 1 w}B/r{p 2 w}B/s{p 3 w}B/t{p 4 w}B/x{0 S
+rmoveto}B/y{3 2 roll p a}B/bos{/SS save N}B/eos{SS restore}B end
+
+%%EndProcSet
+%%BeginProcSet: 8r.enc
+% @@psencodingfile@{
+%   author = "S. Rahtz, P. MacKay, Alan Jeffrey, B. Horn, K. Berry",
+%   version = "0.6",
+%   date = "22 June 1996",
+%   filename = "8r.enc",
+%   email = "kb@@mail.tug.org",
+%   address = "135 Center Hill Rd. // Plymouth, MA 02360",
+%   codetable = "ISO/ASCII",
+%   checksum = "119     662    4424",
+%   docstring = "Encoding for TrueType or Type 1 fonts to be used with TeX."
+% @}
+% 
+% Idea is to have all the characters normally included in Type 1 fonts
+% available for typesetting. This is effectively the characters in Adobe
+% Standard Encoding + ISO Latin 1 + extra characters from Lucida.
+% 
+% Character code assignments were made as follows:
+% 
+% (1) the Windows ANSI characters are almost all in their Windows ANSI
+% positions, because some Windows users cannot easily reencode the
+% fonts, and it makes no difference on other systems. The only Windows
+% ANSI characters not available are those that make no sense for
+% typesetting -- rubout (127 decimal), nobreakspace (160), softhyphen
+% (173). quotesingle and grave are moved just because it's such an
+% irritation not having them in TeX positions.
+% 
+% (2) Remaining characters are assigned arbitrarily to the lower part
+% of the range, avoiding 0, 10 and 13 in case we meet dumb software.
+% 
+% (3) Y&Y Lucida Bright includes some extra text characters; in the
+% hopes that other PostScript fonts, perhaps created for public
+% consumption, will include them, they are included starting at 0x12.
+% 
+% (4) Remaining positions left undefined are for use in (hopefully)
+% upward-compatible revisions, if someday more characters are generally
+% available.
+% 
+% (5) hyphen appears twice for compatibility with both ASCII and Windows.
+% 
+/TeXBase1Encoding [
+% 0x00 (encoded characters from Adobe Standard not in Windows 3.1)
+  /.notdef /dotaccent /fi /fl
+  /fraction /hungarumlaut /Lslash /lslash
+  /ogonek /ring /.notdef
+  /breve /minus /.notdef 
+% These are the only two remaining unencoded characters, so may as
+% well include them.
+  /Zcaron /zcaron 
+% 0x10
+ /caron /dotlessi 
+% (unusual TeX characters available in, e.g., Lucida Bright)
+ /dotlessj /ff /ffi /ffl 
+ /.notdef /.notdef /.notdef /.notdef
+ /.notdef /.notdef /.notdef /.notdef
+ % very contentious; it's so painful not having quoteleft and quoteright
+ % at 96 and 145 that we move the things normally found there down to here.
+ /grave /quotesingle 
+% 0x20 (ASCII begins)
+ /space /exclam /quotedbl /numbersign
+ /dollar /percent /ampersand /quoteright
+ /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+% 0x30
+ /zero /one /two /three /four /five /six /seven
+ /eight /nine /colon /semicolon /less /equal /greater /question
+% 0x40
+ /at /A /B /C /D /E /F /G /H /I /J /K /L /M /N /O
+% 0x50
+ /P /Q /R /S /T /U /V /W
+ /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore
+% 0x60
+ /quoteleft /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o
+% 0x70
+ /p /q /r /s /t /u /v /w
+ /x /y /z /braceleft /bar /braceright /asciitilde
+ /.notdef % rubout; ASCII ends
+% 0x80
+ /.notdef /.notdef /quotesinglbase /florin
+ /quotedblbase /ellipsis /dagger /daggerdbl
+ /circumflex /perthousand /Scaron /guilsinglleft
+ /OE /.notdef /.notdef /.notdef
+% 0x90
+ /.notdef /.notdef /.notdef /quotedblleft
+ /quotedblright /bullet /endash /emdash
+ /tilde /trademark /scaron /guilsinglright
+ /oe /.notdef /.notdef /Ydieresis
+% 0xA0
+ /.notdef % nobreakspace
+ /exclamdown /cent /sterling
+ /currency /yen /brokenbar /section
+ /dieresis /copyright /ordfeminine /guillemotleft
+ /logicalnot
+ /hyphen % Y&Y (also at 45); Windows' softhyphen
+ /registered
+ /macron
+% 0xD0
+ /degree /plusminus /twosuperior /threesuperior
+ /acute /mu /paragraph /periodcentered
+ /cedilla /onesuperior /ordmasculine /guillemotright
+ /onequarter /onehalf /threequarters /questiondown
+% 0xC0
+ /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+ /Egrave /Eacute /Ecircumflex /Edieresis
+ /Igrave /Iacute /Icircumflex /Idieresis
+% 0xD0
+ /Eth /Ntilde /Ograve /Oacute
+ /Ocircumflex /Otilde /Odieresis /multiply
+ /Oslash /Ugrave /Uacute /Ucircumflex
+ /Udieresis /Yacute /Thorn /germandbls
+% 0xE0
+ /agrave /aacute /acircumflex /atilde
+ /adieresis /aring /ae /ccedilla
+ /egrave /eacute /ecircumflex /edieresis
+ /igrave /iacute /icircumflex /idieresis
+% 0xF0
+ /eth /ntilde /ograve /oacute
+ /ocircumflex /otilde /odieresis /divide
+ /oslash /ugrave /uacute /ucircumflex
+ /udieresis /yacute /thorn /ydieresis
+] def
+
+%%EndProcSet
+%%BeginProcSet: texps.pro
+%!
+TeXDict begin/rf{findfont dup length 1 add dict begin{1 index/FID ne 2
+index/UniqueID ne and{def}{pop pop}ifelse}forall[1 index 0 6 -1 roll
+exec 0 exch 5 -1 roll VResolution Resolution div mul neg 0 0]/Metrics
+exch def dict begin Encoding{exch dup type/integertype ne{pop pop 1 sub
+dup 0 le{pop}{[}ifelse}{FontMatrix 0 get div Metrics 0 get div def}
+ifelse}forall Metrics/Metrics currentdict end def[2 index currentdict
+end definefont 3 -1 roll makefont/setfont cvx]cvx def}def/ObliqueSlant{
+dup sin S cos div neg}B/SlantFont{4 index mul add}def/ExtendFont{3 -1
+roll mul exch}def/ReEncodeFont{CharStrings rcheck{/Encoding false def
+dup[exch{dup CharStrings exch known not{pop/.notdef/Encoding true def}
+if}forall Encoding{]exch pop}{cleartomark}ifelse}if/Encoding exch def}
+def end
+
+%%EndProcSet
+TeXDict begin 39158280 55380996 1000 600 600 (e_abstract.dvi)
+@start /Fa 134[42 1[60 2[23 42 28 1[46 46 46 69 18 2[18
+46 46 1[46 46 42 46 46 9[78 2[51 55 2[55 65 60 69 3[23
+1[65 2[60 60 3[46 16[23 6[18 39[{TeXBase1Encoding ReEncodeFont}32
+83.022 /Helvetica-Oblique rf /Fb 133[33 33 1[48 33 37
+18 33 22 1[37 37 37 55 15 33 1[15 37 37 1[37 37 2[37
+11[48 1[44 9[18 48 2[44 48 48 1[44 67 5[18 6[37 1[37
+37 1[18 1[18 44[{TeXBase1Encoding ReEncodeFont}35 66.4176
+/Helvetica rf
+%DVIPSBitmapFont: Fc cmsy6 6 1
+/Fc 1 4 df<136013701360A20040132000E0137038F861F0387E67E0381FFF803807FE
+00EA00F0EA07FE381FFF80387E67E038F861F038E060700040132000001300A213701360
+14157B9620>3 D E
+%EndDVIPSBitmapFont
+/Fd 133[42 42 42 60 42 46 23 42 28 46 46 46 46 69 18
+42 18 18 46 46 23 46 46 42 46 46 8[55 78 55 60 51 55
+60 65 55 65 60 69 46 55 1[23 60 65 51 55 60 60 55 55
+7[46 3[46 2[46 46 2[23 28 23 2[28 28 18 3[46 31[42 42
+2[{TeXBase1Encoding ReEncodeFont}62 83.022 /Helvetica
+rf /Fe 134[66 2[66 73 40 66 47 1[73 73 73 106 33 2[33
+73 73 1[66 73 66 1[66 8[80 3[73 80 86 3[86 100 3[33 1[93
+1[80 86 86 1[86 11[66 66 66 66 66 2[33 40 45[{
+TeXBase1Encoding ReEncodeFont}37 119.552 /Helvetica-Bold
+rf
+%DVIPSBitmapFont: Ff cmsy8 8 1
+/Ff 1 4 df<130C131EA50060EB01800078130739FC0C0FC0007FEB3F80393F8C7F0038
+07CCF83801FFE038007F80011EC7FCEB7F803801FFE03807CCF8383F8C7F397F0C3F8000
+FCEB0FC039781E078000601301000090C7FCA5130C1A1D7C9E23>3
+D E
+%EndDVIPSBitmapFont
+/Fg 133[50 50 1[72 50 1[28 50 33 1[55 55 55 83 3[22 1[55
+28 55 55 2[55 11[72 61 66 2[66 6[28 72 3[72 2[66 18[28
+1[28 44[{TeXBase1Encoding ReEncodeFont}27 99.6264 /Helvetica
+rf /Fh 168[135 96 104 88 96 104 2[112 104 120 88 2[40
+1[112 88 96 104 2[104 10[80 1[80 5[40 46[{TeXBase1Encoding ReEncodeFont}
+19 143.462 /Helvetica-Bold rf end
+%%EndProlog
+%%BeginSetup
+%%Feature: *Resolution 600dpi
+TeXDict begin
+%%PaperSize: A4
+
+%%EndSetup
+%%Page: 1 1
+1 0 bop 148 789 a Fh(6.4)40 b(USING)e(GIS)h(FOR)g(ENVIR)m(ONMENT)-13
+b(AL)35 b(D)-6 b(A)-13 b(T)g(A)39 b(IN)g(IO)-7 b(W)e(A)1292
+1029 y Fg(D)i(.)27 b(P)-18 b(.)28 b(T)-12 b(ode)n(y)29
+b(and)g(D)-7 b(.)27 b(Herzmann)2608 993 y Ff(\003)624
+1146 y Fg(Depar)t(tment)i(of)f(Ag)o(ronom)o(y)-10 b(,)29
+b(Io)o(w)o(a)e(State)i(Univ)n(ersity)-10 b(,)27 b(Ames)o(,)g(Io)o(w)o
+(a)-150 1475 y Fe(1.)120 b(Intr)n(oduction)-150 1726
+y Fd(The)36 b(Io)o(w)o(a)g(En)n(vironmental)j(Mesonet)d(\(IEM)h
+(hereafter\))f(is)g(a)-150 1826 y(project)21 b(at)f(Io)o(w)o(a)h(State)
+g(Univ)n(ersity)f(aiming)i(to)f(collect)f(en)n(viron-)-150
+1926 y(mental)g(data)f(from)f(the)h(state)f(of)h(Io)o(w)o(a)f(and)h
+(pro)o(vide)f(users)g(with)-150 2025 y(products)26 b(the)n(y)h(can)f
+(easily)h(use)f(in)h(their)g(respectiv)n(e)f(applica-)-150
+2125 y(tions)o(.)42 b(GIS)28 b(has)g(pro)o(vided)f(the)h(IEM)h(w)o(as)e
+(an)h(in)n(v)n(aluab)n(le)i(tool)-150 2225 y(f)n(or)20
+b(data)h(visualization)h(and)f(distr)q(ib)n(ution.)30
+b(This)21 b(abstr)o(act)f(high-)-150 2324 y(lights)28
+b(some)f(of)h(our)f(w)o(or)q(k)g(with)g(a)h(GIS)f(mapping)i
+(application)-150 2424 y(called)24 b(MapSer)r(v)n(er)l(.)-67
+2549 y(MapSer)r(v)n(er)h(is)f(not)h(a)g(full)g(f)n(eatured)g(GIS)n(,)g
+(since)f(it)h(does)f(not)-150 2648 y(aim)j(to)f(be)o(.)38
+b(It)26 b(does)g(pro)o(vide)g(a)g(platf)n(or)r(m)h(f)n(or)e(r)o(apid)i
+(GIS)f(w)o(eb-)-150 2748 y(application)f(de)n(v)n(elopment.)-150
+3207 y Fe(2.)120 b(T)-7 b(ec)o(hnical)36 b(Components)-150
+3458 y Fd(Data)22 b(arr)q(iving)g(at)g(the)g(IEM)h(ser)r(v)n(ers)d
+(comes)h(in)i(man)o(y)e(f)n(or)r(mats)o(.)-150 3558 y(None)f(of)g(them)
+g(w)o(ould)g(be)g(classi\002ed)f(as)g(a)h(tr)q(ue)g(GIS)f(datatype)o(.)
+-150 3657 y(F)n(or)34 b(us)o(,)j(the)e(\002rst)f(step)h(is)f(stor)q
+(ing)i(the)f(data)g(in)h(a)f(relational)-150 3757 y(database)o(.)e(W)n
+(e)25 b(choose)f(P)l(ostg)o(reSQL)h(because)f(of)h(its)f(open-)-150
+3856 y(source)h(license)h(and)g(enter)r(pr)q(ise)h(functionality)-8
+b(.)37 b(P)l(ostg)o(reSQL)-150 3956 y(has)32 b(an)g(e)n(xtension)f
+(called)i(P)l(ostGIS)n(,)f(which)g(pro)o(vides)f(OGC)-150
+4056 y(functionality)f(in)e(the)h(database)o(.)44 b(Data)29
+b(stored)f(in)h(these)f(spa-)-150 4155 y(tially)40 b(enab)n(led)h(tab)n
+(les)f(w)o(ould)g(be)g(considered)f(then)h(a)f(GIS)-150
+4255 y(data)24 b(source)o(.)-67 4380 y(Ha)n(ving)42 b(the)g(GIS)g(data)
+g(source)o(,)j(MapSer)r(v)n(er)d(is)f(ab)n(le)i(to)-150
+4479 y(quer)r(y)f(it)h(and)g(produce)f(results)o(.)86
+b(Because)42 b(of)h(the)f(open-)-150 4579 y(nature)e(of)g(the)h(IEM)f
+(applications)o(,)45 b(other)40 b(applications)i(be-)-150
+4679 y(sides)20 b(MapSer)r(v)n(er)h(can)g(quer)r(y)f(the)h(spatial)h
+(database)f(as)f(w)o(ell.)p -150 4851 824 4 v -66 4904
+a Fc(\003)-30 4927 y Fb(Corresponding)h(A)n(uthor)r(:)31
+b(Dar)r(yl)22 b(E.)h(Herzmann,)h(3010)e(Ag)o(ronom)o(y)h(Hall,)-150
+5006 y(Io)o(w)o(a)c(State)g(Univ)n(ersity)-7 b(,)20 b(Ames)o(,)g(IA)f
+(Email:)24 b(akrherz@iastate)o(.edu)1992 1477 y Fe(3.)120
+b(MapSer)q(ver)33 b(Applications)1992 1686 y Fd(T)-10
+b(o)24 b(date)o(,)i(the)f(IEM)g(has)g(produced)f(tw)o(enty)h(some)g(w)o
+(eb-based)1992 1785 y(GIS)j(applications)i(using)f(MapSer)r(v)n(er)l(.)
+45 b(It)29 b(is)f(our)g(intention)j(to)1992 1885 y(contin)o(ue)f(to)f
+(b)n(uild)i(more)e(applications)i(and)f(re\002ne)e(the)i(ones)1992
+1985 y(w)o(e)g(ha)n(v)n(e)h(currently)f(b)n(uilt.)52
+b(F)n(or)30 b(the)h(sak)n(e)f(of)h(bre)n(vity)-8 b(,)31
+b(w)o(e)g(will)1992 2084 y(highlight)25 b(f)n(our)d(of)i(these)f
+(applications)h(in)g(this)f(abstr)o(act.)1992 2288 y
+Fa(a.)83 b(Io)o(w)o(a)23 b(T)-10 b(or)r(nado)23 b(Database)1992
+2442 y Fd(A)h(climatology)h(of)g(tor)r(nado)g(repor)s(ts)f(in)g(Io)o(w)
+o(a)g(w)o(as)g(gener)o(ated.)1992 2542 y(This)f(dataset)h(w)o(as)g
+(then)g(dumped)h(into)f(the)h(spatial)f(database)1992
+2642 y(f)n(or)32 b(fur)s(ther)h(manipulation)i(and)f(displa)n(y)-8
+b(.)58 b(MapSer)r(v)n(er)33 b(easily)1992 2741 y(combined)e(this)g
+(datasource)f(with)h(other)g(GIS)g(la)n(y)n(ers)f(to)g(pro-)1992
+2841 y(duce)23 b(a)g(z)o(oomab)n(le)h(and)f(quer)q(iab)n(le)j(w)o(eb)d
+(application.)2075 2945 y(Using)f(the)i(po)o(w)o(er)e(of)h(MapSer)r(v)n
+(er)l(,)g(tor)r(nados)g(with)h(diff)n(erent)1992 3045
+y(strengths)19 b(are)g(seg)o(regated)h(using)h(diff)n(erent)f(colors)f
+(and)h('killer)1992 3144 y(tor)r(nados')k(can)g(be)g(individually)i
+(plotted)f(as)e(w)o(ell.)33 b(MapSer)r(v)n(er)1992 3244
+y(also)h(allo)o(ws)h(the)g(user)g(to)f(quer)r(y)h(the)g(gener)o(ated)h
+(image)g(f)n(or)1992 3344 y(individual)25 b(meta-data)e(about)h(points)
+g(plotted)g(in)g(the)f(image)o(.)2075 3448 y(T)-10 b(or)r(nado)22
+b(repor)s(ts)g(w)o(ere)g(the)h(\002rst)e(step)h(in)h(our)f(eff)n(or)s
+(t)g(to)h(con-)1992 3548 y(v)n(er)s(t)h(other)h(hazzards)f(into)h(a)g
+(GIS)g(database)o(.)35 b(Ha)n(ving)25 b(the)h(re-)1992
+3647 y(por)s(ts)21 b(in)g(a)h(GIS)f(container)h(will)g(open)g(the)g
+(door)f(to)h(man)o(y)f(inter-)1992 3747 y(esting)32 b(compar)q(isons)o
+(.)54 b(F)n(or)30 b(e)n(xample)o(,)k(a)e(spatial)g(correlation)1992
+3846 y(betw)o(een)24 b(tor)r(nado)f(sitings)h(and)f(major)h(roadw)o(a)n
+(ys)o(.)1992 4050 y Fa(b)m(.)82 b(Where')l(s)24 b(it)f(r)o(aining?)1992
+4205 y Fd(The)33 b(IEM)h(collects)f(en)n(vironmental)i(data)f(from)f
+(local)h(school)1992 4304 y(netw)o(or)q(ks)39 b(oper)o(ated)h(b)n(y)g
+(KCCI-TV)f(\(Des)g(Moines)o(,)44 b(Ia\))c(and)1992 4404
+y(KELO-TV)19 b(\(Sioux)h(F)l(alls)o(,)g(SD\).)g(These)f(stations)h
+(repor)s(t)g(liv)n(e)g(up)1992 4503 y(to)j(the)h(min)o(ute)h
+(precipitation)g(n)o(umbers)f(to)g(the)g(IEM)g(ser)r(v)n(er)l(.)29
+b(A)1992 4603 y(process)20 b(monitors)i(this)g(dataf)n(eed)g(and)h
+(gener)o(ates)f(15)g(min)o(ute)1992 4703 y(accum)o(ulations)o(.)2075
+4807 y(With)31 b(the)g(help)h(of)e(GEMP)-10 b(AK,)32
+b(another)f(process)f(con)n(v)n(er)s(ts)1992 4907 y(recent)k(NEXRAD)h
+(imager)r(y)g(into)h(a)e(GeoTIFFs)o(.)61 b(GeoTIFFs)1992
+5006 y(are)20 b(TIFF)f(f)n(or)r(mat)h(images)g(with)h(a)f(spatial)h
+(ref)n(erence)f(attached)1927 5255 y(1)p eop
+%%Page: 2 2
+2 1 bop -150 523 a Fd(to)23 b(them.)29 b(Due)22 b(to)h(the)g(lac)n(k)f
+(of)g(a)h(tool)g(to)g(automatically)h(do)e(this)-150
+623 y(con)n(v)n(ersion,)g(scr)q(ipts)g(and)g(rough)h(\002tting)g(are)f
+(used)g(to)h(spatially)-150 722 y(align)h(the)g(image)g(to)f(a)h
+(projection.)-67 828 y(MapSer)r(v)n(er)l(,)81 b(via)69
+b(a)h(w)o(eb)f(interf)n(ace)o(,)81 b(combines)69 b(the)-150
+928 y(NEXRAD)28 b(imager)r(y)g(together)f(with)h(the)f(15)h(min)o(ute)g
+(accum)o(u-)-150 1028 y(lations)d(to)f(produce)g(an)g(qualitativ)n(e)h
+(compar)q(ison)f(of)g(the)g(base)-150 1127 y(re\003ectivity)36
+b(product)g(\(#19\))g(and)h(accum)o(ulations)o(.)70 b(This)37
+b(ap-)-150 1227 y(plication)31 b(has)f(been)h(useful)f(in)g(cases)f(of)
+h(virga)g(and)g(gener)o(al)-150 1326 y(r)o(ainf)n(all)35
+b(e)n(v)n(ents)o(.)60 b(It)34 b(is)g(also)g(helpful)h(when)g(it)f(is)g
+(not)g(r)o(aining,)-150 1426 y(since)23 b(the)g(accum)o(ulation)i(will)
+f(look)f(suspect)f(on)i(the)f(map)m(.)-150 1632 y Fa(c.)83
+b(NWS)23 b(COOP)g(Climatology)-150 1787 y Fd(The)j(NWS)h(COOP)e
+(database)i(pro)o(vides)e(the)i(of\002cial)f(climato-)-150
+1887 y(logical)31 b(record.)46 b(Unf)n(or)s(tunately)-8
+b(,)31 b(the)f(f)n(or)r(mats)f(distr)q(ib)n(uted)h(b)n(y)-150
+1987 y(NCDC)25 b(are)h(usually)g(one-step)f(a)n(w)o(a)n(y)g(from)h
+(being)h(in)f(GIS)f(f)n(or-)-150 2086 y(mat.)k(F)n(or)22
+b(man)o(y)h(users)o(,)f(this)h(\002rst)f(step)h(is)g(too)g(large)o(.)
+-67 2192 y(The)39 b(IEM)h(has)f(dumped)i(its)e(collection)h(of)g(NWS)g
+(COOP)-150 2292 y(data)31 b(into)h(a)f(spatial)g(database)o(.)52
+b(MapSer)r(v)n(er)l(,)33 b(with)e(the)h(help)-150 2391
+y(of)24 b(PHP)h(MapScr)q(ipt,)g(is)f(ab)n(le)h(to)f(dynamically)h(quer)
+r(y)f(data)g(out)-150 2491 y(and)g(plot)f(in)h(f)n(or)f(a)g(GIS)g(w)o
+(eb)g(application.)-150 2697 y Fa(d.)83 b(Data)24 b(Map)f(Gener)o
+(ation)-150 2852 y Fd(Visualization)37 b(is)e(a)h(po)o(w)o(erful)f
+(tool)h(f)n(or)f(most)g(types)g(of)g(stor)r(y)-150 2952
+y(telling.)41 b(In)27 b(Meteorology)-8 b(,)28 b(the)f(theorem)g(holds)g
+(that)g(a)f(picture)-150 3052 y(is)c(w)o(or)s(th)g(a)g(thousand)h(w)o
+(ords)o(.)k(F)n(or)21 b(e)n(xample)o(,)i(NEXRAD)f(base)-150
+3151 y(re\003ectivity)f(is)i(represented)f(with)h(images)g(and)f(not)h
+(te)n(xtual)g(ta-)-150 3251 y(b)n(les)o(.)41 b(Man)o(y)27
+b(data)h(users)e(of)i(the)g(IEM)f(are)h(only)f(interested)h(in)-150
+3351 y(quic)n(k)34 b(and)h(clean)f(data)h(displa)n(ys)f(of)g(a)g(v)n
+(ar)q(iab)n(le)h(across)e(the)-150 3450 y(state)o(,)23
+b(ie)h(temper)o(ature)o(.)-67 3556 y(With)19 b(the)f(help)h(of)f(an)g
+(e)n(xtension)f(to)h(MapSer)r(v)n(er)g(called)h(PHP)-150
+3656 y(MapScr)q(ipt.)45 b(The)28 b(po)o(w)o(erful)h(API)g(of)f(the)h
+(PHP)g(language)h(can)-150 3755 y(be)d(combined)g(with)g(the)g
+(functionality)h(of)f(MapSer)r(v)n(er)g(to)g(pro-)-150
+3855 y(duce)c(attr)o(activ)n(e)g(dynamic)g(images)o(.)29
+b(Since)23 b(the)h(application)h(is)-150 3955 y(GIS)19
+b(based,)h(it)f(mak)n(es)g(it)g(v)n(er)r(y)f(easy)h(to)g(incor)r(per)o
+(ate)g(other)g(GIS)-150 4054 y(la)n(y)n(ers)k(such)g(as)h(road)g
+(databases)o(,)g(r)q(iv)n(er)f(basins)h(and)h(political)-150
+4154 y(inf)n(or)r(mation.)-150 4495 y Fe(4.)120 b(GIS-read)n(y)34
+b(NEXRAD)g(ima)o(g)q(er)q(y)-150 4707 y Fd(One)c(the)h(\002rst)e(GIS)h
+(questions)g(the)h(IEM)g(receiv)n(ed)e(w)o(as)h(con-)-150
+4807 y(cer)r(ning)41 b(NEXRAD)h(imager)r(y)-8 b(.)82
+b(Users)39 b(w)o(anted)i(to)g(be)g(ab)n(le)-150 4907
+y(to)f(incor)r(per)o(ate)h(real-time)g(re\003ectivity)e(and)h(NEXRAD)h
+(esti-)-150 5006 y(mations)48 b(of)f(r)o(ainf)n(all)h(into)g(their)g
+(GIS)f(applications)o(.)102 b(After)1992 523 y(some)35
+b(in)n(v)n(estigation,)40 b(w)o(e)c(f)n(ound)g(it)g(relativ)n(ely)f
+(easy)g(to)h(geo-)1992 623 y(ref)n(erence)h(re\003ectivity)h(images)h
+(and)f(statically)h(pro)o(vide)g(the)1992 722 y(data)23
+b(to)g(users)o(.)2075 822 y(Some)55 b(users)f(are)h(not)g(ab)n(le)h(to)
+f(handle)h(imager)r(y)-8 b(,)63 b(so)1992 922 y(the)n(y)37
+b(w)o(anted)h(the)h(NEXRAD)f(data)g(in)h(ESRI)f(shape\002le)g(f)n(or-)
+1992 1021 y(mat.)93 b(NEX2SHP)-15 b(,)46 b(an)f(open-source)f(encoder)h
+(wr)q(itten)g(b)n(y)1992 1121 y(Scott)39 b(Shiple)n(y)-8
+b(,)44 b(is)39 b(currently)f(being)i(used)f(to)g(con)n(v)n(er)s(t)g
+(real-)1992 1220 y(time)34 b(imager)r(y)h(into)f(shape\002le)g(f)n(or)r
+(mat.)61 b(Future)34 b(v)n(ersions)f(of)1992 1320 y(NEX2SHP)22
+b(will)h(also)e(include)i(ele)n(v)n(ation)e(inf)n(or)r(mation)i(and)f
+(the)1992 1420 y(polygons)h(of)g(the)h(NEXRAD)g(shapes)o(.)1992
+1721 y Fe(5.)120 b(Conc)n(lusions)1992 1921 y Fd(The)27
+b(IEM)i(has)e(just)h(tipped)h(the)f(iceberg)g(with)g(regards)g(to)g
+(the)1992 2020 y(use)d(of)h(GIS)f(with)h(en)n(vironmental)i(data)e(in)g
+(the)g(Io)o(w)o(a.)35 b(W)n(e)26 b(are)1992 2120 y(the)21
+b(\002rst)f(ones)i(to)f(admit)i(that)f(w)o(e)f(are)h(not)g(using)f(GIS)
+h(to)f(its)h(full)1992 2219 y(capability)-8 b(.)2075
+2319 y(As)36 b(w)o(e)h(contin)o(ue)g(to)g(b)n(uild)h(par)s(tnerships)e
+(and)h(collabor)o(a-)1992 2419 y(tions)o(,)24 b(ne)n(w)g(ideas)g(to)g
+(utiliz)o(e)g(GIS)g(will)h(f)n(or)r(m)o(ulated)g(and)f(will)h(be)1992
+2518 y(e)n(xciting)e(to)g(see)g(where)g(our)g(eff)n(or)s(ts)g(tak)n(e)g
+(us)o(.)1927 5255 y(2)p eop
+%%Trailer
+end
+userdict /end-hook known{end-hook}if
+%%EOF

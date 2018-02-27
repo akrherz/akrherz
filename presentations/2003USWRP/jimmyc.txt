@@ -1,0 +1,91 @@
+From jimmyc@iastate.edu Sun Dec  7 22:32:15 2003
+Date: Sun, 16 Nov 2003 23:00:13 -0600 (CST)
+From: jimmyc@iastate.edu
+To: Daryl Herzmann <akrherz@iastate.edu>
+Subject: Re: USWRP Workshop 
+
+I have a few things to keep in mind. When am I ever non-vocal?
+1. Surface data assimilation: Surface data is almost last on the list for 
+having an impact on model forecasts that use surface data. Most times 
+surface is ignored altogether. With grid resolution decreasing, it would 
+seem a priority to understand how we can better assimilate surface data.
+I guess the most important aspect of this is during convection. if we are 
+behind an outflow boundary how can we incorporate these obs up into the 
+pbl in order to have an impact on the model run?
+
+2. Mesonetwork design (test beds): when designing keep in mind the time to 
+space conversion concept. it is always nice to design a grid, but 
+sometimes that can't be done. So the problems defaults to optimizing the 
+placement of a limited number of sensors.
+
+I am not sure what they are asking for in the NWP part of all this. seems 
+like a talk about decentralizing the NWP part of the weather service. To 
+me that seems like a bad idea. To me a regional center, would take the 
+centralized model output (say ETA model output) and use that as BC's and 
+IC's for regional NWP such as ensemble modelling. Or even just to run 
+different parameterizations based on regional characteristics (higher 
+terrain, agricultural land use, coastal regions, etc.) then local data 
+assimilation could be run (the people who know the data best could specify 
+how reliable it is). Then the regional product could be provided as a 
+guide to local NWS offices. 
+well there is my 3 cents.
+jimmyc
+
+On Fri, 14 Nov 2003, Daryl Herzmann 
+wrote:
+
+>All,
+>
+>During the second week of December, I will be attending the USWRP 
+>workshop at NCAR outlined here
+>
+>http://www.mmm.ucar.edu/uswrp/upcoming_meetings/announcement2.html
+>
+>This is a two part workshop with the first part focusing on Mesonets and 
+>the second part on Regional Weather Prediction.
+>
+>Mesoscale Observing Networks
+> http://www.mmm.ucar.edu/uswrp/upcoming_meetings/announcement2.html#agenda
+>
+>Regional Weather Prediction
+>  http://www.atmos.washington.edu/~cliff/realwork.htm
+>
+>Since I believe I am the only one attending from ISU,  please let me know 
+>of your comments after reviewing the online info.  I can try to have the 
+>group address any issues you have...
+>
+>Perhaps a 30 minute debriefing is in order when I return.  Should be lots 
+>of fun.
+>
+>Daryl
+>
+>/**
+> * Daryl Herzmann (akrherz@iastate.edu)
+> * Program Assistant -- Iowa Environmental Mesonet
+> * http://mesonet.agron.iastate.edu
+> */
+>
+
+-- 
+James Correia Jr.
+Ph.D. Candidate in Agricultural Meteorology
+Dept. of Agronomy, Iowa State University
+*********************************************
+Agronomy 206 Email: 206ta@iastate.edu
+Email: jimmyc@iastate.edu
+Phone: 515-294-5587
+Web: http://www.mesoscale.iastate.edu/jimmyc/
+*********************************************
+"Imagination is more important than knowledge."
+-Einstein
+
+"All normal people love meat. If I went to a barbeque and there was no 
+meat, I would say "Yo Goober! Wheres the meat!?". I'm trying to impress 
+people here Lisa. You don't win friends with salad."
+-Homer J. Simpson
+
+"Oh, look at me! I'm making people happy! I'm the Magical Man from 
+Happy-Land, in a gumdrop house on Lollipop lane! Oh, by the way, I was 
+being sarcastic.
+-Homer J. Simpson
+

@@ -1,0 +1,75 @@
+% Sample of how to use ametsoc.bst and ametsoc.sty
+%  Lakshman, National Severe Storms Laboratory, 1999
+\documentclass[twocolumn]{article}
+
+% Normally, you'd need this to use postscript (.eps) figures
+%\usepackage{epsfig}
+
+% This is needed to bring in ametsoc.sty and use ametsoc.bst
+%\usepackage{ametsoc}
+%\usepackage[final]{ametsoc}
+\usepackage[conf]{ametsoc}
+
+% Meat of your article starts here ...
+\begin{document}
+
+% Make the title and author name in boldface
+\title{\bf Using ametsoc.bst and ametsoc.sty}
+\author{{\bf V Lakshmanan}\thanks{lakshman@nssl.noaa.gov}\\
+National Severe Storms Laboratory \& University of Oklahoma \\
+Norman, Oklahoma 73069 \\
+}
+
+\amstitle
+
+\section{Usage}
+Use it in an article document class like this:
+\begin{verbatim} \usepackage{ametsoc} \end{verbatim}
+
+The AMS wants all manuscripts sent to them to be double spaced. So, do this
+for the paper you are going to send:
+\begin{verbatim} \usepackage[final]{ametsoc} \end{verbatim}
+The final option also puts figures and tables at the end and provides a
+separate page of figure and table captions.
+
+A second option allows for AMS-type conference papers:
+\begin{verbatim} \usepackage[conf]{ametsoc} \end{verbatim}
+In this case, remember that the article class should be:
+\begin{verbatim} \documentclass[twocolumn]{article} \end{verbatim}
+
+In any case, the bibliography style is the same:
+\begin{verbatim}
+\bibliographystyle{ametsoc}
+\bibliography{../mybib} %common bib for all papers.
+\end{verbatim}
+
+\subsection{Citing styles}
+Citing is done using the natbib package.
+Research by~\citet{Doswell} uses the CSI~\citep{csi}.
+Note the two cites here ...
+\begin{itemize}
+\item citep will do this:~\citep{csi} i.e. in {\bf p}arantheses
+\item citet will do this:~\citet{Doswell} i.e. in {\bf t}ext flow
+\end{itemize}
+
+Several books and theses~\citep{goldberg, dejong} cover genetic algorithms.
+Conference papers such as \citet{annie} report work in progress.
+Citing the same author(s)~\citep{aires} twice produces dashes in the reference
+list.
+
+\subsection{Formatting}
+The formatting of sections, subsections, etc.
+in the AMS format is automatically taken care of.
+
+Math, e.g: $a^{b^c}$, works as normal.
+
+
+\begin{acknowledgement}
+I found the LaTeX companion especially helpful.
+Email me at lakshman@nssl.noaa.gov if you have any comments/questions.
+\end{acknowledgement}
+
+\bibliographystyle{ametsoc}
+\bibliography{samplebib}  %In reality, I share a common bibfile across papers.
+
+\end{document}

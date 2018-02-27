@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" styles="unlocked" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0.1" xml:space="preserve" props="dom-dir:ltr; lang:en-US">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="dc.format">application/x-abiword</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="abiword.date_last_changed">Mon Dec  8 18:52:49 2003</m>
+</metadata>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="text-indent:0in; margin-top:0pt; margin-left:0pt; font-stretch:normal; line-height:1.0; text-align:left; bgcolor:transparent; lang:en-US; dom-dir:ltr; margin-bottom:0pt; text-decoration:none; font-weight:normal; font-variant:normal; color:000000; text-position:normal; font-size:12pt; margin-right:0pt; font-style:normal; widows:2; font-family:Times New Roman"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Normal">Welcome</p>
+<p style="Normal"><c></c>Walt Dabberdt, Vaisala (Fred Carr, OK and Tom Schlatter, NOAA)</p>
+<p style="Normal"><c></c></p>
+<p style="Normal">devclop a roadmap to observing network</p>
+<p style="Normal">serve multiple applications</p>
+<p style="Normal">business model to support these networks</p>
+<p style="Normal">New model involving all three sectors in building a network versus the old method</p>
+<p style="Normal">Paper to go to BAMS and NWS admins</p>
+<p style="Normal"><c></c></p>
+<p style="Normal">----------------------------------------------------------------------------</p>
+<p style="Normal">Nelson Seaman "Weather Service Perspective"  (Hayes sick)</p>
+<p style="Normal">Science and Technology Infusion</p>
+<p style="Normal"><c></c>Grand challenges</p>
+<p style="Normal">	WRF</p>
+<p style="Normal">	Integrated Regional Observing System  (IROS)</p>
+<p style="Normal">Science and Technology advances, going well on limited budgets</p>
+<p style="Normal">2% of what NCEP produces gets to the WFO</p>
+<p style="Normal">Meaningful accessment of NWP</p>
+<p style="Normal">Earth Systems Modeling framework</p>
+<p style="Normal">Three Phase</p>
+<p style="Normal">	I-Develop and Implement, collaboration</p>
+<p style="Normal">	Goals -&gt; Sustainable and repetible process</p>
+<p style="Normal">		Release for research</p>
+<p style="Normal">	II - Flow new science into WRF</p>
+<p style="Normal">		Show shortfalls in Phase I code base</p>
+<p style="Normal">	III - Extend WRF into other modeling areas</p>
+<p style="Normal">IROS</p>
+<p style="Normal">	Water vapor is critical</p>
+<p style="Normal">	Better sense the PBL</p>
+<p style="Normal">	Leverage non-NOAA systems</p>
+<p style="Normal"><c></c>90% of presidential disaster relief is from storms</p>
+<p style="Normal"></p>
+<p style="Normal">-----------------------------------------------------------------------------</p>
+<p style="Normal">Maria Pirone AER inc, Implementation Aspects</p>
+<p style="Normal">public-private-academic sector partnerships</p>
+<p style="Normal">Scope and diversity is second to none of services</p>
+<p style="Normal">Overlap causes lots of friction</p>
+<p style="Normal">ameliorated</p>
+<p style="Normal">Two NRC reports and a DOT report highly optimistic on partnerships</p>
+<p style="Normal">All of these networks, but no way to put them together</p>
+<p style="Normal">Government networks should be publically available</p>
+<p style="Normal">Have pow-wows to discuss mutual interests.</p>
+<p style="Normal">Figure showing "Environmental Information Tree"</p>
+<p style="Normal">How do these partnerships sustain themselves</p>
+<p style="Normal">What makes a good partnership?  Having a common goal, analogy of marriage again</p>
+<p style="Normal">Cultural differences between public and private sector</p>
+<p style="Normal">Power companies have sensors at transmission locations?</p>
+<p style="Normal">need to rethink how we attack a nationwide mesoscale network</p>
+<p style="Normal">Ken Crawford is aggregating data in Oklahoma, a new approach</p>
+<p style="Normal">Problem of private sector not supporting the benchmarks of the data because of cost</p>
+<p style="Normal">tout AWS as a great benefit to NWS</p>
+<p style="Normal">AWS network rivals the ASOS</p>
+<p style="Normal"><c></c></p>
+<p style="Normal">-------------------------------------------------------------------</p>
+<p style="Normal">Juanzhen Sun, NCAR, MM5, RAP</p>
+<p style="Normal">Advanced Modeling and Data Assimulation Systems</p>
+<p style="Normal">Severe Weather challenges</p>
+<p style="Normal">	QPF, data assimilation, microphysics, soil initialization</p>
+<p style="Normal">Observational needs</p>
+<p style="Normal">	all good stuff</p>
+<p style="Normal">AWS obs improved forecasts in Korea</p>
+<p style="Normal">Radial velocity improved forecasts in the MM5, but after 9 hours it hurt the forecast</p>
+<p style="Normal">VAD winds were important to produce a right turning super cell.</p>
+<p style="Normal">Land data assimilation importance on generating rainfall...</p>
+<p style="Normal">Challenges of hydrology are contingent on forecasting the severe weather which brings rain</p>
+<p style="Normal">Able to retrieve microphysical parameters from the polarmetric radar</p>
+<p style="Normal">Polarmetric radars do a better job on estimating rainfall, possibly better algorithms</p>
+<p style="Normal">NCAR working on multi-radar wind direction combination to assemble low level winds</p>
+<p style="Normal">Chemical emergency response importance</p>
+<p style="Normal">Sonic anemometers are critical for modeling chemical transport</p>
+<p style="Normal">She posed the questions that are supposed to be answered in this workshop</p>
+<p style="Normal">Can mesoscale observations impact long term forecast? Yes, small scale to large scale</p>
+<p style="Normal"><c></c></p>
+<p style="Normal">----------------------------------------------------------------------</p>
+<p style="Normal">Marty Ralph, with Ken Crawford -- Test Beds</p>
+<p style="Normal">What is a testbed?</p>
+<p style="Normal">feasible because of the expanse of the Internet, mobile instrumnentation, modeling capacity</p>
+<p style="Normal">observational testbeds.  Profilers tested in NE and California</p>
+<p style="Normal">chart with relative humidity per wind direction</p>
+<p style="Normal">testbeds should have a specific focus</p>
+<p style="Normal">testbed flexibility</p>
+<p style="Normal">CAOS build a backbone for coastal and ocean observation</p>
+<p style="Normal">general use of the word testbed, not sure what is being implied here</p>
+<p style="Normal">weather data becomes climate data without us even concerning</p>
+<p style="Normal">ocean.us - cosnsortium of Ocean users and groups</p>
+<p style="Normal">'putting dots on a map', building a testbed</p>
+<p style="Normal"><c></c></p>
+<p style="Normal">------------------------------------------------------------------------------</p>
+<p style="Normal">Isztar Zawadzki, Nowcasting, McGill U</p>
+<p style="Normal">EVIL -&gt; Elevated Vertically Integrated Liquid</p>
+<p style="Normal">detect super cooled water with a home ground vertically pointing X-band RADAR</p>
+<p style="Normal">MAPLE algorthim for moving storm cells</p>
+<p style="Normal">Scale depandence of predictability</p>
+<p style="Normal">scales between 16-32 km are not predictable over 1 hour</p>
+<p style="Normal">Optimal MAPLE, get rid of the scales that are not predictable.  Only predict was can be </p>
+<p style="Normal">Lagranian Tendency can not work for predicting</p>
+<p style="Normal">After about 3 hours of lead time, changing area does not help</p>
+<p style="Normal">predictability is highly related to climatology</p>
+<p style="Normal">loop of rainfall probability versus hour...</p>
+<p style="Normal">Tell if the network of gauges hit the maximum value by comparison with the RADAR</p>
+<p style="Normal">At what point to models and nowcasts communicate with each other</p>
+<p style="Normal">Surface mixing ratio is key to go the job in nowcasting</p>
+<p style="Normal">C-MOST  Cooperative Mesoscale Observating System Testbed</p>
+<p style="Normal"><c></c></p>
+<p style="Normal">-------------------------------------------------------</p>
+<p style="Normal">Comments by working group leaders</p>
+<p style="Normal">Joe Friday -&gt; Implementation Issues, borrowed slides from Rick Anthes</p>
+<p style="Normal">operational means institutional committment</p>
+<p style="Normal">System is needed rather than a collection of sensors</p>
+<p style="Normal">Multiple users for data and forecasts</p>
+<p style="Normal">best practices to meeting the needs of the partners</p>
+<p style="Normal">Balances need to be worked out in data sharing.</p>
+<p style="Normal">100% owned networks can be available</p>
+<p style="Normal">Don't micromanage moving forward</p>
+<p style="Normal"><c></c>-------------</p>
+<p style="Normal">Xiaolei Zou -&gt; Modeling and Data Assimilation</p>
+<p style="Normal">13 questions to stimulate discussion</p>
+<p style="Normal">A single PI can not swim through all of the data to do enough analysis</p>
+<p style="Normal">TOMS Ozone incorperating made a big difference in winter storm prediction in WSH</p>
+<p style="Normal">Advanced visualization is an issue</p>
+<p style="Normal">"spin-down" problem of incorperating rainfall into model and then model no likey</p>
+<p style="Normal">question about ensemble of data assimilation systems?  Yikes.</p>
+<p style="Normal">question about comparing atmospheric vectors of variables and not single parameters..</p>
+<p style="Normal"><c></c>----------------</p>
+<p style="Normal">Marty Ralph, Ken Crawford -&gt; Test beds</p>
+<p style="Normal">What is a testbed?  Key elements?</p>
+<p style="Normal">Concept of a test and refine loop</p>
+<p style="Normal">simulatenous addressing of nowcasting and NWP issues. EX-&gt;NEXRAD</p>
+<p style="Normal">intriguing talk between NWP and nowcasting</p>
+<p style="Normal">regional issues of testbeds and instrumentation</p>
+<p style="Normal">how to transition test beds into operational use</p>
+<p style="Normal">objectively analyze the capabilities of networks</p>
+<p style="Normal">question about market value of products from the testbed.</p>
+<p style="Normal">----------------------</p>
+<p style="Normal">nowcasting- Pat Welch</p>
+<p style="Normal">0-6 nowcast</p>
+<p style="Normal">NRC report "Beyond NEXRAD"</p>
+<p style="Normal">communications cost kill networks</p>
+<p style="Normal">who will fund?</p>
+</section>
+</abiword>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" styles="unlocked" version="2.0.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" props="lang:en-US; dom-dir:ltr">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="dc.format">application/x-abiword</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="abiword.date_last_changed">Wed Dec 10 12:14:34 2003</m>
+</metadata>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="text-indent:0in; margin-top:0pt; margin-left:0pt; font-stretch:normal; line-height:1.0; text-align:left; bgcolor:transparent; lang:en-US; dom-dir:ltr; margin-bottom:0pt; font-weight:normal; text-decoration:none; font-variant:normal; color:000000; text-position:normal; font-size:12pt; margin-right:0pt; font-style:normal; widows:2; font-family:Times New Roman"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Normal">Notes for the Testbeds session:</p>
+<p style="Normal"><c></c></p>
+<p style="Normal">Clear definition of testbed?</p>
+<p style="Normal">Steve Pritchett, COOP modernization plan</p>
+<p style="Normal">SPORT - Short </p>
+<p style="Normal">STORMnet</p>
+<p style="Normal">Penn State is doing large eddy simulations</p>
+<p style="Normal"><c></c>UAH partnership with local TV station to put in polarimetric RADAR</p>
+<p style="Normal">Interesting modeling issues of Hawaii</p>
+<p style="Normal">Wendell Nuss, mesonet for central California</p>
+<p style="Normal">NAOS - North American Observing System</p>
+<p style="Normal">Importance of Universities to advocate for money from NSF to move things forward</p>
+<p style="Normal"><c></c>Lessons Learned from PACJET:</p>
+<p style="Normal">	testbed to link operations, researchers, and techs, decision makers</p>
+<p style="Normal">	Maintain a level of activity to build a testbed</p>
+<p style="Normal">	Recon over the Russian River in California detected a SVR</p>
+<p style="Normal">	Objective Capabilities and Limitations</p>
+<p style="Normal">Defined objectives with test beds versus research test beds to observe</p>
+<p style="Normal">Define with testbeds what you are testing</p>
+<p style="Normal">Can't say exactly what will come out of a testbed before you start, you can't just say that I need x sensors at y locations and then we will get Z result.</p>
+<p style="Normal">Difference between R&amp;D and Operational observational networks</p>
+<p style="Normal">Understanding the limitation of testbeds, that they can't considered completely operational</p>
+<p style="Normal">When a site goes down, there is nothing that can be done...</p>
+<p style="Normal">Number one goal, 'Ultimate delivery to decision makers'</p>
+<p style="Normal">Profilers can see bright banding and the fall velocity changes from snow to rain</p>
+<p style="Normal">See the users which can use the testbed for other purposes</p>
+<p style="Normal">BAMS article on the research needs of the private sector</p>
+<p style="Normal">Start with societal benefits</p>
+<p style="Normal">Data assimilation is another realm</p>
+<p style="Normal">Societal needs are needed for the solutions that a testbed can bring to bare</p>
+<p style="Normal">Open-system</p>
+<p style="Normal"><c props="font-weight:bold">"Testbed is a end-to-end system"</c><c props="font-weight:bold"></c>, is this true?</p>
+<p style="Normal">Prototyping, who the test bed materialize</p>
+<p style="Normal">Bring in the other folks at the onset</p>
+<p style="Normal">How does the feedback process work to keep folks involved in the testbed process?</p>
+<p style="Normal">Does the testbed accelerate the transition of research of operation?</p>
+<p style="Normal">Physical aspect +system concept </p>
+<p style="Normal">testbed shows the sensitivity of an outcome to the presence of the testbed</p>
+<p style="Normal">testbed can't just show pretty pictures</p>
+<p style="Normal">Cash cows come home to roost.  Who will part with their data?</p>
+<p style="Normal">Stove pipes will be eliminated with new testbeds?  But how?</p>
+<p style="Normal">testing hypothesis of observing systems to a wider scale?</p>
+<p style="Normal">Must be able to adjust to the science coming out of the testbed</p>
+<p style="Normal">Negative result reporting must be accepted as an output of a testbed</p>
+<p style="Normal">The ability to interchange parts of a testbed to see what makes a difference</p>
+<p style="Normal">different performance metrics for the same networks</p>
+<p style="Normal">limiting your solution domain so that the testbed is successful</p>
+<p style="Normal">Discussion about the profiler network</p>
+<p style="Normal">It was not well known how to use the Profiler data in modeling, and that was an early problem</p>
+<p style="Normal">Two components, human and physical components</p>
+<p style="Normal">End users do not want data, they want products and services</p>
+<p style="Normal">Arbitur of validation of a testbed</p>
+<p style="Normal">Operational nature of a testbed</p>
+<p style="Normal">Joe Golden, FSL</p>
+<p style="Normal">	Dejavu about the approach we have previously taken</p>
+<p style="Normal">	Importance of serenpetius nature of testbeds</p>
+<p style="Normal">	Money is not the most important</p>
+<p style="Normal">	SBIR -&gt; Small Business Investiment? Research</p>
+<p style="Normal">	Propose 1 testbed per region</p>
+<p style="Normal">Looks at where the requirements of a testbed can be facilitated</p>
+<p style="Normal"><c></c></p>
+<p style="Normal">Wednesday session-------</p>
+<p style="Normal">What is a testbed?</p>
+<p style="Normal">	Enable NOAA &amp; Others to implement a regional observation system that supports the improvement of services to greatest cross-section.</p>
+<p style="Normal">Components</p>
+<p style="Normal">	working relationship</p>
+<p style="Normal">	quasi-operational framework</p>
+<p style="Normal">	forecasters, acedemic, private, users, govt agencies</p>
+<p style="Normal">	solving regional problems through improved products and services</p>
+<p style="Normal">	strong connection to end users</p>
+<p style="Normal">What is does?</p>
+<p style="Normal">	Aggregate</p>
+<p style="Normal">	Assimilate</p>
+<p style="Normal">	Display</p>
+<p style="Normal">	Dissemiate</p>
+<p style="Normal">	Analyze</p>
+<p style="Normal">	Archive</p>
+<p style="Normal">Does it accelerate transitions of R&amp;D to better operations, services &amp; decisions by users?</p>
+<p style="Normal">The chicago school as a great testbed for merging operations and forecastings</p>
+<p style="Normal">Test and evaluation loop</p>
+<p style="Normal">Problem of overdefining the testbed</p>
+<p style="Normal">The core of the testbed is necessary for the testbed to be successful</p>
+<p style="Normal"><c></c></p>
+</section>
+</abiword>

@@ -1,0 +1,79 @@
+From wgallus@iastate.edu Sun Dec  7 22:32:25 2003
+Date: Tue, 18 Nov 2003 12:06:56 -0600 (CST)
+From: wgallus@iastate.edu
+To: Daryl Herzmann <akrherz@iastate.edu>
+Subject: Re: USWRP Workshop 
+
+Daryl,
+
+I think you'll want to comment for sure on the IEM and experiences here.
+
+My bigger concern would be with regard to the 2nd workshop.  Many groups 
+around the country are already doing real-time forecasting helping nearby 
+NWS offices.  We aren't really involved in that (although you and Dave did 
+or still do some MM5/ETA runs), but we have tons of expertise on warm 
+season issues, and do research runs all the time.  It is simply by choice 
+we haven't established a regional prediction center here.   If the 
+workshop begins discussion about actually setting up a network of regional 
+sites doing prediction, I'd like it if you can make a strong case that ISU 
+would like to represent the Corn Belt area.  In other words, we don't want 
+to be overlooked just because we don't do what U of Wash or OU-CAPS are 
+already doing.   The vast majority of all of our yearly precip happens in 
+summer convective systems, which normally happen at night.  This is a 
+unique weather situation and one that we have lots of experience 
+addressing.  If needed, our ammo includes:
+1) expertise in studying the LLJ
+2) expertise in land/surface impacts on weather/precip
+3) we run locally MM5, WRF, and ETA and could run all in real-time
+4) we are engaged in mixed physics/mixed model ensemble work and might be 
+able to do a limited size ensemble in real time
+5) we have even looked at neural network systems for prediction and could 
+tie in things like that.
+
+I think Cliff Mass, the organizer, is aware of all of this because he said 
+some nice things to me in Canada in Sept.  But, with me not there and ISU 
+not doing daily forecasts, if they do get aggressive and plan on a 
+national network of regional prediction centers, you may have to speak up, 
+because Chris and I (at the least) think ISU should be a player.
+
+Bill
+
+
+
+  On 
+Fri, 14 Nov 
+2003, Daryl 
+Herzmann wrote:
+
+> All,
+> 
+> During the second week of December, I will be attending the USWRP 
+> workshop at NCAR outlined here
+> 
+> http://www.mmm.ucar.edu/uswrp/upcoming_meetings/announcement2.html
+> 
+> This is a two part workshop with the first part focusing on Mesonets and 
+> the second part on Regional Weather Prediction.
+> 
+> Mesoscale Observing Networks
+>  http://www.mmm.ucar.edu/uswrp/upcoming_meetings/announcement2.html#agenda
+> 
+> Regional Weather Prediction
+>   http://www.atmos.washington.edu/~cliff/realwork.htm
+> 
+> Since I believe I am the only one attending from ISU,  please let me know 
+> of your comments after reviewing the online info.  I can try to have the 
+> group address any issues you have...
+> 
+> Perhaps a 30 minute debriefing is in order when I return.  Should be lots 
+> of fun.
+> 
+> Daryl
+> 
+> /**
+>  * Daryl Herzmann (akrherz@iastate.edu)
+>  * Program Assistant -- Iowa Environmental Mesonet
+>  * http://mesonet.agron.iastate.edu
+>  */
+> 
+

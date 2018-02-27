@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" styles="unlocked" version="2.0.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" props="lang:en-US; dom-dir:ltr">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="dc.format">application/x-abiword</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="abiword.date_last_changed">Wed Dec 10 15:58:38 2003</m>
+</metadata>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="text-indent:0in; margin-top:0pt; margin-left:0pt; font-stretch:normal; line-height:1.0; text-align:left; bgcolor:transparent; lang:en-US; dom-dir:ltr; margin-bottom:0pt; font-weight:normal; text-decoration:none; font-variant:normal; color:000000; text-position:normal; font-size:12pt; margin-right:0pt; font-style:normal; widows:2; font-family:Times New Roman"/>
+</styles>
+<lists>
+<l id="1000" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+</lists>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Normal">Notes for Wednesday</p>
+<p style="Normal">Reports back from the working groups</p>
+<p style="Normal">::Implementation::</p>
+<p style="Normal">Need to establish a legal framework for the PPAP relationship</p>
+<p style="Normal">Government can not accept money that was not appropriated to it</p>
+<p style="Normal">Some believe that the government should be generating value added products and selling them, but that is against the law and legistlation would have to be written in order for that to happen</p>
+<p style="Normal">::Model &amp; Data Assimilation::</p>
+<p style="Normal">lack of mesoscale model validation data on a continuing basis</p>
+<p style="Normal">profilers can derivc the height field, but only a hydrostatic atmosphere.  Kock derivation!</p>
+<p style="Normal">Field tests need to have 4D data</p>
+<p style="Normal">The problems of data assimilation and the problem of the first guess field</p>
+<p style="Normal">::Testbeds group::</p>
+<p style="Normal">My group</p>
+<p style="Normal">Problem of test beds being tied with the modeling efforts</p>
+<p style="Normal">mesoscale models will always loose to NCEP models because the standard stats will penalize the interruptation of fine scale features</p>
+<p style="Normal">::Nowcasting::</p>
+<p style="Normal">scale is on the order of 100 meters</p>
+<p style="Normal">need something to move forward as a recommendation in the paper</p>
+<p style="Normal">Analysis has primarily been for model initialization</p>
+<p style="Normal">FSL MADIS needs to be nationalized with more participation</p>
+<p style="Normal">Latencies are a problem</p>
+<p style="Normal"><c></c></p>
+<p style="Normal">//////////Wednesday afternoon////////</p>
+<p style="Normal">::nowcasting::</p>
+<p style="Normal">nowcasting testbed</p>
+<p style="Normal">recommend that USWRP establish some sort of working group to then establish the workshop</p>
+<p style="Normal">::modeling and data assim::<br/>100km profilers would be needed to resolve upperlevel fronts</p>
+<p style="Normal">Kalman filter/smoother approaches</p>
+<p style="Normal">NWS has very primative standards for how sensors are deemed as valid</p>
+<p style="Normal">::testbeds::<br/>Us again</p>
+<p style="Normal">present the definition</p>
+<p style="Normal">benefit of coordination</p>
+<p style="Normal">::Implementation::</p>
+<p style="Normal">Trying to present the business model</p>
+<p style="Normal">Data has to go somewhere</p>
+<p style="Normal">Bring closure to sustainability</p>
+<p style="Normal">Four business models</p>
+<p level="1" listid="1000" parentid="0" style="Normal" props="start-value:1; text-indent:-0.3000in; list-style:Numbered List; field-font:NULL; margin-left:0.5000in"><c props="list-tag:1001"></c><field type="list_label" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal">	Consortium collects data and revenue is shared</c></p>
+<p level="1" listid="1000" parentid="0" style="Normal" props="start-value:1; text-indent:-0.3000in; list-style:Numbered List; field-font:NULL; margin-left:0.5000in"><c props="width:0in; list-tag:1002; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal">	Consortium collects data and each member is in charge of generating data</c></p>
+<p level="1" listid="1000" parentid="0" style="Normal" props="start-value:1; text-indent:-0.3000in; list-style:Numbered List; field-font:NULL; margin-left:0.5000in"><c props="width:0in; list-tag:1003; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal">	Consortium invests in the mesonet, data openly available, private sector adds value</c></p>
+<p level="1" listid="1000" parentid="0" style="Normal" props="start-value:1; text-indent:-0.3000in; list-style:Numbered List; field-font:NULL; margin-left:0.5000in"><c props="width:0in; list-tag:1004; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal">	Additional funding is always needed to keep the mesonet going</c></p>
+<p style="Normal" props="text-indent:0in; margin-left:0pt"><c props="width:0in; font-family:Times New Roman; display:inline; color:000000; font-weight:normal; text-position:normal; lang:en-US; font-style:normal; font-variant:normal; bgcolor:transparent; homogeneous:1; text-decoration:none; height:0in; font-size:12pt; font-stretch:normal"></c></p>
+<p style="Normal" props="text-indent:0in; margin-left:0pt"><c props="width:0in; font-family:Times New Roman; display:inline; color:000000; font-weight:normal; text-position:normal; lang:en-US; font-style:normal; font-variant:normal; bgcolor:transparent; homogeneous:1; text-decoration:none; height:0in; font-size:12pt; font-stretch:normal">Should the government disseminate products available to the consortium?</c></p>
+<p style="Normal" props="text-indent:0in; margin-left:0pt"><c props="width:0in; font-family:Times New Roman; display:inline; color:000000; font-weight:normal; text-position:normal; lang:en-US; font-style:normal; font-variant:normal; bgcolor:transparent; homogeneous:1; text-decoration:none; height:0in; font-size:12pt; font-stretch:normal">Should the government create value added products?</c></p>
+<p style="Normal" props="text-indent:0in; margin-left:0pt"><c props="width:0in; font-family:Times New Roman; display:inline; color:000000; font-weight:normal; text-position:normal; lang:en-US; font-style:normal; font-variant:normal; bgcolor:transparent; homogeneous:1; text-decoration:none; height:0in; font-size:12pt; font-stretch:normal">Which model can the govt participate in?</c></p>
+<p style="Normal" props="text-indent:0in; margin-left:0pt"><c props="width:0in; font-family:Times New Roman; display:inline; color:000000; font-weight:normal; text-position:normal; lang:en-US; font-style:normal; font-variant:normal; bgcolor:transparent; homogeneous:1; text-decoration:none; height:0in; font-size:12pt; font-stretch:normal">Things get messy when the private sector is involved.</c></p>
+<p style="Normal" props="text-indent:0in; margin-left:0pt"><c props="width:0in; font-family:Times New Roman; display:inline; color:000000; font-weight:normal; text-position:normal; lang:en-US; font-style:normal; font-variant:normal; bgcolor:transparent; homogeneous:1; text-decoration:none; height:0in; font-size:12pt; font-stretch:normal"></c></p>
+<p style="Normal" props="text-indent:0in; margin-left:0pt"><c props="width:0in; font-family:Times New Roman; display:inline; color:000000; font-weight:normal; text-position:normal; lang:en-US; font-style:normal; font-variant:normal; bgcolor:transparent; homogeneous:1; text-decoration:none; height:0in; font-size:12pt; font-stretch:normal"></c></p>
+</section>
+</abiword>
