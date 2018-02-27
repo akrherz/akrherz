@@ -1,6 +1,6 @@
 <?php
-include("/mesonet/www/apps/iemwebsite/config/settings.inc.php");
-include("/mesonet/www/apps/iemwebsite/include/myview.php");
+require_once "/opt/iem/config/settings.inc.php";
+require_once "/opt/iem/include/myview.php";
 
 $t = new MyView();
 $t->title = "Presentations";
@@ -163,6 +163,12 @@ $t->content = <<<EOF
 
 <tr><td><a href="/present/171012_eod/">2017 Oct 12</a></td><td>ISU GIS Earth Observation Day
 <br /><strong>Title:</strong> IEM + GIS + Other Acronyms</td><td>Ames, IA</td></tr>
+
+<tr><td><a href="/present/180221_interop/">2018 Feb 21</a></td><td>Emergency Interoperability Consortium
+<br /><strong>Title:</strong> NWS Valid Time Event Code (VTEC)</td><td>Virtual</td></tr>
+
+<tr><td><a href="/present/180227_bigdata/">2018 Feb 27</a></td><td>Big Data for (Sm)all Farmers Workshop
+<br /><strong>Title:</strong> Big Weather Data for (sm)all Farmers</td><td>Ames, IA</td></tr>
 
 </tbody>
 </table>
