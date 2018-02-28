@@ -1,0 +1,128 @@
+From Ben@unidata.ucar.edu Fri May 20 14:53:44 2016
+Date: Fri, 20 May 2016 13:53:11 -0600
+From: Ben Domenico <Ben@unidata.ucar.edu>
+To: Mike Schmidt <mschmidt@ucar.edu>
+Cc: Jennifer Oxelson Ganter <oxelson@ucar.edu>, Daryl Herzmann <akrherz@iastate.edu>
+Subject: Re: Ancient Email Request
+
+Mike,
+
+I think you've hit the jackpot for Daryl and me in terms of finding that
+ancient history email thread.   I'll send a copy of this to Daryl to
+confirm it's the one he was thinking of.   Daryl and I owe you a beer or
+two (cases) for this.   Many many thanks.   It brings back great memories
+of a wonderful time for me.
+
+--  Ben
+
+On Fri, May 20, 2016 at 1:25 PM, Mike Schmidt <mschmidt@ucar.edu> wrote:
+
+> Ben,
+>
+> What about this;
+>
+>
+> ---------------------------------------------------------------------------------------
+>
+> From: "Ben Domenico" <ben@unidata.ucar.edu>
+> To: "Daryl Herzmann" <akrherz@iastate.edu>
+> Cc: <idd-connect@unidata.ucar.edu>
+> Subject: RE: Info and a Question...
+> Date: Thu, 17 Jun 1999 08:05:24 -0600
+> Keywords: 199906170456.WAA10952
+> Message-ID: <003301beb8ca$71e6ac80$3b8c7580@unidata.ucar.edu>
+> MIME-Version: 1.0
+> Content-Type: text/plain;
+>         charset="iso-8859-1"
+> Content-Transfer-Encoding: 7bit
+> X-Priority: 3 (Normal)
+> X-MSMail-Priority: Normal
+> X-Mailer: Microsoft Outlook 8.5, Build 4.71.2377.0
+> X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+> In-Reply-To: <199906170456.XAA05083@pv70ed.vincent.iastate.edu>
+> Importance: Normal
+> Status: RO
+> X-Status:
+> X-Keywords:
+>
+> Daryl,
+>
+> I'm not sure I understand your question.  The way the IDD works, you
+> would simply make arrangements within your department to have an IDD
+> feed from the machine there (whether you can stand IRIX or not) into the
+> machine you want to work with.  It doesn't make sense to have multiple
+> feeds of the same datastreams going into ISU from the outside.  In other
+> words, this is an internal matter within your department.  Are there
+> difficulties getting approval from the department people who run the IDD
+> there.  If so, I guess we'd have to be pretty careful about setting up
+> an arrangement which skirts their concerns and doubles the bandwidth
+> taken up by the datafeeds into ISU.
+>
+> On the other hand, if they approve of the work, then have the main ISU
+> IDD machine feed the one you want to work on.
+>
+> Also I'm wondering if Katy Ginger has contacted you about participating
+> in her work on indexing the education materials on your web servers.
+> She and I just redid the indexing system at PAGE and it appears that it
+> may not be indexing as much as it could from ISU.  When you get a
+> chance, please take a look at it http://danny.page.ucar.edu:9020.
+> Thanks.
+>
+> It's good to hear from you again.  I hope this helps.
+>
+> --Ben
+> __________________________________________
+>    Ben Domenico                Unidata Deputy Director
+>    http://www.unidata.ucar.edu           P.O. Box 3000
+>    ben@unidata.ucar.edu              Boulder, CO 80307
+>    (303)497-8631                    FAX: (303)497-8690
+>
+>
+> > -----Original Message-----
+> > From: Daryl Herzmann [mailto:akrherz@iastate.edu]
+> > Sent: Wednesday, June 16, 1999 10:57 PM
+> > To: idd-connect@unidata.ucar.edu
+> > Subject: Info and a Question...
+> >
+> >
+> > Site Name : Iowa State University
+> >
+> > Site Administrator:  Daryl Herzmann
+> >
+> > Email: akrherz@iastate.edu
+> >
+> > Phone:  1-515-572-6033
+> >
+> > IDD:  westgate-190-205.res.iastate.edu ...
+> >
+> > Greetings,
+> >
+> >       I have a question for you.  I am not exactly sure if I
+> > am allowed to recieve a data pipe from you.  I am a junior in
+> > Meteorology with a deep interest in weather data processing.
+> > My department at Iowa State University allready receives data
+> > from you, but it is on a system that I can not stand to work
+> > with (IRIX 6.5.3), anyway...
+> >       I would like to set up my machine as a data chunker
+> > with your data.  I am interested in database, web, and GUI
+> > products maintained in Linux 2.0 .  My question is whether or
+> > not, I am allowed to do this...
+> >       If you would prefer not to do this, that would be fine
+> > as well...  But I think that I can do things that would be
+> > mutually benificial to both parties..
+> >
+> > Thanks for your time,
+> >
+> > respectfully,
+> >               Daryl Herzmann
+> >
+> > ------------------+
+> >       Daryl Herzmann
+> >       akrherz@iastate.edu
+> > Web Work:
+> >       site administrator @ www.pals.iastate.edu
+> >       systems support @ www.iitap.iastate.edu
+> >       systems support @ www.pircs.iastate.edu
+>
+>
+>
