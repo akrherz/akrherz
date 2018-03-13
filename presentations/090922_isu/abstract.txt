@@ -1,0 +1,8 @@
+Title: IEM Potpourri
+
+Abstract: Since 2001, the Iowa Environmental Mesonet (IEM) has been 
+efforting the collection of various datasets.  This effort has yielded a 
+data warehouse over two terabytes in size and a good number of 'war 
+stories' detailing its acquisition.  This presentation will provide a 
+"potpourri" of caveats, gotchas, catch-22s, and disclaimers to many of the 
+datasets researchers use every day, some of them provided by the IEM.  
