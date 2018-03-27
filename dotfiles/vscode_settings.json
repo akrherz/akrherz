@@ -12,5 +12,7 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true
-    }
+    },
+    "python.linting.flake8Enabled": true,
+    "python.linting.pep8Enabled": true
 }

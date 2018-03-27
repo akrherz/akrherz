@@ -5,4 +5,6 @@ ignored-modules=numpy
 variable-rgx=[a-z_][a-z0-9_]{1,30}$
 [MESSAGES CONTROL]
 # Don't whine about catching bare exceptions
-disable=W0703
+# bad-continuation is busted see https://github.com/PyCQA/pylint/issues/747
+disable=W0703,
+  bad-continuation
