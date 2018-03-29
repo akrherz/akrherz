@@ -1,0 +1,59 @@
+# select count(*), phenomena, avg( area(transform(geom, 2163)) ) from warnings_2006 WHERE gtype = 'P' GROUP by phenomena;
+ count | phenomena |       avg
+-------+-----------+------------------
+  3385 | MA        | 3463492186.44138
+  3406 | FF        | 1932808511.52821
+  2758 | TO        |  897018583.41466
+ 24024 | SV        | 1175341135.44903
+
+# select phenomena, avg(s) from (select phenomena, eventid, wfo, sum( area(transform(geom, 2163)) ) as s from warnings_2006 WHERE significance = 'W' and gtype = 'C' GROUP by phenomena, eventid, wfo) as foo GROUP by phenomena;
+ phenomena |       avg
+-----------+------------------
+ BZ        | 32438298270.1351
+ CF        | 5714500986.21949
+ DS        | 18905782739.8863
+ EH        | 41642575346.7558
+ FW        | 41138699355.3943
+ FZ        |  27587205711.483
+ GL        | 7000769722.71335
+ HI        | 5809987056.53516
+ HS        | 26687557244.4859
+ HW        | 21034016055.8155
+ IS        | 14202335479.6079
+ LE        | 6883801143.34386
+ MA        | 8311466113.62591
+ SV        | 3935151633.22503
+ TI        | 14134923127.3096
+ TO        | 3077641818.80033
+ WC        | 46426242233.0177
+ WS        | 28816146806.9404
+
+# select count(*), phenomena, avg( area(transform(geom, 2163)) ) from
+# warnings_2005 WHERE gtype = 'P' GROUP by phenomena;
+ count | phenomena |       avg
+-------+-----------+------------------
+  3497 | FF        |  2716785587.1166
+  1016 | MA        | 4496697140.83785
+     2 |           | 1602719616.68085
+  2979 | TO        | 1037065564.27891
+ 21218 | SV        | 1293230234.18805
+
+
+# select phenomena, avg(s) from (select phenomena, eventid, wfo, sum(
+# area(transform(geom, 2163)) ) as s from warnings_2005 WHERE significance =
+# 'W' and gtype = 'C' GROUP by phenomena, eventid, wfo) as foo GROUP by
+# phenomena;
+ phenomena |       avg
+-----------+------------------
+ BZ        | 26896830481.7676
+ FZ        | 33547191275.5579
+ HS        | 27616428820.9468
+ HW        | 23607062666.9915
+ IS        |   24221201401.52
+ LE        | 8894566638.02024
+ MA        | 12593040497.6261
+ SV        | 4314200623.95968
+ TO        | 3563704013.76516
+ WC        | 25459850469.3808
+ WS        | 23895148492.4808
+
