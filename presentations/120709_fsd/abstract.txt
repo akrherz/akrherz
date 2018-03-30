@@ -1,0 +1,15 @@
+TITLE:  Barnyard Weather Fun: Cows & Raccoons. An update and mussings from
+        the world of storm based warnings, severe weather archives, and
+        general trouble making.
+
+*Abstract: *The Iowa Environmental Mesonet, a project at Iowa State
+University, continues to add to its giant pile of environmental data.
+ Various barnyard animals, including a cow and raccoon, rummage through
+this pile of data, producing products especially tailored for NWS use. On a
+typical farm, these products would be hauled out into the field for
+fertilizer, but in this case they are brought to the NWS office for
+discussion.  The purpose of this talk is to detail these animals, talk
+about the storm based warning system, and plans related to other computer
+systems Daryl develops (NWSChat, nwsbot, etc).
+
+

@@ -1,0 +1,21 @@
+An overused buzz-word currently in academia is 'trans-disciplinary
+research'.  While the concept is altruistic, the implementation in actual
+collaborative research is problematic.  Outside of the traditional
+communication issues between scientists from disparate disciplines, the
+gulf between their computational systems can often be the biggest hurdle.
+For example, hydrologists and meteorologists often struggle with moving
+data between their data systems due to the rather large differences in
+data formats and discipline centric software systems.  Is there a simple
+solution to this? Well no, but the programming language Python presents an
+attractive means to bridge these gaps.
+
+This presentation provides an overview of how Python can be used within   
+the atmospheric science discipline to work with disparate datasets from
+other disciplines and to provide your data to them in formats they can 
+work with.  Concrete examples of using Python to do things include:
+
+ * routing data from Unidata's Local Data Manager (LDM) to Twitter
+ * generating GIS-ready imagery and grids from Grib2 data
+ * doing iterative science with IPython and matplotlib
+ * Using web services to build long time-series datasets.
+
