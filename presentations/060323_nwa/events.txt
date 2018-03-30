@@ -1,0 +1,159 @@
+#  This is a listing of Local Storm reports for this supercell as it trucked
+#  along.  Note that this is not official storm data and I was careful to make
+#  sure all of these reports were from the same storm.
+
+Neodesha [Wilson Co, KS] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 01:15 PM CST
+
+Neodesha [Wilson Co, KS] trained spotter reports HAIL of penny size (E0.75 INCH) at 01:15 PM CST 
+
+10 Sw Chanute [Wilson Co, KS] public reports HAIL of golf ball size (E1.75 INCH) at 01:38 PM CST 
+
+Benedict [Wilson Co, KS] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 01:38 PM CST -- hail shattered every window out of his house and vehicle.
+
+6 Sw Chanute [Wilson Co, KS] public reports HAIL of teacup size (M3.00 INCH) at 01:40 PM CST
+
+Uniontown [Bourbon Co, KS] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 02:16 PM CST 
+
+Devon [Bourbon Co, KS] law enforcement reports HAIL of baseball size (E2.75 INCH) at 02:31 PM CST 
+
+6 W Fort Scott [Bourbon Co, KS] trained spotter reports FUNNEL CLOUD at 02:25 PM CST -- spotter observed funnel cloud 6 miles w of fort scott
+
+Hume [Bates Co, MO] law enforcement reports HAIL of quarter size (E1.00 INCH) at 02:43 PM CST 
+
+Foster [Bates Co, MO] law enforcement reports HAIL of quarter size (M1.00 INCH) at 02:49 PM CST
+
+10 W Clinton [Henry Co, MO] emergency mngr reports HAIL of golf ball size (E1.75 INCHES) at 03:25 PM CST -- golfball
+
+3 W Clinton [Henry Co, MO] trained spotter reports HAIL of nickle size (M0.88 INCHES) at 03:25 PM CST 
+
+Calhoun [Henry Co, MO] amateur radio reports HAIL of nickle size (E0.88 INCHES) at 03:46 PM CST
+
+2 E Calhoun [Henry Co, MO] emergency mngr reports TORNADO at 03:50 PM CST -- debris cloud reported
+
+ 4 E Calhoun [Henry Co, MO] trained spotter reports TORNADO at 03:54 PM CST 
+
+4 Ne Calhoun [Henry Co, MO] trained spotter reports TORNADO at 03:54 PM CST 
+
+1 W Manila [Pettis Co, MO] amateur radio reports FUNNEL CLOUD at 03:55 PM CST -- 3 funnels sighted
+
+3 S Green Ridge [Pettis Co, MO] storm chaser reports TORNADO at 04:05 PM CST -- barn damaged and tree damge reported.
+
+Sedalia [Pettis Co, MO] law enforcement reports HAIL of golf ball size (E1.75 INCHES) at 04:18 PM CST -- golfballs
+
+1 W Sedalia [Pettis Co, MO] storm chaser reports HAIL of ping pong ball size (M1.50 INCHES) at 04:20 PM CST
+
+Otterville [Cooper Co, MO] law enforcement reports TORNADO at 04:30 PM CST -- tornado reported just south of otterville
+
+8 Se Boonville [Cooper Co, MO] trained spotter reports HAIL of nickle size (M0.88 INCHES) at 04:41 PM CST -- pea to nickel size hail reported
+
+Rocheport [Boone Co, MO] trained spotter reports HAIL of quarter size (M1.00 INCH) at 04:55 PM CST 
+
+Midway [Boone Co, MO] public reports HAIL of golf ball size (E1.75 INCH) at 05:00 PM CST 
+
+Columbia [Boone Co, MO] trained spotter reports HAIL of quarter size (E1.00 INCH) at 05:05 PM CST 
+
+Columbia [Boone Co, MO] trained spotter reports TSTM WND GST of E60 MPH at 05:10 PM CST
+
+Columbia [Boone Co, MO] trained spotter reports HAIL of golf ball size (M1.75 INCH) at 05:10 PM CST 
+
+Columbia [Boone Co, MO] trained spotter reports HAIL of teacup size (M3.00 INCH) at 05:15 PM CST -- from a storm spotter
+
+Columbia [Boone Co, MO] trained spotter reports FUNNEL CLOUD at 05:20 PM CST -- possible touchdown. no damage reported at this time.
+
+Columbia [Boone Co, MO] amateur radio reports HAIL of golf ball size (M1.75 INCH) at 05:15 PM CST
+
+Columbia [Boone Co, MO] trained spotter reports HAIL of ping pong ball size (M1.50 INCH) at 05:20 PM CST -- on north side of city.
+
+14 Sw Mexico [Callaway Co, MO] trained spotter reports HAIL of penny size (M0.75 INCH) at 05:25 PM CST
+
+1 W Hatton [Callaway Co, MO] trained spotter reports HAIL of golf ball size (M1.75 INCH) at 05:30 PM CST -- estimated 60 mph winds.
+
+6 W Auxvasse [Callaway Co, MO] trained spotter reports HAIL of golf ball size (M1.75 INCH) at 05:30 PM CST
+
+6 W Auxvasse [Callaway Co, MO] trained spotter reports TSTM WND GST of E60 MPH at 05:30 PM CST 
+
+Mexico [Audrain Co, MO] trained spotter reports HAIL of penny size (M0.75 INCH) at 05:49 PM CST 
+
+Rush Hill [Audrain Co, MO] trained spotter reports HAIL of quarter size (E1.00 INCH) at 06:00 PM CST -- hail covers the ground.
+
+Wellsville [Montgomery Co, MO] trained spotter reports TORNADO at 06:10 PM CST -- looking to the north...possible brief touchdowns. no damage reported.
+
+New Hartford [Pike Co, MO] co-op observer reports TSTM WND DMG at 06:25 PM CST -- trees and power polls snapped
+
+Bowling Green [Pike Co, MO] trained spotter reports HAIL of penny size (E0.75 INCH) at 06:30 PM CST 
+
+Ashley [Pike Co, MO] trained spotter reports TORNADO at 06:30 PM CST -- along highway 161...grain silos damaged...machine shed damaged...trees and power lines down.
+
+Bowling Green [Pike Co, MO] co-op observer reports HAIL of penny size (M0.75 INCH) at 06:32 PM CST
+
+10 Se Louisiana [Pike Co, MO] trained spotter reports HAIL of penny size (E0.75 INCH) at 06:45 PM CST -- near clarksville
+
+1 W Belleview [Calhoun Co, IL] law enforcement reports TSTM WND DMG at 07:05 PM CST -- along highway 96...trees down around the area.
+
+Hillview [Greene Co, IL] law enforcement reports TORNADO at 07:20 PM CST -- several buildings damaged...trees and power lines down.
+
+2 W Barrow [Greene Co, IL] law enforcement reports TORNADO at 07:25 PM CST -- tornado reported on the ground on highway 106.
+
+Alsey [Scott Co, IL] emergency mngr reports TSTM WND DMG at 07:30 PM CST -- power poles down near alsey along route 106.
+
+Murrayville [Morgan Co, IL] emergency mngr reports TSTM WND DMG at 07:45 PM CST -- delayed report. 1 injury in murrayville caused by flying debris. 1 trailer damaged...no power in town...an a 4 inch gas pipe broke in a grain elevator but is capped.
+
+New Berlin [Sangamon Co, IL] emergency mngr reports HAIL of golf ball size (M1.75 INCH) at 07:53 PM CST 
+
+New Berlin [Sangamon Co, IL] emergency mngr reports TSTM WND DMG at 08:04 PM CST -- building damaged in new berlin, along with downed power lines.
+
+Loami [Sangamon Co, IL] emergency mngr reports TORNADO at 08:10 PM CST -- tornado located one half mile north of loami on loami road.
+
+Springfield [Sangamon Co, IL] trained spotter reports HAIL of quarter size (M1.00 INCH) at 08:15 PM CST 
+
+Springfield [Sangamon Co, IL] law enforcement reports TORNADO at 08:26 PM CST -- roof damage to a house on the southwest side of springfield. power transmitter flashes.
+
+Springfield [Sangamon Co, IL] emergency mngr reports TSTM WND DMG at 08:28 PM CST -- roof damage to a retail store on southwest side of springfield.
+
+4 E Loami [Sangamon Co, IL] emergency mngr reports TSTM WND DMG at 08:30 PM CST -- house damaged 4 miles east of loami.
+
+Springfield [Sangamon Co, IL] emergency mngr reports TSTM WND GST of M58 MPH at 08:30 PM CST -- measured at springfield asos.
+
+Springfield [Sangamon Co, IL] amateur radio reports TSTM WND DMG at 08:30 PM CST -- damage to sportmart and gordmans in springfield.
+
+Auburn [Sangamon Co, IL] amateur radio reports TSTM WND DMG at 08:30 PM CST -- railroad sign blown down in auburn blocking the road.
+
+Springfield [Sangamon Co, IL] law enforcement reports TORNADO at 08:30 PM CST -- *** 19 inj *** 19 injuries reported in springfield. several houses severely damaged or leveled... searches underway for occupants. much of city without power. damage from earlier storm... time is estimated due to the scope of situation.
+
+Buffalo [Sangamon Co, IL] co-op observer reports TSTM WND DMG at 08:45 PM CST -- *** 4 inj *** house badly damaged just north of town...4 injuries in the house. numerous grain bins...corn cribs...out buildings and trees destroyed. report from coop observer.
+
+Mount Pulaski [Logan Co, IL] co-op observer reports HAIL of ping pong ball size (M1.50 INCH) at 08:55 PM CST -- reported by mt pulaski coop.
+
+Mount Pulaski [Logan Co, IL] co-op observer reports HAIL of quarter size (M1.00 INCH) at 08:56 PM CST --
+
+Mount Pulaski [Logan Co, IL] co-op observer reports HAIL of ping pong ball size (M1.50 INCH) at 08:59 PM CST 
+
+Latham [Logan Co, IL] emergency mngr reports TSTM WND DMG at 09:00 PM CST -- people trapped in the basement of a house just south of latham.
+
+Latham [Logan Co, IL] emergency mngr reports TSTM WND DMG at 09:00 PM CST -- delayed report. severe structural damage to buildings in latham and niantic. people trapped in buildings.
+
+Latham [Logan Co, IL] emergency mngr reports TORNADO at 09:10 PM CST --
+
+Latham [Logan Co, IL] amateur radio reports HAIL of golf ball size (M1.75 INCH) at 09:15 PM CST 
+
+1 Sw Clinton [De Witt Co, IL] emergency mngr reports HAIL of quarter size (M1.00 INCH) at 09:23 PM CST
+
+Le Roy [Mclean Co, IL] amateur radio reports HAIL of penny size (M0.75 INCH) at 09:46 PM CST --
+
+Fisher [Champaign Co, IL] law enforcement reports HAIL of baseball size (M2.75 INCH) at 10:05 PM CST -- police measured baseball sized hail. relayed via champaign county esda.
+
+Farmer City [De Witt Co, IL] trained spotter reports TORNADO at 10:10 PM CST -- tornado reported by trained spotters in farmer city.
+
+Gibson City [Ford Co, IL] law enforcement reports TSTM WND GST of U60 MPH at 10:22 PM CST -- 60 mph wind gust. pea sized hail and heavy rain.
+
+(time probably wrong)  2 N Milford [Iroquois Co, IL] emergency mngr reports TSTM WND DMG at 10:30 PM CST -- on county rd. 1200n...2 barns damaged, 1 barn and 1 tool shed with roofs torn off. holes blown in wind breaks on a farm.
+
+2 N Milford [Iroquois Co, IL] amateur radio reports TSTM WND DMG at 10:30 PM CST -- location...1/2 mile east of county rd. 2300e, on 1170n. 2/3 of a large farm building collapsed, killing several head of cattle.
+
+ Melvin [Ford Co, IL] law enforcement reports TSTM WND DMG at 10:50 PM CST -- power lines and poles down on il route 59 causing road to be closed.
+
+2 E Gibson City [Ford Co, IL] law enforcement reports NON-TSTM WND DMG at 11:00 PM CST -- downed power lines and poles on il route 9 between routes 54 and 115.
+
+4 N Milford [Iroquois Co, IL] public reports TSTM WND DMG at 11:00 PM CST -- farm had roofs blown off of barn and tool shed near county road 1200-n. event occured in less than 30 seconds.
+
+

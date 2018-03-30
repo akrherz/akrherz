@@ -1,0 +1,53 @@
+
+
+ V = numarray.sqrt( (u * u) + (v * v))
+
+ numarray.where( V > 100, V, 0)
+
+ V[1:4,0:4]
+
+ numarray.transpose(V)
+
+ numarray.ravel(V)
+
+ numarray.diagonal(V,0)
+
+ numarray.dot(u, v)
+
+ numarray.clip(u,10,11)
+
+from Scientific.IO import NetCDF
+import numarray
+
+nc = NetCDF.NetCDFFile('MMOUT_DOMAIN2.nc')
+nc.variables.keys()
+
+
+
+lat = numarray.array( nc.variables['latitcrs'].getValue() )
+lon = numarray.array( nc.variables['longicrs'].getValue() )
+u = numarray.array( nc.variables['u'].getValue() )
+sigma = numarray.array( nc.variables['sigma_level_full'].getValue() )
+print sigma
+
+time = nc.variables['time'].getValue() )
+
+sigma_levels = nc.dimensions['sigma_levels']
+i_cross = nc.dimensions['i_cross']
+j_cross = nc.dimensions['j_cross']
+times = len(time)
+
+numarray.shape(u)
+
+max( numarray.ravel(u) )
+
+max( numarray.ravel(u[0,0]) )
+max( numarray.ravel(u[0,-1]) )
+max( numarray.ravel(u[:,-1]) )
+
+numarray.take(numarray.ravel(lat), numarray.argmax( numarray.ravel(u[0,-1]) ) )
+numarray.take(numarray.ravel(lon), numarray.argmax( numarray.ravel(u[0,-1]) ) )
+
+sum( numarray.ravel( numarray.where( u > 10, 1, 0) ) ) / (sigma_levels * i_cross * j_cross * times )
+
+

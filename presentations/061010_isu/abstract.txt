@@ -1,0 +1,18 @@
+IEM Update: From pollen to rivers to pavements to soils and a whole lot 
+more.
+
+The Iowa Environmental Mesonet (IEM) was created back in 2001 with the 
+vision of providing an one stop shop for environmental data for the state 
+of Iowa.  This data has been collected from partners providing access to 
+their datasets.  To date, the IEM has collected nearly 1 billion 
+observations.  The goal of assembling such a large and diverse dataset was 
+to spur cross discipline research and collaboration.  Such research 
+projects include the modellling of maize pollen dispersion, forecasting 
+the river stage on Squaw Creek, modelling roadway wear, and analysis of 
+statewide soil erosion.
+
+This talk presents an update on these research projects and a whole lot 
+more.
+
+
+

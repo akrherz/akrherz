@@ -1,0 +1,8 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v5.53  
+ ! Linux(g77) 2.4.20 - 10/16/03
+ ! 22-Jun-04 11:17     
+
+go dods_winds_demo
+go dods_demo
+quit

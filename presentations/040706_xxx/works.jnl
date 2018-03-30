@@ -1,0 +1,24 @@
+ ! Script that compares MM5 precip with NCEP stage4 precip
+ ! 
+ ! 
+
+ ! Define Our Lat/Lon grid box
+DEFINE AXIS/X=100w:90w:0.5/UNITS=degrees x0
+DEFINE AXIS/Y=39n:44n:0.5/UNITS=degrees y0
+
+ ! Our NCEP stage4 data
+use APCP_06171200.nc
+let precip= XSEQUENCE(APCP_SFC)
+let lon1d= XSEQUENCE(LONGITUDE)
+let lat1d= XSEQUENCE(LATITUDE)
+LET outg = SCAT2GRIDGAUSS_XY(lon1d, lat1d, precip, x[gx=x0],y[gy=y0],0.5,0.5,2,2)
+
+ ! We load our MM5 output
+use 2004061200_D2.nc
+let mm= XSEQUENCE( rain_non[L=24] + rain_con[L=24] )
+let mlat1d = XSEQUENCE( latitcrs )
+let mlon1d = XSEQUENCE( longicrs )
+LET mmoutg = SCAT2GRIDGAUSS_XY(mlon1d, mlat1d, mm, x[gx=x0],y[gy=y0],0.5,0.5,2,2)
+shade outg[d=1] - mmoutg
+go land_detail thick overlay black black
+FRAME/FILE=compare.gif

@@ -1,0 +1,11 @@
+[all] Updated /etc/hosts
+      Registered with RHN
+[all] installed httpd php
+[dir] Downloaded/Installed piranha and ipvsadm from CentOS
+[dir] net.ipv4.ip_forward = 1
+[dir] piranha-passwd 
+[dir] http://director0.external:3636
+[dir] setup firewall
+[rea] chkconfig httpd on
+[dir] chkconfig pulse on
+[rea] chkconfig iptables off

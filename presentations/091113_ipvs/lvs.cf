@@ -1,0 +1,296 @@
+serial_no = 47
+primary = 129.186.185.26
+service = lvs
+backup_active = 1
+backup = 129.186.185.27
+heartbeat = 1
+heartbeat_port = 539
+keepalive = 6
+deadtime = 18
+network = nat
+nat_router = 192.168.0.254 eth1:1
+nat_nmask = 255.255.255.0
+debug_level = NONE
+virtual apache {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 80
+     persistent = 0
+     send = "GET /keepalive.phtml\n"
+     expect = "HTTPALIVE"
+     use_regex = 0
+     load_monitor = none
+     scheduler = wlc
+     protocol = tcp
+     timeout = 6
+     reentry = 15
+     quiesce_server = 0
+     server iemvs101 {
+         address = 192.168.0.101
+         active = 1
+         weight = 6
+     }
+     server iemvs102 {
+         address = 192.168.0.102
+         active = 1
+         weight = 3
+     }
+     server iemvs103 {
+         address = 192.168.0.103
+         active = 1
+         weight = 3
+     }
+     server iemvs104 {
+         address = 192.168.0.104
+         active = 1
+         weight = 3
+     }
+     server iemvs105 {
+         address = 192.168.0.105
+         active = 1
+         weight = 7
+     }
+     server iem50 {
+         address = 192.168.0.50
+         active = 1
+         weight = 13
+     }
+}
+virtual ssh {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 22
+     expect = "OK"
+     use_regex = 0
+     send_program = "/etc/sysconfig/ha/check_ssh %h"
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem40 {
+         address = 192.168.0.50
+         active = 1
+         weight = 1
+     }
+}
+virtual ftp {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     fwmark = 21
+     port = 21
+     use_regex = 0
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem40 {
+         address = 192.168.0.50
+         active = 1
+         weight = 1
+     }
+}
+virtual ldm {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 388
+     use_regex = 0
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem30 {
+         address = 192.168.0.30
+         active = 1
+         weight = 1
+     }
+}
+virtual nwn14996 {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 14996
+     expect = "OK"
+     use_regex = 0
+     send_program = "/etc/sysconfig/ha/check_ok %h"
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem10 {
+         address = 192.168.0.10
+         active = 1
+         weight = 1
+     }
+}
+virtual nwn14995 {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 14995
+     use_regex = 0
+     expect = "OK"
+     send_program = "/etc/sysconfig/ha/check_ok %h"
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem10 {
+         address = 192.168.0.10
+         active = 1
+         weight = 1
+     }
+}
+virtual nwn15000 {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 15000
+     use_regex = 0
+     expect = "OK"
+     send_program = "/etc/sysconfig/ha/check_ok %h"
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem40 {
+         address = 192.168.0.10
+         active = 1
+         weight = 1
+     }
+}
+virtual nwn15001 {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 15001
+     use_regex = 0
+     expect = "OK"
+     send_program = "/etc/sysconfig/ha/check_ok %h"
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem40 {
+         address = 192.168.0.10
+         active = 1
+         weight = 1
+     }
+}
+virtual nwn15002 {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 15002
+     use_regex = 0
+     expect = "OK"
+     send_program = "/etc/sysconfig/ha/check_ok %h"
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem40 {
+         address = 192.168.0.10
+         active = 1
+         weight = 1
+     }
+}
+virtual smtp {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 25
+     use_regex = 0
+     expect = "OK"
+     send_program = "/etc/sysconfig/ha/check_ok %h"
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem40 {
+         address = 192.168.0.50
+         active = 1
+         weight = 1
+     }
+}
+virtual samba139 {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 139
+     use_regex = 0
+     expect = "OK"
+     send_program = "/etc/sysconfig/ha/check_ok %h"
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem50 {
+         address = 192.168.0.50
+         active = 1
+         weight = 1
+     }
+}
+virtual samba445 {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 445
+     use_regex = 0
+     expect = "OK"
+     send_program = "/etc/sysconfig/ha/check_ok %h"
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem50 {
+         address = 192.168.0.50
+         active = 1
+         weight = 1
+     }
+}
+virtual pgsql {
+     active = 1
+     address = 129.186.185.33 eth0:1
+     vip_nmask = 255.255.252.0
+     port = 5432
+     use_regex = 0
+     expect = "OK"
+     send_program = "/etc/sysconfig/ha/check_ok %h"
+     load_monitor = none
+     scheduler = rr
+     protocol = tcp
+     timeout = 600
+     reentry = 15
+     quiesce_server = 0
+     server iem30 {
+         address = 192.168.0.30
+         active = 1
+         weight = 1
+     }
+}

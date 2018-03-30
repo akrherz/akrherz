@@ -1,0 +1,33 @@
+From ldm@mesonet.agron.iastate.edu Wed Sep 17 12:39:55 2003
+Date: Wed, 18 Jun 2003 13:34:15 -0500
+From: IEM Data Manager <ldm@mesonet.agron.iastate.edu>
+Subject: [KCCI] 58 Gust NEVADA COMMUN
+
+
+====================================================================
+KCCI SchoolNet8 Wind Gust Alert
+-------------------------------
+
+  Time:  01:34 pm -- 18 June 2003
+  Site:  NEVADA COMMUN
+  Gust:  58 MPH
+
+
+NEVADA COMMUN  Links:
+ [Current Conditions & Live Super Doppler]
+   http://db1.mesonet.agron.iastate.edu/kcci/site.phtml?station=SNVI4
+
+ [1 Minute Data Trace]
+   http://db1.mesonet.agron.iastate.edu/kcci/plotting/1trace_fe.phtml?station=SNVI4&year=2003&month=6&day=18
+
+
+====================================================================
+ * This email has been sent you based on your subscription to the
+ KCCI SchoolNet8 Email Alerts.  You can modify your subscription at
+ this URL.
+   http://db1.mesonet.agron.iastate.edu/kcci/tool/walerts.phtml
+
+ * Questions about this service can be sent to 
+ Daryl Herzmann akrherz@iastate.edu
+
+====================================================================

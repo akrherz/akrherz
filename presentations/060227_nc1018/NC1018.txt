@@ -1,0 +1,218 @@
+Discussion of executative committee..  gage and  Rich
+
+Discussion of where to meet next.  Garret and Scott and Stuart will look 
+into the next meeting location.  Talk today and discuss tomorrow.  Have it 
+ready for the conference call in the morning.  Talk to Forrest about any 
+relevant issues that need to be discussed.  Ken and Jeff are in the call 
+for sure, but will try to get the new USDA rep in as well...
+
+Discussion on term of exec positions.  Should it maintain as a 2 year?  
+Gage noted that this is one of the few committees of its type that is 
+currently in existance.  Garret noted that the secretary would rotate into 
+the chair and thus require a 4 year committement.  Dennis notes that the 
+secretary position is not very intensive.  Perhaps a rewrite of how the 
+secretary position will not roll into chair.  David notes that our 
+meetings could be piggy backed onto our another.  Probably not a good idea 
+with not everybody being at the same meeting.  
+
+Gage moves to have a 2 year chair and an annual secretary and a decoupling 
+of ascension.  Scott seconds.  No discussion.   No discent...
+
+Pull stuff from your CRIS(?) report and submit it from summary.
+
+Discussion of do we need to vote to have someone join.  Make sure that the 
+appendix is updated to add new members.
+
+Dong noted that Minnesota should be picking up the cost of the room and 
+perhaps the conference call. 
+
+INTRODUCTARY TALKS
+
+Stuart Gage (Michigan State) 
+  Regional Analysis of Carbon in Agroecosystems.
+
+  - Built something called MASH .NET
+  - Has the 10 million dataset record of the NC 71-00
+  - Impressive stuff from his setup
+  - http://www.cevl.msu.edu
+  - Looking for collaborators to help take up the task before he 
+    retires.  Need some help with the computer architecture.
+
+Scott (Kansas State)
+  - "Life after corn", "Crop rotation is planting a different hybrid"
+  - Watering down huge feed lots...
+  - How much water it takes to produce ethanol?  An interesting topic
+    our group needs to discuss.
+
+(Discussion of meeting in Lincoln or in Florida...  and what time to 
+meet...  Dennis mentions having a quarterly/bianual conference call...)
+
+Rich Grant (Purdue)
+  - Soybean rust modelling work.
+  - Observational experimentation in Florida this year UVB inactivation
+  - CO2 exchange from organic soils
+  - Model to estimate UV-A exposures
+  - What does it take to flip soybean leafs
+
+Stuart Gage mentioned this story in Bio Science on Soybean Rust.
+
+Gerrit (Georgia)
+  - Struggle to maintain 68 sites within the state
+  - Use land lines and have start using WiFi and other technologies
+  - http://www.georgiaweather.net
+  - Water balance calculator
+  - Talked about Ken Crawford's LETS  (very difficult to maintain)
+  - 1,500 dollars for spread spectrum radios
+  - Decision Support System for Agrotechnology Transfer
+  - http://www.agclimate.org/
+
+Ken Boote (Florida)  Modeling Crop Growth ...
+  - Parton Logoan function for hourly temperatures from daily hi/lo
+  - 9-10% soybean yield increase in Iowa based on CO2 and small 
+    temperature increase
+
+David Greenland  (Louisana State University)
+  - Interaction of weather and climate with vegetation
+  - http://www.lsuagcenter.com/weather/
+  - Contribute to crop modelling, irigation scheduling, and new 
+    climatologies
+
+Bob Seem (NY U - Geneva)
+  - Grapes!
+  - Use of the MASS model and hope to use WRF at some point in the 
+    future.
+  - iButton temperature sensor.  Deployed 150 of them
+  - Looking at deploying small sensor package that is RF linked daisy
+    chained together.
+
+(Discussion on sensors and how this committee can address those needs...)
+
+Rich suggests a "Wet-off" to build a standard for leaf wetness sensors...
+
+Dong Wang  (Minnesota)
+  - Intensity of intense storms is getting stronger...
+  - Looking for a pristine environment.
+  - Some research done on remote sensing, QuikBird
+  - Global FluxNET
+
+Pat Guinan (Missouri)
+  - Realtime weather and custom weather analysis (horizon point)
+  - Shows page templates for each site, astromical database
+  - Horizon point, grid point data from the NDFD
+  - Forecasted winds for site specific location
+  - Looking at more models in the upcoming season...
+  - Email interactive
+
+(Talk about doing something as a group to advance NC1018 goals...)
+
+Daryl Herzmann (Iowa State)
+  - I talked some...
+
+Dennis Todey (SD State)
+  - Weather sensors
+  - Evapotranspiration issues over the west
+  - Negative Correlation for rainfall in Ohio Valley
+  
+
+(Break time...)
+
+lansat.org
+
+We will have a midterm review next year...
+
+What is our area of coverage?  Gage, perhaps the geographic is no longer 
+important.  We can make our stuff go anywhere in the country.  Groups are 
+more topic oriented than geographical.  Perhaps they really want to see 
+that we are doing something over multiple states.  Noted that most states 
+are working on most of the topics.  It is important that we are making 
+progress on these objectives.  Just need to do a better job documenting 
+what resources we are getting external.  Note how we are using our NC94 
+dataset to put in other grant monies.
+
+ASK Forrest about the mid-term...
+
+Have some sort of standard format for how we document our work.
+
+Atlas:
+
+  Contiguous database for the 1055 counties in the region.  Important to 
+support modelling over the region.  Needs to extend to the web and provide 
+some more documentation.  Bob talked to the Ag Extension in Sept 2004 to 
+mass produce the files.  Face page for each of the maps.  Need to be able 
+to interrupt what they are seeing.  We have had a few people come up with 
+some suggestions on what can be done to the maps.  The directors want to 
+see a website to build maps and download data.   Need to have support to 
+put up a quality website.  Can't just throw something together.  Who could 
+write a description of the datasets?
+
+Note of how we need money to do research that is needed.  Why get travel 
+money if no money to do the work?  The funding of the money is much 
+different at various sites.  Not a very smooth subset.  Note how much it 
+takes to build these datasets. Issue is the funding model for the updating 
+of this dataset.  Could Phil Basteris be of help to bring this data 
+online?  It would be a shame not to be put it up...
+
+Most people should have a copy of the dataset.  Seperate issues of 
+updating the dataset and pushing it out to the website.  Need to ask the 
+climate centers if they are willing to sheppard these datasets.   The 
+application of this county based dataset to watershed stuff?  Is the data 
+quality any better now with these new datasets?  COOP/NERON hoping to meet 
+the needs of data quality.  The climate data means the county yield data.
+
+Need to have the entire committee participate in the building of the 
+dataset.  Have a value behind the dataset.  How difficult is the updating 
+on this dataset?   All of the data is at the climate centers...  Benchmark 
+dataset could be used as something to test against for climate change.
+
+Value of expanding the dataset to the coasts?  Putting together important 
+datasets for other groups to use to make important decisions.  Need to 
+push this issue with Forrest tomorrow.
+
+Everyone on the committee shouldn't have to work thru this...  What about 
+the Oregon State folks?  Importance of the metadata again.  Need to get 
+the stuff from the Illinois folks.  
+
+Perhaps discuss this with the NCDC folks?  Perhaps they could provide 
+small amounts of funding and standards for how we could expand.
+
+OTHER OBJECTIVES:
+
+  Do we have things that could meet these other objectives?  Generate corn 
+bore phenology map, did High Plains already do it?  
+
+What happened to Steve's phenology database?  Some states have it and some 
+states don't.  Somebody should go have a mind meld with Steve to see how 
+these datasets were built and can be maintained.
+
+Overwintering of insects and pests.  Getting after the warmer winters?  
+Looking at high impact stuff.
+
+Ken asks about a database of reported events.  Stuart hoed that row.  
+Politics killed it and storage demands were too much in ...  What about 
+the CAPS program still around?  Largely uneffective.
+
+This is something that USDA should be going at:
+
+Conference Call:  8:30 to 10:30  What to discuss?
+
+  - Tried to get the USDA contact in on the conference call. If he doesn't 
+    show up, then Dennis will get comments later... 
+
+  - Tell CREES rep what we are doing within the committee...
+
+  - Ask about changing from 1 to 2 year appointments.  Tell him at least.
+
+  - Concerns over future withdrawls of Hatch fund and perhaps now into 
+    a competetive process.
+
+  - Tell him about new members / new states?
+
+
+Need to discuss nominations / next location / plans.
+
+Discussing 1.2 Irrigation?  Heat/precipitating index.  Carlson's arridity 
+index stuff.  Make a run at a decision support system?  What is the value 
+of irrigation?  Buy out farmers from consuming water?  Inseason tools 
+versus historical tools?
+
+Need an economist?  SDSU maybe has one?

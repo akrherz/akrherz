@@ -1,0 +1,55 @@
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[04:31:00] <iembot>  EAX issues Tornado Warning for  Bates, Cass, Henry, Johnson [MO] till 11:00 PM CST
+[04:35:04] <iembot>  EAX issues Severe Thunderstorm Warning for  Carroll, Chariton, Lafayette, Ray, Saline [MO] till 11:15 PM CST
+[04:39:49] <iembot>  EAX  expires Severe Thunderstorm Warning for  Chariton, Cooper, Howard, Pettis, Saline [MO]
+[04:41:18] <iembot>  EAX issues Severe Thunderstorm Warning for  Bates [MO] till 11:15 PM CST
+[04:46:23] <iembot>  EAX issues Severe Thunderstorm Warning for  Cooper, Henry, Johnson, Lafayette, Pettis, Saline [MO] till 11:30 PM CST
+[04:52:40] <iembot> Montrose [Henry Co, MO] law enforcement reports TSTM WND GST of E60 MPH at 10:51 PM CST -- in addition to nickel sized hail
+[04:54:38] <iembot>  EAX issues Tornado Warning for  Bates, Cass, Henry, Johnson [MO] till 11:15 PM CST
+[04:58:04] <iembot> 1 W Deepwater [Henry Co, MO] emergency mngr reports FUNNEL CLOUD at 10:56 PM CST -- 
+[05:00:44] <iembot>  EAX issues Severe Thunderstorm Warning for  Carroll, Chariton, Howard, Lafayette, Linn, Macon, Saline [MO] till 12:00 AM CST
+[05:01:24] <iembot> 3 W Urich [Henry Co, MO] public reports TORNADO at 08:11 PM CST -- *** 1 fatal *** tornado west of urich...south of creighton. 1 fatality conformed 3 n urich...house destoyed.
+[05:09:34] <iembot>  EAX issues Tornado Warning for  Henry, Johnson [MO] till 11:30 PM CST
+[05:12:38] <iembot> 5 Se Clinton [Henry Co, MO] trained spotter reports HAIL of half dollar size (E1.25 INCHES) at 11:11 PM CST -- winds gusted to estimated 70 mph.
+[05:15:41] <iembot> 2 Nw Centerview [Johnson Co, MO] trained spotter reports TSTM WND GST of E70 MPH at 10:40 PM CST -- 
+[05:22:46] <iembot> 6 Sw Green Ridge [Pettis Co, MO] emergency mngr reports HAIL of ping pong ball size (E1.50 INCHES) at 11:20 PM CST -- 
+[05:27:52] <iembot>  EAX issues Severe Thunderstorm Warning for  Cooper, Howard, Pettis, Saline [MO] till 12:15 AM CST
+[05:31:34] <iembot>  MCD! http://www.spc.noaa.gov/products/md/md0273.html
+[05:39:55] <iembot>  EAX issues Severe Thunderstorm Warning for  Adair, Chariton, Howard, Macon, Randolph [MO] till 12:15 AM CST
+[05:45:27] <iembot>  EAX  cancels Tornado Watch for  Linn, Miami [KS] and Bates, Carroll, Cass, Johnson, Lafayette [MO]
+[05:45:43] <iembot>  EAX  cancels Severe Thunderstorm Warning for  Henry [MO]
+[05:47:59] <iembot>  EAX  cancels Severe Thunderstorm Warning for  Carroll, Lafayette, Linn [MO]
+[05:52:08] <iembot> Blue Springs [Jackson Co, MO] trained spotter reports HAIL of egg size (E2.00 INCHES) at 09:00 PM CST -- 
+[05:55:48] <iembot>  EAX  cancels Severe Thunderstorm Warning for  Pettis, Saline [MO]
+[05:56:34] <iembot> Overland Park [Johnson Co, KS] public reports HAIL of ping pong ball size (E1.50 INCHES) at 06:25 PM CST -- hail reported at 151st and us 69
+[05:56:36] <iembot> Overland Park [Johnson Co, KS] trained spotter reports HAIL of golf ball size (E1.75 INCHES) at 06:32 PM CST -- hail reported at 142nd and antioch
+[05:59:32] <iembot>  EAX  cancels Severe Thunderstorm Warning for  Chariton, Howard, Macon, Saline [MO]
+[06:04:34] <iembot>  EAX  cancels Severe Thunderstorm Warning for  Adair, Macon [MO]
+[06:06:44] <iembot> Kansas City [Jackson Co, MO] public reports HAIL of egg size (E2.00 INCHES) at 06:28 PM CST -- hail reported at i-435 and holmes
+[06:06:46] <iembot> Kansas City [Jackson Co, MO] trained spotter reports HAIL of half dollar size (E1.25 INCHES) at 06:30 PM CST -- half dollar size hail reported at 99th and wornall
+[06:08:52] <iembot>  EAX  cancels Severe Thunderstorm Warning for  Cooper, Howard [MO]
+[06:12:08] <iembot>  EAX  cancels Severe Thunderstorm Warning for  Chariton, Howard, Randolph [MO]
+[06:22:17] <iembot> Carrollton [Carroll Co, MO] fire dept/rescue reports TORNADO at 12 Mar, 10:47 AM CST -- confirmed tornado. numerous houses with roof damage. widespread power outages.
+[08:10:20] <iembot>  EAX  cancels Tornado Watch for  Adair, Chariton, Cooper, Henry, Howard, Linn, Macon, Pettis, Randolph, Saline, Schuyler [MO]
+[13:52:29] <iembot> 5 Ne Chilhowee [Johnson Co, MO] nws employee reports HAIL of quarter size (M1.00 INCH) at 08:25 PM CST -- 
+[15:55:48] <iembot> 5 Ne Chilhowee [Johnson Co, MO] nws employee reports HAIL of quarter size (M1.00 INCH) at 12 Mar, 08:25 PM CST -- 
+[23:06:46] <iembot> 2 N Stewartsville [De Kalb Co, MO] trained spotter reports TSTM WND DMG at 12 Mar, 11:12 AM CST -- sturdy shed blown down

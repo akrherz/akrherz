@@ -1,0 +1,81 @@
+Musing on the Formatting of NWS Products
+Daryl Herzmann akrherz@iastate.edu
+(Data presented through 4 October 2009)
+
+Basis for NWS Product Formatting is NWSI 10-1701 which references WMO 386.
+Section 2.1 establishes:
+   Narrative text uses upper case and only the following punctuation marks 
+   in the text: the period (.), and the three dot ellipsis (...); the 
+   forward slash (/); the dash (-); and the plus (+). 
+
+So our character set is: A-Z . / - +
+
+Section 2.2 adds exceptions to increase character set: A-Z . / - + $ & > * =
+
+Section 2.3 adds more exceptions for encoded products like SHEF.
+
+  Many SVR and TOR products contain the exclaimation point, for example:
+   
+  DAMAGE HAS BEEN REPORTED WITH THIS STORM!  THIS STORM IS EXTREMELY 
+  DANGEROUS!  TAKE COVER NOW!!
+
+  For 2009, the number of products (and percentage) that contain these
+  four unallowed characters:
+           !        @        '        :       Total 
+   SV   3578(18)  331( 2)  405( 2)  205( 1)   20193
+   FF    143( 4)   66( 2)  182( 5)   87( 3)    3432
+   TO    533(18)   15( 1)   40( 1)   15( 1)    2934
+   FA     65( 5)    6( 1)   62( 5)   25( 2)    1199
+   MA     48( 1)    0( 0)   28( 1)   25( 1)    3522
+
+The @ symbol is allowed in "administrative-type products and PNS", can not
+be used in short-duration warning products. Example Tornado Warning with the
+@ in it:
+
+   PLEASE REPORT HAIL...OR DAMAGING WINDS TO THE NATIONAL WEATHER
+   SERVICE BY CALLING TOLL FREE AT 1-877-633-6772...OR BY EMAIL AT
+   BGM.STORMREPORT@NOAA.GOV
+
+Another frequently misused character is the double quote ("), example
+
+   FLSCRP
+   UNDER THE "CURRENT CONDITIONS" SUBMENU...CLICK 
+   ON "RIVER FORECASTS" WHICH TAKES YOU TO OUR AHPS WEB PAGE.
+
+Section 3.4 notes line length to be 69 characters *with* the <cr><cr><lf>
+
+   20,695 out of approximately 75,000 AFDs in 2009 violated this.
+
+Section 3.6 states that "A Blank Line" should be used between major format
+blocks.  The justification is for easier reading (by humans or computers?)
+What is "a blank line"?  3 character <cr><cr><lf> or an indefinite number
+of "unseen" spaces with the line feed?
+
+   Most products have no issues with the 3 character blank line, but there
+   are a few that have template issues(?) that some offices have fixed.
+   RVF  RVA  QPS  HYD are the main offenders
+
+Section 4.1.2 states a 6 character AWIPS CI is required, with spaces inserted
+when necessary.
+
+   My ingestor has only caught this on RTP products, the latest being:
+   200910041234-KBMX-ASUS64-RTPAL
+
+Section 5.1.3,4 notes that content-type separators && and $$ are to be
+on their own line with no other characters than <cr><cr><lf>.
+
+   The main product violators of this are: RVF  AFD  RVS  and FLS , but
+   the frequency is less than 10%.
+
+Lower case letters are not all that frequent, but do occur on the most 
+frequent product issued every minute:
+
+  NTUS96 KNCF 051358
+  WTSNCF
+  THIS IS A COMMUNICATIONS TEST MESSAGE ORIGINATING FROM THE WNCF 
+  SYSTEM IN SILVER SPRING.  IT IS SET TO TRANSMIT EVERY MINUTE 
+  24 HOURS PER DAY, SEVEN DAYS PER WEEK, VIA A CRON JOB ON THE 
+  DS1-WNCF.ER SERVER.  IT IS SENT TO NCF WHERE IT IS ROUTED 
+  EITHER VIA SBN OR WAN TO ALL AWIPS SITES. THIS PRODUCT IS USED
+  FOR PERFORMANCE MEASUREMENTS AND WILL BE RECEIVED
+  OVER THE WAN (NCFHPTNCF) OR SBN (NCFWTSNCF and NCFTSTNCF) BY ALL SITES.

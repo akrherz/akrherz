@@ -1,0 +1,11 @@
+192.168.0.1    laptop.local
+192.168.0.10   director0.local
+192.168.0.11   director1.local
+192.168.0.254  gateway.local
+192.168.0.100  realserver0.local
+192.168.0.101  realserver1.local
+
+172.16.12.1    laptop.external
+172.16.12.129  director0.external
+172.16.12.130  director1.external
+172.16.12.200  myserver.external

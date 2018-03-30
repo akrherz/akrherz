@@ -1,0 +1,14 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v5.53  
+ ! Linux(g77) 2.4.20 - 10/16/03
+ !  5-Jul-04 21:33     
+
+use 2004061200_D2.nc
+shade rain_con[L=1:48@SUM] + rain_non[L=1:48@SUM], longicrs, laticrs
+shade rain_con[L=1:48@SUM] + rain_non[L=1:48@SUM], longicrs, latitcrs
+go land_detail thick overlay black black
+use APCP_06171200.nc
+show data
+shade APCP_SFC, longitude, latitude
+go land_detail thick overlay black black
+quit

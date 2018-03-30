@@ -1,0 +1,25 @@
+&record1
+
+
+
+
+ START_YEAR  = 2005
+ START_MONTH = 7
+ START_DAY   = 18
+ START_HOUR  = 12
+
+ END_YEAR  = 2005
+ END_MONTH = 7
+ END_DAY   = 20
+ END_HOUR  = 12
+
+
+
+ INTERVAL = 10800
+
+
+
+
+
+
+/

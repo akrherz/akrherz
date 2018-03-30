@@ -1,0 +1,10 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v5.53  
+ ! Linux(g77) 2.4.20 - 10/16/03
+ !  7-Jun-04 23:43     
+
+use disks.nc
+show data
+plot usage
+plot/symbol=2 usage
+quit

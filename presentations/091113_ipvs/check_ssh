@@ -1,0 +1,8 @@
+#!/bin/sh
+nmap -p 22 -P0 $1 | grep open > /dev/null
+
+if [ $? -eq "0" ]; then
+        echo "OK"
+else
+        echo "FAIL"
+fi

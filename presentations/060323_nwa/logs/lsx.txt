@@ -1,0 +1,129 @@
+
+
+
+
+
+
+[04:35:01] <iembot>  LSX issues Tornado Warning for  Cole, Moniteau [MO] till 11:30 PM CST
+[04:36:02] <iembot>  LSX issues Tornado Warning for  Adams [IL] till 11:15 PM CST
+[04:39:24] <iembot> Palmyra [Macoupin Co, IL] trained spotter reports HAIL of penny size (E0.75 INCH) at 10:30 PM CST -- 
+[04:42:00] <iembot>  LSX issues Tornado Warning for  Monroe [MO] till 11:15 PM CST
+[04:45:15] <iembot>  LSX  cancels Tornado Warning for  Marion, Ralls [MO]
+[04:53:44] <iembot> Monroe City [Monroe Co, MO] fire dept/rescue reports TORNADO at 10:15 PM CST -- church damaged...report of people trapped inside.
+[05:01:29] <iembot>  LSX  expires Tornado Warning for  Monroe [MO]
+[05:04:13] <iembot> Brazito [Cole Co, MO] public reports TORNADO at 11:00 PM CST -- reported along highway 54.
+[05:05:04] <iembot>  LSX issues Tornado Warning for  Marion, Ralls [MO] till 11:30 PM CST
+[05:09:56] <iembot>  LSX issues Tornado Warning for  Lewis, Marion, Shelby [MO] till 12:00 AM CST
+[05:10:44] <iembot>  LSX  cancels Tornado Warning for  Monroe [MO]
+[05:10:48] <iembot>  LSX issues Tornado Warning for  Callaway, Osage [MO] till 12:00 AM CST
+[05:11:02] <iembot> Jefferson City [Cole Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 11:05 PM CST -- 
+[05:13:49] <iembot>  LSX  cancels Tornado Warning for  Moniteau [MO]
+[05:22:52] <iembot> Jefferson City [Cole Co, MO] law enforcement reports FUNNEL CLOUD at 11:10 PM CST -- 
+[05:23:09] <iembot>  LSX issues Tornado Warning for  Adams, Brown [IL] till 12:00 AM CST
+[05:24:42] <iembot> 5 Nw Hannibal [Marion Co, MO] fire dept/rescue reports TORNADO at 11:20 PM CST -- report of a tornado on the ground at intersection of us 61 and highway 24.
+[05:26:38] <iembot>  LSX  cancels Tornado Warning for  Cole [MO]
+[05:27:38] <iembot>  LSX  cancels Tornado Warning for  Shelby [MO]
+[05:31:26] <iembot>  MCD! http://www.spc.noaa.gov/products/md/md0273.html
+[05:31:58] <iembot> 1 N Paris [Monroe Co, MO] amateur radio reports TORNADO at 09:55 PM CST -- house destroyed by possible tornado.
+[05:32:00] <iembot> Holts Summit [Callaway Co, MO] trained spotter reports HAIL of penny size (E0.75 INCH) at 11:15 PM CST -- 
+[05:34:47] <iembot>  LSX  expires Tornado Warning for  Marion, Ralls [MO]
+[05:40:06] <iembot> Holts Summit [Callaway Co, MO] trained spotter reports HAIL of quarter size (E1.00 INCH) at 11:20 PM CST -- 
+[05:44:33] <iembot>  LSX  cancels Tornado Warning for  Lewis, Marion [MO]
+[05:45:36] <iembot> 2 W Tebbetts [Callaway Co, MO] emergency mngr reports TSTM WND DMG at 11:25 PM CST -- moblie home blown over...no known injuries.
+[05:48:19] <iembot>  LSX issues Tornado Warning for  Montgomery [MO] till 12:30 AM CST
+[05:51:28] <iembot>  LSX issues Severe Thunderstorm Warning for  Moniteau [MO] till 12:30 AM CST
+[05:59:38] <iembot>  LSX  expires Tornado Warning for  Callaway, Osage [MO]
+[06:03:07] <iembot>  LSX  expires Tornado Warning for  Adams, Brown [IL]
+[06:04:09] <iembot>  LSX issues Tornado Warning for  Lincoln, Warren [MO] till 12:45 AM CST
+[06:14:53] <iembot> 1 W Jamestown [Moniteau Co, MO] amateur radio reports HAIL of penny size (E0.75 INCH) at 12:10 AM CST -- 
+[06:15:46] <iembot>  LSX issues Severe Thunderstorm Warning for  Boone, Cole [MO] till 1:00 AM CST
+[06:21:27] <iembot>  LSX  cancels Tornado Warning for  Montgomery [MO]
+[06:23:38] <iembot> Troy [Lincoln Co, MO] trained spotter reports HAIL of quarter size (E1.00 INCH) at 12:20 AM CST -- 
+[06:24:30] <iembot> Columbia [Boone Co, MO] trained spotter reports HAIL of penny size (E0.75 INCH) at 12:20 AM CST -- 
+[06:27:07] <iembot>  LSX issues Tornado Warning for  Lincoln [MO] and Calhoun [IL] till 1:15 AM CST
+[06:30:24] <iembot>  LSX issues Severe Thunderstorm Warning for  Callaway [MO] till 1:15 AM CST
+[06:35:41] <iembot>  MCD! http://www.spc.noaa.gov/products/md/md0275.html
+[06:35:47] <iembot>  LSX issues Tornado Warning for  Callaway [MO] till 1:15 AM CST
+[06:36:46] <iembot>  LSX  cancels Tornado Warning for  Lincoln, Warren [MO]
+[06:45:01] <iembot>  LSX  cancels Severe Thunderstorm Warning for  Boone, Cole [MO]
+[06:49:34] <iembot>  LSX issues Tornado Warning for  Montgomery [MO] till 1:30 AM CST
+[06:52:57] <iembot>  LSX issues Tornado Warning for  Greene [IL] till 1:30 AM CST
+[07:02:34] <iembot>  SPC issues TORNADO watch till 13:00Z http://www.spc.noaa.gov/products/watch/ww0081.html
+[07:06:47] <iembot>  LSX issues Tornado Warning for  Gasconade, Osage [MO] till 1:45 AM CST
+[07:07:01] <iembot>  LSX  cancels Tornado Warning for  Lincoln [MO] and Calhoun [IL]
+[07:09:01] <iembot>  LSX issues Tornado Watch for  Madison, St. Francois, Ste. Genevieve [MO] and Clinton, Marion, Monroe, Randolph, St. Clair, Washington [IL] till 7:00 AM CST
+[07:09:51] <iembot> 3 Sw Fulton [Callaway Co, MO] law enforcement reports TSTM WND DMG at 12:40 AM CST -- barn blown down along county road 407.
+[07:09:53] <iembot> Auxvasse [Callaway Co, MO] trained spotter reports FUNNEL CLOUD at 01:00 AM CST -- 
+[07:16:02] <iembot>  LSX issues Tornado Warning for  Lincoln, Warren [MO] till 2:15 AM CST
+[07:18:25] <iembot> Kampsville [Calhoun Co, IL] trained spotter reports HAIL of quarter size (M1.00 INCH) at 12:55 AM CST -- 
+[07:18:36] <iembot>  LSX  expires Tornado Warning for  Callaway [MO]
+[07:24:27] <iembot> White Hall [Greene Co, IL] law enforcement reports HAIL of quarter size (E1.00 INCH) at 01:15 AM CST -- 
+[07:25:35] <iembot>  LSX issues Tornado Warning for  Macoupin [IL] till 2:15 AM CST
+[07:29:15] <iembot>  LSX  cancels Tornado Warning for  Montgomery [MO]
+[07:32:26] <iembot>  LSX  cancels Tornado Watch for  Audrain, Boone, Cole, Knox, Lewis, Marion, Moniteau, Monroe, Shelby [MO]
+[07:33:44] <iembot>  LSX issues Tornado Warning for  Pike [MO] till 2:15 AM CST
+[07:35:13] <iembot>  LSX  expires Tornado Warning for  Greene [IL]
+[07:36:11] <iembot>  LSX issues Severe Thunderstorm Warning for  Reynolds [MO] till 2:00 AM CST
+[07:38:28] <iembot>  LSX  cancels Tornado Warning for  Macoupin [IL]
+[07:42:26] <iembot> Troy [Lincoln Co, MO] trained spotter reports HAIL of egg size (E2.00 INCH) at 01:40 AM CST -- 
+[07:46:17] <iembot>  LSX issues Severe Thunderstorm Warning for  Franklin, Gasconade [MO] till 2:30 AM CST
+[07:49:04] <iembot> Silex [Lincoln Co, MO] trained spotter reports TSTM WND DMG at 01:40 AM CST -- possible damage in silex. emergency vehicles have been dispatch to the area.
+[07:52:57] <iembot>  LSX issues Tornado Warning for  Calhoun [IL] till 2:30 AM CST
+[07:55:00] <iembot> Olney [Lincoln Co, MO] law enforcement reports TORNADO at 01:25 AM CST -- 
+[07:55:02] <iembot> Silex [Lincoln Co, MO] law enforcement reports TORNADO at 01:35 AM CST -- tornado reported on the ground.
+[07:58:13] <iembot>  LSX issues Tornado Warning for  Reynolds [MO] till 2:30 AM CST
+[07:59:20] <iembot>  LSX  cancels Tornado Warning for  Lincoln, Warren [MO]
+[08:00:22] <iembot>  LSX  cancels Tornado Warning for  Pike [MO]
+[08:02:17] <iembot>  LSX issues Tornado Warning for  Greene [IL] till 2:45 AM CST
+[08:10:53] <iembot>  LSX issues Severe Thunderstorm Warning for  St. Charles [MO] till 3:00 AM CST
+[08:18:34] <iembot>  LSX  cancels Severe Thunderstorm Warning for  Gasconade [MO]
+[08:22:25] <iembot> Washington [Franklin Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 02:20 AM CST -- 
+[08:22:27] <iembot> Washington [Franklin Co, MO] trained spotter reports TSTM WND GST of M58 MPH at 02:20 AM CST -- 
+[08:26:39] <iembot>  LSX  cancels Tornado Warning for  Reynolds [MO]
+[08:32:01] <iembot>  LSX issues Severe Thunderstorm Warning for  Macoupin [IL] till 3:15 AM CST
+[08:33:32] <iembot> Washington [Franklin Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 02:30 AM CST -- quarter to golf ball sized hail.
+[08:35:07] <iembot>  LSX issues Severe Thunderstorm Warning for  Crawford, Washington [MO] till 3:30 AM CST
+[08:35:21] <iembot>  LSX issues Severe Thunderstorm Warning for  St. Louis [MO] till 3:15 AM CST
+[08:38:39] <iembot>  LSX issues Severe Thunderstorm Warning for  Madison [MO] till 3:15 AM CST
+[08:39:44] <iembot> Weldon Spring [St. Charles Co, MO] official nws obs reports HAIL of golf ball size (M1.75 INCH) at 02:35 AM CST -- 
+[08:48:11] <iembot>  LSX issues Tornado Warning for  Madison [MO] till 3:15 AM CST
+[08:49:13] <iembot> St. Peters [St. Charles Co, MO] nws employee reports HAIL of half dollar size (M1.25 INCH) at 02:40 AM CST -- numerous reports of large hail around the st. peters...st. charles area.
+[08:54:28] <iembot>  LSX  cancels Severe Thunderstorm Warning for  St. Charles [MO]
+[08:57:36] <iembot>  LSX issues Severe Thunderstorm Warning for  Montgomery [IL] till 3:45 AM CST
+[08:58:33] <iembot> Bridgeton [St. Louis Co, MO] trained spotter reports HAIL of quarter size (E1.00 INCH) at 02:55 AM CST -- at highway 370 near mills mall.
+[09:02:42] <iembot>  LSX issues Severe Thunderstorm Warning for  Madison [IL] till 3:45 AM CST
+[09:05:48] <iembot> Hazelwood [St. Louis Co, MO] trained spotter reports HAIL of quarter size (M1.00 INCH) at 03:00 AM CST -- howdershell and shackelford roads. also several reports of 1 inch hail in florissant.
+[09:10:52] <iembot>  LSX  cancels Severe Thunderstorm Warning for  St. Louis [MO]
+[09:11:37] <iembot> Berkeley [St. Louis Co, MO] asos reports HAIL of egg size (M2.00 INCH) at 02:59 AM CST -- observer at lambert airport reported 2 1/4 inch hail from 259 to 305 am.
+[09:12:30] <iembot>  LSX  cancels Tornado Warning for  Madison [MO]
+[09:13:39] <iembot> Spanish Lake [St. Louis Co, MO] trained spotter reports HAIL of golf ball size (M1.75 INCH) at 03:05 AM CST -- bellefonatine road in spanish lake
+[09:17:14] <iembot>  LSX  expires Severe Thunderstorm Warning for  Macoupin [IL]
+[09:18:58] <iembot> 10 W Carlinville [Macoupin Co, IL] emergency mngr reports TSTM WND DMG at 02:55 AM CST -- abandoned house blown down. 4 power poles also down.
+[09:19:53] <iembot>  MCD! http://www.spc.noaa.gov/products/md/md0279.html
+[09:22:39] <iembot>  LSX  cancels Severe Thunderstorm Warning for  Crawford [MO]
+[09:33:45] <iembot>  LSX  expires Severe Thunderstorm Warning for  Washington [MO]
+[09:37:22] <iembot>  LSX issues Severe Thunderstorm Warning for  Bond [IL] till 4:15 AM CST
+[09:49:51] <iembot>  LSX  expires Severe Thunderstorm Warning for  Madison [IL]
+[09:53:14] <iembot>  LSX issues Tornado Warning for  Ste. Genevieve [MO] till 4:30 AM CST
+[09:59:50] <iembot> Jonesburg [Montgomery Co, MO] county official reports TORNADO at 12:40 AM CST -- *** 1 inj *** several houses damaged...3 mobile homes damaged...numerous sheds and outbuildings destroyed. 1 injury reported by county ema.
+[10:00:02] <iembot>  LSX  cancels Tornado Watch for  Bond, Fayette, Montgomery [IL]
+[10:00:04] <iembot>  LSX issues Tornado Watch for  Bond, Fayette, Montgomery [IL] till 11:00 AM CST
+[10:00:06] <iembot>  LSX  cancels Tornado Watch for  Callaway, Crawford, Franklin, Gasconade, Iron, Jefferson, Lincoln, Montgomery, Osage, Pike, Ralls, Reynolds, St. Charles, St. Louis, St. Louis City, Warren, Washington [MO] and Adams, Brown, Calhoun, Greene, Jersey, Macoupin, Madison, Pike [IL]
+[10:00:08] <iembot>  LSX  cancels Tornado Watch for  Madison, St. Francois, Ste. Genevieve [MO] and Clinton, Marion, Monroe, Randolph, St. Clair, Washington [IL]
+[10:01:29] <iembot>  LSX issues Severe Thunderstorm Warning for  Monroe, St. Clair [IL] till 4:45 AM CST
+[10:01:31] <iembot> Jonesburg [Montgomery Co, MO] county official reports TORNADO at 12:30 AM CST -- *** 1 inj *** several houses damaged...3 mobile homes damaged...numerous sheds and outbuildings destroyed. 1 injury reported by county ema.
+[10:04:29] <iembot>  LSX issues Tornado Warning for  Randolph [IL] till 4:45 AM CST
+[10:05:34] <iembot> Jonesburg [Montgomery Co, MO] county official reports TORNADO at 12:30 AM CST -- *** 1 inj *** several houses damaged...3 mobile homes damaged...numerous sheds and outbuildings destroyed. 1 injury reported by county ema.
+[10:09:45] <iembot> Alton [Madison Co, IL] public reports HAIL of penny size (M0.75 INCH) at 03:05 AM CST -- 
+[10:14:08] <iembot> 2 Sw Belleville [St. Clair Co, IL] county official reports TSTM WND GST of M68 MPH at 04:07 AM CST -- 
+[10:19:32] <iembot>  LSX  cancels Tornado Warning for  Ste. Genevieve [MO]
+[10:23:01] <iembot>  LSX  cancels Severe Thunderstorm Warning for  Monroe [IL]
+[10:25:49] <iembot> 5 W Baldwin [Randolph Co, IL] trained spotter reports HAIL of penny size (M0.75 INCH) at 04:21 AM CST -- 
+[10:28:50] <iembot>  LSX issues Severe Thunderstorm Warning for  Washington [IL] till 5:15 AM CST
+[10:30:18] <iembot> Ste. Genevieve [Ste. Genevieve Co, MO] county official reports TSTM WND GST of E60 MPH at 04:05 AM CST -- 
+[10:34:47] <iembot>  LSX  cancels Severe Thunderstorm Warning for  St. Clair [IL]
+[10:39:50] <iembot>  LSX  cancels Tornado Warning for  Randolph [IL]
+[10:42:08] <iembot> Red Bud [Randolph Co, IL] trained spotter reports HAIL of penny size (M0.75 INCH) at 04:21 AM CST -- 
+[11:17:22] <iembot>  LSX  expires Severe Thunderstorm Warning for  Washington [IL]
+[12:00:28] <iembot>  LSX  cancels Tornado Watch for  Bond, Fayette, Montgomery [IL]
+[13:16:02] <iembot> Silex [Lincoln Co, MO] county official reports TORNADO at 01:27 AM CST -- *** 2 inj *** tornado touchdown...from olney to silex. local media reports seven buildings completely destroyed...others suffered major damage. 2 injuries. one man was taken to a lake saint louis hospital for a broken leg and back injury.

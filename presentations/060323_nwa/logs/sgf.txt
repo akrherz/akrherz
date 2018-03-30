@@ -1,0 +1,365 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[04:30:21] <iembot>  SGF  cancels Severe Thunderstorm Warning for  Bourbon [KS]
+[04:30:30] <iembot>  SGF issues Tornado Warning for  Miller [MO] till 11:15 PM CST
+[04:30:35] <iembot>  SGF  cancels Tornado Warning for  Stone [MO]
+[04:31:07] <iembot> Neosho [Newton Co, MO] law enforcement reports TORNADO at 09:45 PM CST -- law enforcement reporting numerous mobile homes overturned and numerous roofs off of homes from the southwest side of neosho to 5 miles southwest of neosho
+[04:36:51] <iembot> Springfield [Greene Co, MO] public reports HAIL of quarter size (E1.00 INCH) at 10:36 PM CST -- quarter size hail at chestnut and west bypass
+[04:37:45] <iembot>  SGF issues Tornado Warning for  Barry, Stone [MO] till 11:30 PM CST
+[04:39:26] <iembot>  SGF issues Tornado Warning for  Webster [MO] till 11:45 PM CST
+[04:41:23] <iembot> Marionville [Lawrence Co, MO] amateur radio reports TORNADO at 10:39 PM CST -- no power to the city of marionville. along highway 14...there is a trailer in the road. along zz highway north of marionville...a house is destroyed. this is possible tornado damage.
+[04:43:20] <iembot>  SGF issues Tornado Warning for  Benton [MO] till 11:30 PM CST
+[04:43:32] <iembot> Pittsburg [Hickory Co, MO] emergency mngr reports TORNADO at 10:25 PM CST -- polk county emergency manager relayed report that 3 homes in pittsburg have been demolished. search and rescue is ongoing.
+[04:46:19] <iembot>  SGF issues Tornado Warning for  St. Clair [MO] till 11:15 PM CST
+[04:48:00] <iembot> 2 Sw Pittsburg [Hickory Co, MO] trained spotter reports TORNADO at 10:25 PM CST -- spotter reported tornado on the ground at rb highway on the polk/hickory county line
+[04:49:18] <iembot> 2 S Hermitage [Hickory Co, MO] emergency mngr reports TORNADO at 10:30 PM CST -- emergency manager reported a tornado on the ground near highway 83
+[04:51:02] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of baseball size (E2.75 INCH) at 10:40 PM CST -- baseball size hail reported at sunshine and kansas
+[04:51:46] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of baseball size (E2.75 INCH) at 10:43 PM CST -- baseball size hail at college and kansas
+[04:52:37] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 10:43 PM CST -- power flashes reported along highway 65 and evans road. possible tornado
+[04:53:06] <iembot>  SGF  cancels Tornado Warning for  Hickory [MO]
+[04:53:14] <iembot> 1 Sw Springfield [Greene Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 10:45 PM CST -- 
+[04:53:57] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 10:45 PM CST -- golf ball size hail reported at cherry street and oak grove
+[04:54:27] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of egg size (E2.00 INCH) at 10:45 PM CST -- two inch hail reported at chestnut and west bypass
+[04:54:45] <iembot>  SGF issues Tornado Warning for  Taney [MO] till 12:00 AM CST
+[04:55:07] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of quarter size (E1.00 INCH) at 10:45 PM CST -- quarter size hail reported at chestnut and west bypass
+[04:57:40] <iembot>  SGF  cancels Tornado Warning for  Miller [MO]
+[04:57:56] <iembot> Republic [Greene Co, MO] amateur radio reports TORNADO at 10:55 PM CST -- home destroyed near p highway and wisehill road. possible tornado damage
+[04:58:19] <iembot> Springfield [Greene Co, MO] amateur radio reports FUNNEL CLOUD at 10:54 PM CST -- wall cloud reported near highway 60 and sunshine
+[04:59:17] <iembot> Fremont Hills [Christian Co, MO] amateur radio reports TORNADO at 10:56 PM CST -- tornado reported on the ground in fremont hills
+[04:59:20] <iembot>  SGF  cancels Tornado Warning for  Benton [MO]
+[04:59:53] <iembot>  SGF  expires Severe Thunderstorm Warning for  Vernon [MO]
+[05:01:05] <iembot>  SGF issues Tornado Warning for  Morgan [MO] till 12:00 AM CST
+[05:01:26] <iembot>  SGF  cancels Tornado Warning for  Barry [MO]
+[05:01:49] <iembot> 3 Sw Springfield [Greene Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 10:35 PM CST -- golf ball hail reported at golden road and battlefield road.
+[05:02:52] <iembot> 6 Sw Springfield [Greene Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 10:45 PM CST -- golf ball hail reported at chestnut and west bypass.
+[05:04:46] <iembot>  SGF  cancels Tornado Warning for  Christian, Greene [MO]
+[05:05:48] <iembot>  SGF  expires Tornado Warning for  Camden [MO]
+[05:07:59] <iembot>  SGF issues Tornado Warning for  Wright [MO] till 12:15 AM CST
+[05:10:01] <iembot> Gravois Mills [Morgan Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 11:09 PM CST -- golf ball hail
+[05:13:34] <iembot>  SGF  expires Tornado Warning for  St. Clair [MO]
+[05:13:37] <iembot> Nixa [Christian Co, MO] amateur radio reports TORNADO at 10:47 PM CST -- debris reported in nixa along highway 160 and aa. debris includes insulation and boards.
+[05:13:45] <iembot>  SGF issues Tornado Warning for  Miller [MO] till 12:00 AM CST
+[05:14:16] <iembot>  SGF issues Severe Thunderstorm Warning for  Cherokee [KS] and Jasper, Newton [MO] till 11:45 PM CST
+[05:15:31] <iembot>  SGF issues Severe Thunderstorm Warning for  Benton [MO] till 11:45 PM CST
+[05:15:52] <iembot> Baxter Springs [Cherokee Co, KS] public reports HAIL of quarter size (E1.00 INCH) at 11:15 PM CST -- 
+[05:17:20] <iembot>  SGF  cancels Tornado Warning for  Stone [MO]
+[05:22:55] <iembot> Sunrise Beach [Camden Co, MO] county official reports TORNADO at 10:37 PM CST -- possible tornado on the ground near sunrise beach.
+[05:23:53] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of golf ball size (M1.75 INCH) at 10:37 PM CST -- golfball hail covering the ground in downtown springfield.
+[05:25:48] <iembot>  SGF  cancels Tornado Warning for  Morgan [MO]
+[05:26:15] <iembot>  SGF issues Tornado Warning for  Ozark [MO] till 12:30 AM CST
+[05:26:58] <iembot> 3 S Battlefield [Christian Co, MO] amateur radio reports TORNADO at 11:05 PM CST -- home destroyed on 115 south of greene/christian county line. powerlines, downed trees, debris, and homes destroyed near p and nichols road...also along aa highway. possible tornado damage
+[05:28:04] <iembot> 5 S Springfield [Greene Co, MO] trained spotter reports HAIL of golf ball size (M1.75 INCH) at 10:41 PM CST -- spotter reported golf ball hail.
+[05:28:13] <iembot> Nixa [Christian Co, MO] amateur radio reports TORNADO at 10:47 PM CST -- structure damage reported at trailer park...near 160 and cc highway. possible tornado damage.
+[05:28:54] <iembot> Marshfield [Webster Co, MO] amateur radio reports HAIL of quarter size (E1.00 INCH) at 11:13 PM CST -- 
+[05:29:46] <iembot> Battlefield [Greene Co, MO] nws employee reports HAIL of egg size (E2.00 INCH) at 10:46 PM CST -- 
+[05:30:17] <iembot> Branson [Taney Co, MO] amateur radio reports HAIL of tennis ball size (E2.50 INCH) at 11:17 PM CST -- quarter to tennis ball size hail in branson
+[05:30:42] <iembot>  SGF issues Severe Thunderstorm Warning for  Morgan [MO] till 12:00 AM CST
+[05:31:01] <iembot> Branson [Taney Co, MO] amateur radio reports HAIL of quarter size (E1.00 INCH) at 11:17 PM CST -- quarter size hail at f and cc
+[05:31:32] <iembot>  MCD! http://www.spc.noaa.gov/products/md/md0273.html
+[05:32:40] <iembot> 10 E Niangua [Wright Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 11:17 PM CST -- golf ball size hail and 60 mph winds
+[05:32:42] <iembot> 10 E Niangua [Wright Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 11:31 PM CST -- golf ball size hail and winds up to 60 mph
+[05:33:19] <iembot> 10 E Niangua [Wright Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 11:31 PM CST -- golf ball size hail and 60 mph winds
+[05:34:01] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 11:04 PM CST -- golf ball size hail at battlefield road and highway 65
+[05:34:30] <iembot> Republic [Greene Co, MO] nws employee reports HAIL of teacup size (E3.00 INCH) at 10:45 PM CST -- 
+[05:35:33] <iembot>  SGF  cancels Tornado Warning for  Miller [MO]
+[05:36:46] <iembot> Rogersville [Webster Co, MO] amateur radio reports FUNNEL CLOUD at 11:10 PM CST -- rotating funnel cloud reported from rogersville to fordland
+[05:37:08] <iembot>  SGF issues Tornado Warning for  Laclede, Texas [MO] till 12:30 AM CST
+[05:37:40] <iembot>  SGF  expires Tornado Warning for  Webster [MO]
+[05:38:27] <iembot> 2 Nnw Rogersville [Webster Co, MO] amateur radio reports HAIL of baseball size (E2.75 INCH) at 11:03 PM CST -- baseball size hail reported along the greene/webster county line
+[05:39:08] <iembot> Battlefield [Greene Co, MO] public reports HAIL of half dollar size (E1.25 INCH) at 10:38 PM CST -- 
+[05:41:00] <iembot> 2 E Billings [Christian Co, MO] public reports TORNADO at 10:45 PM CST -- trees reported down. barns destroyed and debris on roadway 1 mile southeast of billings. possible tornado damage.
+[05:41:02] <iembot>  SGF issues Tornado Warning for  Morgan [MO] till 12:15 AM CST
+[05:41:18] <iembot> Liberal [Barton Co, MO] law enforcement reports HAIL of pea size (E0.25 INCH) at 11:15 PM CST -- 
+[05:42:13] <iembot>  SGF  expires Severe Thunderstorm Warning for  Benton [MO]
+[05:43:02] <iembot> Billings [Christian Co, MO] amateur radio reports TORNADO at 11:10 PM CST -- trees down and housing debris...along 160 from marionville to billings. possible tornado damage
+[05:43:57] <iembot>  SGF issues Severe Thunderstorm Warning for  Lawrence [MO] till 12:45 AM CST
+[05:43:59] <iembot> Grovespring [Wright Co, MO] amateur radio reports HAIL of quarter size (E1.00 INCH) at 11:36 PM CST -- at ff and c...60 mph wind was measured by instrument.
+[05:44:36] <iembot> 9 N Hartville [Wright Co, MO] amateur radio reports TORNADO at 11:38 PM CST -- tornado reported on the ground by trained spotter
+[05:44:52] <iembot> 2 S Lincoln [Benton Co, MO] law enforcement reports TSTM WND DMG at 11:33 PM CST -- storage bin blown across highay 65.
+[05:45:24] <iembot>  SGF issues Severe Thunderstorm Warning for  Polk [MO] till 12:45 AM CST
+[05:50:22] <iembot>  SGF issues Tornado Warning for  Pulaski [MO] till 12:45 AM CST
+[05:52:59] <iembot>  SGF  expires Tornado Warning for  Taney [MO]
+[05:53:07] <iembot>  SGF issues Severe Thunderstorm Warning for  Dallas [MO] till 12:45 AM CST
+[05:53:17] <iembot> Branson [Taney Co, MO] public reports TORNADO at 10:43 PM CST -- tornado reported along 248 just north of branson
+[05:53:19] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of baseball size (E2.75 INCH) at 10:50 PM CST -- 
+[05:53:20] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of baseball size (E2.75 INCH) at 10:50 PM CST -- reported at glenstone and primrose
+[05:53:22] <iembot> Springfield [Greene Co, MO] nws employee reports HAIL of golf ball size (E1.75 INCH) at 10:53 PM CST -- reported at glenstone and sunset
+[05:53:24] <iembot> Springfield [Greene Co, MO] public reports HAIL of baseball size (E2.75 INCH) at 11:00 PM CST -- reported at kimbrough and cherokee
+[05:53:26] <iembot> 2 N Asbury [Jasper Co, MO] amateur radio reports TSTM WND GST of E60 MPH at 11:15 PM CST -- 
+[05:54:15] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 11:11 PM CST -- damage near james river power plant. debris from homes. possible tornado damage.
+[05:55:23] <iembot>  SGF issues Severe Thunderstorm Warning for  Benton [MO] till 12:45 AM CST
+[05:55:33] <iembot> Marshfield [Webster Co, MO] amateur radio reports TORNADO at 11:50 PM CST -- near highway 38 in marshfield...2 barns destroyed and trees 2 ft. in diameter blown over. possible tornado damage.
+[05:56:23] <iembot>  SGF  cancels Tornado Warning for  Wright [MO]
+[05:56:26] <iembot> Hollister [Taney Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 11:11 PM CST -- 
+[05:57:19] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 11:13 PM CST -- along 413 south of highway 60...numerous structures damaged. possible tornado damage
+[05:58:40] <iembot> Sunrise Beach [Camden Co, MO] county official reports TORNADO at 10:37 PM CST -- tornado on the ground
+[05:59:39] <iembot>  SGF issues Tornado Warning for  Hickory [MO] till 1:00 AM CST
+[06:00:40] <iembot>  SGF issues Severe Thunderstorm Warning for  Douglas [MO] till 12:45 AM CST
+[06:01:35] <iembot> Noble [Ozark Co, MO] public reports HAIL of golf ball size (E1.75 INCH) at 12:00 AM CST -- 
+[06:02:10] <iembot>  SGF  cancels Tornado Warning for  Laclede [MO]
+[06:04:42] <iembot>  SGF issues Tornado Warning for  Dallas [MO] till 12:45 AM CST
+[06:05:07] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 10:40 PM CST -- golf ball hail reported covering the ground in downtown springfield
+[06:05:09] <iembot> 5 Se Roscoe [St. Clair Co, MO] emergency mngr reports TORNADO at 10:45 PM CST -- 5 miles southeast of roscoe along highway 54...path of damage including mobile homes damage and at least one house destroyed.
+[06:06:01] <iembot>  SGF  expires Tornado Warning for  Morgan [MO]
+[06:06:14] <iembot>  SGF issues Tornado Warning for  Benton [MO] till 1:00 AM CST
+[06:07:32] <iembot>  SGF issues Tornado Warning for  Dent [MO] till 1:00 AM CST
+[06:08:40] <iembot> Springfield [Greene Co, MO] amateur radio reports FUNNEL CLOUD at 12 Mar, 10:52 AM CST -- funnel cloud reported dropping at sunshine and west bypass
+[06:09:02] <iembot>  SGF issues Tornado Warning for  Phelps [MO] till 1:15 AM CST
+[06:12:14] <iembot>  SGF issues Tornado Warning for  Douglas, Howell [MO] till 1:15 AM CST
+[06:13:52] <iembot> Billings [Christian Co, MO] amateur radio reports TORNADO at 12 Mar, 11:13 AM CST -- along 413 south of 60...numerous structures damaged. possible tornado damage.
+[06:13:54] <iembot> Rogersville [Webster Co, MO] amateur radio reports TORNADO at 12 Mar, 11:10 AM CST -- near 223 and fr 94...home debris in back yard. possible tornado damage
+[06:13:56] <iembot> Marshfield [Webster Co, MO] amateur radio reports TORNADO at 12 Mar, 11:15 AM CST -- near cass road and 38 just east of marshfield...along the webster/wright county line. several homes destroyed...trailer homes destroyed. possible tornado damage
+[06:13:58] <iembot> Rogersville [Webster Co, MO] amateur radio reports TORNADO at 12 Mar, 11:11 AM CST -- along farm road 189 and highway 60...debris from homes. possible tornado damage
+[06:15:08] <iembot> Rogersville [Webster Co, MO] amateur radio reports TORNADO at 11:10 PM CST -- near 223 and fr 94...home debris in back yard. possible tornado damage
+[06:15:10] <iembot> Rogersville [Webster Co, MO] amateur radio reports TORNADO at 11:11 PM CST -- along farm road 189 and highway 60...debris from homes. possible tornado damage
+[06:15:49] <iembot>  SGF issues Severe Thunderstorm Warning for  Camden [MO] till 1:15 AM CST
+[06:16:13] <iembot> Springfield [Greene Co, MO] amateur radio reports FUNNEL CLOUD at 10:52 PM CST -- funnel cloud reported dropping at sunshine and west bypass
+[06:16:14] <iembot>  SGF issues Severe Thunderstorm Warning for  Greene [MO] till 1:30 AM CST
+[06:16:18] <iembot> Billings [Christian Co, MO] amateur radio reports TORNADO at 11:13 PM CST -- along 413 south of 60...numerous structures damaged. possible tornado damage.
+[06:16:18] <iembot> Marshfield [Webster Co, MO] amateur radio reports TORNADO at 11:15 PM CST -- near cass road and 38 just east of marshfield...along the webster/wright county line. several homes destroyed...trailer homes destroyed. possible tornado damage
+[06:16:32] <iembot>  SGF  cancels Tornado Warning for  Texas [MO]
+[06:18:12] <iembot>  SGF  cancels Tornado Warning for  Pulaski [MO]
+[06:19:50] <iembot>  SGF issues Tornado Warning for  Greene [MO] till 1:30 AM CST
+[06:20:23] <iembot>  SGF issues Tornado Warning for  Camden [MO] till 1:15 AM CST
+[06:24:23] <iembot>  SGF  cancels Tornado Warning for  Dallas [MO]
+[06:26:29] <iembot>  SGF  cancels Tornado Warning for  Benton [MO]
+[06:27:23] <iembot>  SGF  cancels Tornado Warning for  Hickory [MO]
+[06:32:19] <iembot>  SGF  expires Tornado Warning for  Ozark [MO]
+[06:32:50] <iembot>  SGF  cancels Severe Thunderstorm Warning for  Lawrence [MO]
+[06:35:25] <iembot> Webb City [Jasper Co, MO] law enforcement reports HAIL of pea size (E0.25 INCH) at 11:25 PM CST -- 
+[06:35:27] <iembot> 2 N Aurora [Lawrence Co, MO] amateur radio reports TORNADO at 11:39 PM CST -- 5 homes destroyed and 2 mobile homes destroyed. possible tornado damage.
+[06:35:29] <iembot> Joplin [Jasper Co, MO] public reports HAIL of golf ball size (E1.75 INCH) at 11:35 PM CST -- 
+[06:35:31] <iembot> Duenweg [Jasper Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 11:35 PM CST -- 
+[06:39:50] <iembot>  SGF  cancels Tornado Warning for  Douglas [MO]
+[06:40:32] <iembot> Springfield [Greene Co, MO] nws employee reports HAIL of golf ball size (E1.75 INCH) at 12:39 AM CST -- golf ball size hail reported at the national weather service office near the springfield-branson regional airport.
+[06:40:58] <iembot> Springfield [Greene Co, MO] nws employee reports FUNNEL CLOUD at 12:39 AM CST -- funnel cloud reported near the national weather service office
+[06:41:56] <iembot>  SGF issues Tornado Warning for  Oregon, Shannon [MO] till 1:45 AM CST
+[06:42:44] <iembot>  SGF issues Tornado Warning for  Miller [MO] till 1:45 AM CST
+[06:43:24] <iembot> 8 Sw Buffalo [Polk Co, MO] emergency mngr reports FUNNEL CLOUD at 12:32 AM CST -- wall cloud reported 8 to 10 miles southwest of buffalo
+[06:43:31] <iembot>  SGF  cancels Tornado Warning for  Dent [MO]
+[06:44:49] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 12:44 AM CST -- debris reported in the air at kearney and kansas in springfield. possible tornado damage
+[06:45:54] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 12:45 AM CST -- transformer power flashes at booneville and chesnut
+[06:46:05] <iembot>  SGF  cancels Tornado Warning for  Phelps [MO]
+[06:46:44] <iembot>  SGF issues Tornado Warning for  Webster [MO] till 1:45 AM CST
+[06:48:47] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 12:48 AM CST -- tornado reported on the ground by ham radio at highway 65 and division
+[06:49:52] <iembot>  SGF  cancels Tornado Warning for  Camden [MO]
+[06:51:19] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 12:50 AM CST -- tornado reported on the ground at 174 and i-44...one mile west of this area...tracking northeast at 60 to 70 mph
+[06:52:28] <iembot>  SGF issues Tornado Warning for  Maries [MO] till 1:45 AM CST
+[06:53:10] <iembot> Springfield [Greene Co, MO] trained spotter reports TORNADO at 12:45 AM CST -- power flases at golden road and battlefield road. possible tornado damage
+[07:00:13] <iembot> Marshfield [Webster Co, MO] amateur radio reports TORNADO at 11:42 PM CST -- powerlines and power poles down east of marshfield. possible tornado damage
+[07:01:14] <iembot> Springfield [Greene Co, MO] amateur radio reports FUNNEL CLOUD at 01:00 AM CST -- wall cloud reported near james river freeway and highway 65
+[07:03:17] <iembot> Competition [Laclede Co, MO] emergency mngr reports TORNADO at 12:07 AM CST -- tornado touched down along 0 highway
+[07:04:36] <iembot> Theodosia [Ozark Co, MO] trained spotter reports FUNNEL CLOUD at 12:05 AM CST -- wall cloud with rotation reported
+[07:04:38] <iembot> Goodhope [Douglas Co, MO] trained spotter reports FUNNEL CLOUD at 12:05 AM CST -- wall cloud reported from goodhope to thornfield
+[07:07:28] <iembot> Battlefield [Greene Co, MO] public reports HAIL of half dollar size (E1.25 INCH) at 10:38 PM CST -- 
+[07:08:15] <iembot>  SGF  cancels Tornado Watch for  Bourbon, Cherokee, Crawford [KS] and Barton, Benton, Cedar, Dade, Hickory, Jasper, McDonald, Morgan, Newton, St. Clair, Vernon [MO]
+[07:08:34] <iembot>  SGF  cancels Tornado Warning for  Greene [MO]
+[07:09:10] <iembot> 2 E Billings [Christian Co, MO] public reports TORNADO at 10:45 PM CST -- trees down 2 miles east of billings. possible tornado damage
+[07:09:12] <iembot> 6 S Lebanon [Laclede Co, MO] trained spotter reports FUNNEL CLOUD at 11:50 PM CST -- funnel cloud 6 miles south of lebanon
+[07:09:54] <iembot>  SGF  expires Tornado Warning for  Howell [MO]
+[07:10:45] <iembot>  SGF  cancels Tornado Warning for  Miller [MO]
+[07:11:09] <iembot> 2 S Freistatt [Lawrence Co, MO] public reports FUNNEL CLOUD at 12:20 AM CST -- funnel cloud reported at highway h and i-44.
+[07:11:48] <iembot> 4 S Ash Grove [Greene Co, MO] trained spotter reports HAIL of nickle size (E0.88 INCH) at 12:25 AM CST -- 
+[07:12:41] <iembot> 9 Ne Camdenton [Camden Co, MO] law enforcement reports HAIL of nickle size (E0.88 INCH) at 12:30 AM CST -- nickel hail near highways 5 and 7
+[07:13:41] <iembot> Springfield [Greene Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 01:00 AM CST -- golf ball hail at rogers and national in springfield
+[07:14:39] <iembot> Marshfield [Webster Co, MO] amateur radio reports FUNNEL CLOUD at 01:13 AM CST -- rotating wall cloud reported 4 miles from marshfield along i-44 mile marker 97
+[07:15:34] <iembot>  SGF ISSUES NADO WATCH 77 REMAINS VALID UNTIL 4 AM CST EARLY THIS MORNING FOR THE FOLLOWING AR
+[07:17:59] <iembot> Conway [Laclede Co, MO] emergency mngr reports HAIL of nickle size (E0.88 INCH) at 01:13 AM CST -- 
+[07:19:20] <iembot>  SGF  cancels Tornado Warning for  Oregon [MO]
+[07:22:45] <iembot>  SGF issues Severe Thunderstorm Warning for  Wright [MO] till 2:15 AM CST
+[07:23:01] <iembot> Pittsburg [Hickory Co, MO] emergency mngr reports TORNADO at 10:45 PM CST -- *** 7 inj *** tornado touched down near rb 83. heavy damage sustained to carsons corner. 7 injuries and 20 homes damaged/destroyed
+[07:25:22] <iembot>  SGF  cancels Tornado Warning for  Webster [MO]
+[07:31:20] <iembot> Neosho [Newton Co, MO] emergency mngr reports TORNADO at 09:30 PM CST -- *** 1 inj *** damage from tornado runs to the northeast from rosebay drive and y highway to the area of kodiak road and shady lane drive. numerous large trees are down along this path and possibly 15 homes have sustained damage...some damage is significant. a large turkey house was destroyed along hereford road...south of us 60. one female was injured on pecan drive...approximately 5 miles southwest of neosho. she was injured when her mobile home rolled on its side and she was ejected from the home.
+[07:34:16] <iembot> Bois D'Arc [Greene Co, MO] amateur radio reports TORNADO at 12:30 AM CST -- roof gone off house. carport wall knocked over. possible tornado damage
+[07:35:09] <iembot>  SGF  cancels Tornado Warning for  Maries [MO]
+[07:36:17] <iembot> 3 Sw Billings [Christian Co, MO] nws employee reports TSTM WND DMG at 12:30 AM CST -- at 413 south of highway 60...telephone poles and trees were reported downed. possible tornado damage
+[07:44:39] <iembot>  SGF  expires Tornado Warning for  Shannon [MO]
+[07:45:14] <iembot> 2 E Sheldon [Vernon Co, MO] law enforcement reports TORNADO at 08:47 PM CST -- *** 2 inj *** continuous damage track beginning on b highway 3-4 miles east of sheldon...continuing northeastward to just north ot bellamy to montevello to virgil city. several homes...some well built...completely destroyed. church destroyed near virgil city. couple of minor injuries.
+[07:52:34] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 12:38 AM CST -- high voltage power poles broken in half at fulbright and chestnut. possible tornado damage
+[07:54:36] <iembot> 5 Ssw El Dorado Springs [Cedar Co, MO] public reports TORNADO at 09:10 PM CST -- damage path entered cedar county near virgil city and damage path was continuous up to and through cedar springs area. many homes damaged/destroyed and extensive damage all along the tornado path. no major injuries however unknown about minor injuries.
+[07:59:02] <iembot>  SGF issues Severe Thunderstorm Warning for  Texas [MO] till 2:45 AM CST
+[08:03:53] <iembot> Uniontown [Bourbon Co, KS] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 02:16 PM CST -- 
+[08:03:54] <iembot> 6 W Fort Scott [Bourbon Co, KS] trained spotter reports FUNNEL CLOUD at 02:25 PM CST -- spotter observed funnel cloud 6 miles w of fort scott
+[08:03:56] <iembot> Devon [Bourbon Co, KS] law enforcement reports HAIL of baseball size (E2.75 INCH) at 02:31 PM CST -- 
+[08:04:03] <iembot> Florence [Morgan Co, MO] law enforcement reports TSTM WND DMG at 04:25 PM CST -- 2 grain bins down on fry road in the vicinity of florence
+[08:04:05] <iembot> Uniontown [Bourbon Co, KS] fire dept/rescue reports HAIL of penny size (E0.75 INCH) at 07:23 PM CST -- 
+[08:04:07] <iembot> 7 W Girard [Crawford Co, KS] law enforcement reports HAIL of penny size (E0.75 INCH) at 07:59 PM CST -- dime to pea size hail reported 7 miles west and 2 miles south of girard
+[08:04:09] <iembot> 9 W Columbus [Cherokee Co, KS] emergency mngr reports HAIL of golf ball size (E1.75 INCH) at 08:15 PM CST -- 
+[08:04:11] <iembot> Chicopee [Crawford Co, KS] public reports HAIL of penny size (E0.75 INCH) at 08:25 PM CST -- dime size hail
+[08:04:14] <iembot> Frontenac [Crawford Co, KS] public reports HAIL of nickle size (E0.88 INCH) at 08:25 PM CST -- 
+[08:04:16] <iembot> Mindenmines [Barton Co, MO] trained spotter reports TSTM WND GST of E60.00 MPH at 08:45 PM CST -- also noted dime size hail along highway 126 and the state line
+[08:04:19] <iembot> 2 E Sheldon [Vernon Co, MO] law enforcement reports TORNADO at 08:47 PM CST -- *** 2 inj *** continuous damage track beginning on b highway 3-4 miles east of sheldon...continuing northeastward to just north ot bellamy to montevello to virgil city. several homes...some well built...completely destroyed. church destroyed near virgil city. couple of minor injuries.
+[08:04:22] <iembot> 5 Ssw El Dorado Springs [Cedar Co, MO] public reports TORNADO at 09:10 PM CST -- damage path entered cedar county near virgil city and damage path was continuous up to and through cedar springs area. many homes damaged/destroyed and extensive damage all along the tornado path. no major injuries however unknown about minor injuries.
+[08:04:24] <iembot> 1 S Boston [Barton Co, MO] emergency mngr reports HAIL of quarter size (E1.00 INCH) at 09:15 PM CST -- 
+[08:04:25] <iembot> 1 S Boston [Barton Co, MO] emergency mngr reports FUNNEL CLOUD at 09:15 PM CST -- funnel cloud reported near highways 71 and 126 and highways 126 and t
+[08:04:27] <iembot> 2 S Neosho [Newton Co, MO] amateur radio reports HAIL of penny size (E0.75 INCH) at 09:23 PM CST -- 
+[08:04:29] <iembot> El Dorado Springs [Cedar Co, MO] amateur radio reports TORNADO at 09:26 PM CST -- possible tornado damage. house destroyed near 151 and 800 road. powerpoles also reported down
+[08:04:31] <iembot> El Dorado Springs [Cedar Co, MO] amateur radio reports TORNADO at 09:26 PM CST -- update...unknown number of people were injured but injuries were reported as not severe at the intersection of 151 and 800 road.
+[08:04:33] <iembot> 1 S Pierce City [Lawrence Co, MO] trained spotter reports FUNNEL CLOUD at 09:28 PM CST -- funnel and wall cloud reported near highways 97 and 60 just south of pierce city
+[08:04:35] <iembot> Filley [Cedar Co, MO] emergency mngr reports TORNADO at 09:28 PM CST -- tornado damage confirmed by law enforcement in the filley area. injuries and missing persons have been reported.
+[08:04:37] <iembot> Kenoma [Barton Co, MO] emergency mngr reports FUNNEL CLOUD at 09:28 PM CST -- funnel cloud reported over kenoma at t highway and 126
+[08:04:39] <iembot> Neosho [Newton Co, MO] emergency mngr reports TORNADO at 09:30 PM CST -- *** 1 inj *** damage from tornado runs to the northeast from rosebay drive and y highway to the area of kodiak road and shady lane drive. numerous large trees are down along this path and possibly 15 homes have sustained damage...some damage is significant. a large turkey house was destroyed along hereford road...south of us 60. one female was injured on pecan drive...approximately 5 miles southwest of neosho. she was injured when her mobile home rolled on its side and she was ejected from the home.
+[08:04:41] <iembot> 2 N Goodman [Newton Co, MO] amateur radio reports FUNNEL CLOUD at 09:30 PM CST -- funnel cloud reported on highways 71 and aa on the mcdonald/newton county line
+[08:04:42] <iembot> Neosho [Newton Co, MO] law enforcement reports TORNADO at 09:30 PM CST -- tornado was reported on the ground just north of highway 60...southwest of neosho
+[08:04:44] <iembot> 3 Ne Neosho [Newton Co, MO] law enforcement reports TORNADO at 09:35 PM CST -- tornado reported near highways 86 and 71. tornado then lifted at 938 pm.
+[08:04:46] <iembot> Osceola [St. Clair Co, MO] law enforcement reports TSTM WND GST of E70.00 MPH at 09:35 PM CST -- dime hail also reported.
+[08:04:48] <iembot> Bona [Dade Co, MO] law enforcement reports TORNADO at 09:39 PM CST -- dade county 911 reported a tornado touched down and lifted up near bona
+[08:04:50] <iembot> Neosho [Newton Co, MO] amateur radio reports TORNADO at 09:45 PM CST -- possible tornado damage...trees down and house reported demolished
+[08:04:52] <iembot> Neosho [Newton Co, MO] law enforcement reports TORNADO at 09:45 PM CST -- law enforcement officer estimated 3 mile long path of damage. eyewitnesses stated the funnel was 150 to 200 feet wide. confirmed damage to at least one home and one mobile home. search and rescue is currently underway.
+[08:04:54] <iembot> Neosho [Newton Co, MO] law enforcement reports TORNADO at 09:45 PM CST -- law enforcement reporting numerous mobile homes overturned and numerous roofs off of homes from the southwest side of neosho to 5 miles southwest of neosho
+[08:04:56] <iembot> Monett [Barry Co, MO] law enforcement reports HAIL of ping pong ball size (E1.50 INCH) at 09:54 PM CST -- ping pong size hail reported along i-44 at mile marker 37
+[08:04:57] <iembot> Kenoma [Barton Co, MO] emergency mngr reports TSTM WND DMG at 09:55 PM CST -- wind damage reported by barton county emergency management in kenoma. flag pole blown down
+[08:04:59] <iembot> 2 N Monett [Lawrence Co, MO] public reports HAIL of golf ball size (E1.75 INCH) at 10:00 PM CST -- 
+[08:05:01] <iembot> Monett [Barry Co, MO] law enforcement reports FUNNEL CLOUD at 10:08 PM CST -- funnel cloud reported on east side of monett at 60 and business 60. spotters report funnel cloud is growing in size
+[08:05:03] <iembot> Humansville [Polk Co, MO] emergency mngr reports HAIL of quarter size (E1.00 INCH) at 10:11 PM CST -- 
+[08:05:05] <iembot> Humansville [Polk Co, MO] emergency mngr reports FUNNEL CLOUD at 10:11 PM CST -- funnel cloud reported over the city of humansville
+[08:05:07] <iembot> 3 E Urbana [Dallas Co, MO] law enforcement reports FUNNEL CLOUD at 10:14 PM CST -- wall cloud reported near highways d and u.
+[08:05:09] <iembot> 1 W Chesapeake [Lawrence Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 10:15 PM CST -- 
+[08:05:10] <iembot> 2 Sw Pittsburg [Hickory Co, MO] trained spotter reports TORNADO at 10:25 PM CST -- spotter reported tornado on the ground at rb highway on the polk/hickory county line
+[08:05:12] <iembot> Hermitage [Hickory Co, MO] law enforcement reports FUNNEL CLOUD at 10:25 PM CST -- funnel cloud and dime size hail reported in hermitage
+[08:05:14] <iembot> Pittsburg [Hickory Co, MO] emergency mngr reports TORNADO at 10:25 PM CST -- polk county emergency manager relayed report that 3 homes in pittsburg have been demolished. search and rescue is ongoing.
+[08:05:16] <iembot> 2 S Hermitage [Hickory Co, MO] emergency mngr reports TORNADO at 10:30 PM CST -- emergency manager reported a tornado on the ground near highway 83
+[08:05:21] <iembot> Springfield [Greene Co, MO] public reports HAIL of quarter size (E1.00 INCH) at 10:36 PM CST -- quarter size hail at chestnut and west bypass
+[08:05:23] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of golf ball size (M1.75 INCH) at 10:37 PM CST -- golfball hail covering the ground in downtown springfield.
+[08:05:25] <iembot> Sunrise Beach [Camden Co, MO] county official reports TORNADO at 10:37 PM CST -- possible tornado on the ground near sunrise beach.
+[08:05:27] <iembot> Sunrise Beach [Camden Co, MO] county official reports TORNADO at 10:37 PM CST -- tornado on the ground
+[08:05:30] <iembot> Battlefield [Greene Co, MO] public reports HAIL of half dollar size (E1.25 INCH) at 10:38 PM CST -- 
+[08:05:32] <iembot> Battlefield [Greene Co, MO] public reports HAIL of half dollar size (E1.25 INCH) at 10:38 PM CST -- 
+[08:05:34] <iembot> Marionville [Lawrence Co, MO] amateur radio reports TORNADO at 10:39 PM CST -- no power to the city of marionville. along highway 14...there is a trailer in the road. along zz highway north of marionville...a house is destroyed. this is possible tornado damage.
+[08:05:37] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of baseball size (E2.75 INCH) at 10:40 PM CST -- baseball size hail reported at sunshine and kansas
+[08:05:39] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 10:40 PM CST -- golf ball hail reported covering the ground in downtown springfield
+[08:05:41] <iembot> 5 S Springfield [Greene Co, MO] trained spotter reports HAIL of golf ball size (M1.75 INCH) at 10:41 PM CST -- spotter reported golf ball hail.
+[08:05:43] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 10:43 PM CST -- power flashes reported along highway 65 and evans road. possible tornado
+[08:05:45] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of baseball size (E2.75 INCH) at 10:43 PM CST -- baseball size hail at college and kansas
+[08:05:46] <iembot> Branson [Taney Co, MO] public reports TORNADO at 10:43 PM CST -- tornado reported along 248 just north of branson
+[08:05:48] <iembot> 2 E Billings [Christian Co, MO] public reports TORNADO at 10:45 PM CST -- trees down 2 miles east of billings. possible tornado damage
+[08:05:50] <iembot> 5 Se Roscoe [St. Clair Co, MO] emergency mngr reports TORNADO at 10:45 PM CST -- 5 miles southeast of roscoe along highway 54...path of damage including mobile homes damage and at least one house destroyed.
+[08:05:52] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 10:45 PM CST -- golf ball size hail reported at cherry street and oak grove
+[08:05:54] <iembot> 1 Sw Springfield [Greene Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 10:45 PM CST -- 
+[08:05:56] <iembot> 2 E Billings [Christian Co, MO] public reports TORNADO at 10:45 PM CST -- trees reported down. barns destroyed and debris on roadway 1 mile southeast of billings. possible tornado damage.
+[08:05:58] <iembot> Republic [Greene Co, MO] nws employee reports HAIL of teacup size (E3.00 INCH) at 10:45 PM CST -- 
+[08:05:59] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of quarter size (E1.00 INCH) at 10:45 PM CST -- quarter size hail reported at chestnut and west bypass
+[08:06:01] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of egg size (E2.00 INCH) at 10:45 PM CST -- two inch hail reported at chestnut and west bypass
+[08:06:03] <iembot> 6 Sw Springfield [Greene Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 10:45 PM CST -- golf ball hail reported at chestnut and west bypass.
+[08:06:07] <iembot> Pittsburg [Hickory Co, MO] emergency mngr reports TORNADO at 10:45 PM CST -- *** 7 inj *** tornado touched down near rb 83. heavy damage sustained to carsons corner. 7 injuries and 20 homes damaged/destroyed
+[08:07:11] <iembot>  SGF issues Severe Thunderstorm Warning for  Dent [MO] till 3:00 AM CST
+[08:07:46] <iembot> 2 N Asbury [Jasper Co, MO] amateur radio reports TSTM WND GST of E60.00 MPH at 11:15 PM CST -- 
+[08:07:56] <iembot> Fordland [Webster Co, MO] amateur radio reports TORNADO at 11:16 PM CST -- transformer flashes near highways b and kk between fordland and marshfield. possible tornado.
+[08:08:15] <iembot> 10 E Niangua [Wright Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 11:31 PM CST -- golf ball size hail and winds up to 60 mph
+[08:08:17] <iembot> 2 S Lincoln [Benton Co, MO] law enforcement reports TSTM WND DMG at 11:33 PM CST -- storage bin blown across highay 65.
+[08:08:19] <iembot> Joplin [Jasper Co, MO] public reports HAIL of golf ball size (E1.75 INCH) at 11:35 PM CST -- 
+[08:08:22] <iembot> Duenweg [Jasper Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 11:35 PM CST -- 
+[08:08:24] <iembot> Grovespring [Wright Co, MO] amateur radio reports HAIL of quarter size (E1.00 INCH) at 11:36 PM CST -- at ff and c...60 mph wind was measured by instrument.
+[08:08:26] <iembot> 9 N Hartville [Wright Co, MO] amateur radio reports TORNADO at 11:38 PM CST -- tornado reported on the ground by trained spotter
+[08:08:27] <iembot> 2 N Aurora [Lawrence Co, MO] amateur radio reports TORNADO at 11:39 PM CST -- 5 homes destroyed and 2 mobile homes destroyed. possible tornado damage.
+[08:08:29] <iembot> Marshfield [Webster Co, MO] amateur radio reports TORNADO at 11:42 PM CST -- powerlines and power poles down east of marshfield. possible tornado damage
+[08:08:33] <iembot> 6 S Lebanon [Laclede Co, MO] trained spotter reports FUNNEL CLOUD at 11:50 PM CST -- funnel cloud 6 miles south of lebanon
+[08:08:35] <iembot> Marshfield [Webster Co, MO] amateur radio reports TORNADO at 11:50 PM CST -- near highway 38 in marshfield...2 barns destroyed and trees 2 ft. in diameter blown over. possible tornado damage.
+[08:08:35] <iembot> Noble [Ozark Co, MO] public reports HAIL of golf ball size (E1.75 INCH) at 12:00 AM CST -- 
+[08:08:37] <iembot> Goodhope [Douglas Co, MO] trained spotter reports FUNNEL CLOUD at 12:05 AM CST -- wall cloud reported from goodhope to thornfield
+[08:08:39] <iembot> Theodosia [Ozark Co, MO] trained spotter reports FUNNEL CLOUD at 12:05 AM CST -- wall cloud with rotation reported
+[08:08:40] <iembot> Competition [Laclede Co, MO] emergency mngr reports TORNADO at 12:07 AM CST -- tornado touched down along 0 highway
+[08:08:42] <iembot> 2 S Freistatt [Lawrence Co, MO] public reports FUNNEL CLOUD at 12:20 AM CST -- funnel cloud reported at highway h and i-44.
+[08:08:44] <iembot> 4 S Ash Grove [Greene Co, MO] trained spotter reports HAIL of nickle size (E0.88 INCH) at 12:25 AM CST -- 
+[08:08:46] <iembot> 9 Ne Camdenton [Camden Co, MO] law enforcement reports HAIL of nickle size (E0.88 INCH) at 12:30 AM CST -- nickel hail near highways 5 and 7
+[08:08:48] <iembot> Bois D'Arc [Greene Co, MO] amateur radio reports TORNADO at 12:30 AM CST -- roof gone off house. carport wall knocked over. possible tornado damage
+[08:08:50] <iembot> 3 Sw Billings [Christian Co, MO] nws employee reports TSTM WND DMG at 12:30 AM CST -- at 413 south of highway 60...telephone poles and trees were reported downed. possible tornado damage
+[08:08:52] <iembot> 8 Sw Buffalo [Polk Co, MO] emergency mngr reports FUNNEL CLOUD at 12:32 AM CST -- wall cloud reported 8 to 10 miles southwest of buffalo
+[08:08:54] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 12:38 AM CST -- high voltage power poles broken in half at fulbright and chestnut. possible tornado damage
+[08:08:56] <iembot> Springfield [Greene Co, MO] nws employee reports FUNNEL CLOUD at 12:39 AM CST -- funnel cloud reported near the national weather service office
+[08:08:58] <iembot> Springfield [Greene Co, MO] nws employee reports HAIL of golf ball size (E1.75 INCH) at 12:39 AM CST -- golf ball size hail reported at the national weather service office near the springfield-branson regional airport.
+[08:09:01] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 12:44 AM CST -- debris reported in the air at kearney and kansas in springfield. possible tornado damage
+[08:09:03] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 12:45 AM CST -- transformer power flashes at booneville and chesnut
+[08:09:05] <iembot> Springfield [Greene Co, MO] trained spotter reports TORNADO at 12:45 AM CST -- power flases at golden road and battlefield road. possible tornado damage
+[08:09:07] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 12:48 AM CST -- tornado reported on the ground by ham radio at highway 65 and division
+[08:09:09] <iembot> Springfield [Greene Co, MO] amateur radio reports TORNADO at 12:50 AM CST -- tornado reported on the ground at 174 and i-44...one mile west of this area...tracking northeast at 60 to 70 mph
+[08:09:11] <iembot> 5 N Seymour [Webster Co, MO] emergency mngr reports TORNADO at 01:00 AM CST -- on long p highway...5 to 6 miles north of seymour just west of c highway...power poles down and cars flipped over. several houses have also been completely destroyed. reports of people trapped in debris. possible tornado damage.
+[08:09:13] <iembot> Springfield [Greene Co, MO] amateur radio reports FUNNEL CLOUD at 01:00 AM CST -- wall cloud reported near james river freeway and highway 65
+[08:09:16] <iembot> Springfield [Greene Co, MO] trained spotter reports HAIL of golf ball size (E1.75 INCH) at 01:00 AM CST -- golf ball hail at rogers and national in springfield
+[08:09:18] <iembot> Conway [Laclede Co, MO] emergency mngr reports HAIL of nickle size (E0.88 INCH) at 01:13 AM CST -- 
+[08:09:18] <iembot> Marshfield [Webster Co, MO] amateur radio reports FUNNEL CLOUD at 01:13 AM CST -- rotating wall cloud reported 4 miles from marshfield along i-44 mile marker 97
+[08:09:22] <iembot>  SGF issues Tornado Warning for  Ozark [MO] till 3:15 AM CST
+[08:11:17] <iembot>  SGF issues Severe Thunderstorm Warning for  Texas [MO] till 3:15 AM CST
+[08:19:02] <iembot>  SGF  expires Severe Thunderstorm Warning for  Wright [MO]
+[08:22:09] <iembot> 7 N Mountain Grove [Wright Co, MO] trained spotter reports HAIL of quarter size (M1.00 INCH) at 02:15 AM CST -- report of quarter hail near wright and texas county line.
+[08:22:13] <iembot> Duncan [Wright Co, MO] emergency mngr reports TORNADO at 11:30 PM CST -- extensive damage across eastern webster county. em reports path being cut through the debris on drycreek rd to get access to areas additional damage areas. search and rescue operations underway...there are injuries...but exact number unknown at this time.
+[08:39:34] <iembot>  SGF  cancels Tornado Watch for  Barry, Camden, Christian, Dallas, Greene, Laclede, Lawrence, Maries, Miller, Polk, Pulaski, Stone, Webster [MO]
+[08:42:40] <iembot>  SGF ISSUES NADO WATCH 77 REMAINS VALID UNTIL 4 AM CST EARLY THIS MORNING FOR THE FOLLOWING AR
+[08:46:10] <iembot>  SGF  cancels Severe Thunderstorm Warning for  Texas [MO]
+[08:46:52] <iembot>  SGF  cancels Severe Thunderstorm Warning for  Dent [MO]
+[08:48:23] <iembot>  SGF  cancels Tornado Warning for  Ozark [MO]
+[09:00:08] <iembot>  SGF issues Severe Thunderstorm Warning for  Howell [MO] till 3:45 AM CST
+[09:26:39] <iembot>  SGF issues Severe Thunderstorm Warning for  Oregon [MO] till 4:30 AM CST
+[09:39:45] <iembot> Gravois Mills [Morgan Co, MO] emergency mngr reports TORNADO at 12 Mar, 03:15 PM CST -- *** 3 inj *** morgan county emergency manager reported significant damage to the community of gravois mills.
+[09:41:02] <iembot> Marionville [Lawrence Co, MO] broadcast media reports TORNADO at 12 Mar, 03:15 PM CST -- *** 1 fatal *** ky3 tv reported that a 63 year old man had died from injuries sustained from a tornado.
+[09:41:40] <iembot>  SGF  expires Severe Thunderstorm Warning for  Howell [MO]
+[09:54:20] <iembot>  SGF  expires Tornado Watch for  Dent, Douglas, Howell, Oregon, Ozark, Phelps, Shannon, Taney, Texas, Wright [MO]
+[09:56:15] <iembot>  SGF ISSUES  NATIONAL WEATHER SERVICE WILL ALLOW TORNADO WATCH 77 TO EXPIRE AT 4 AM CST THIS MORNING FOR THE FOLLOWING AR
+[10:27:50] <iembot>  SGF  expires Severe Thunderstorm Warning for  Oregon [MO]
+[10:37:15] <iembot> Nixa [Christian Co, MO] emergency mngr reports TORNADO at 10:30 PM CST -- *** 3 inj *** 40 homes have sustained major damage in nixa and clever. two shelters have been opened to house those displaced by the damage.
+[11:32:47] <iembot> Gravois Mills [Morgan Co, MO] emergency mngr reports TORNADO at 10:15 PM CST -- *** 3 inj *** morgan county emergency manager reported significant damage to the community of gravois mill.
+[11:32:50] <iembot> Gravois Mills [Morgan Co, MO] emergency mngr reports TORNADO at 10:15 PM CST -- morgan county emergency manager reported that the community of gravois mills sustained major structural damage from a tornado. three injuries were reported at this time.
+[11:32:52] <iembot> Gravois Mills [Morgan Co, MO] emergency mngr reports TORNADO at 10:30 PM CST -- *** 3 inj *** morgan county emergency manager reported significant damage to the community of gravois mill.
+[11:36:05] <iembot> Marionville [Lawrence Co, MO] broadcast media reports TORNADO at 10:15 PM CST -- *** 1 fatal *** ky3 tv reported that a 63 year old man had died from injuries sustained from a tornado.
+[12:13:58] <iembot> 5 Sw Cedar Springs [Cedar Co, MO] broadcast media reports TORNADO at 09:00 PM CST -- *** 6 inj *** six injuries were reported southwest of cedar springs. all were taken to a local hospital
+[12:55:15] <iembot> 3 Wnw Cole Camp [Benton Co, MO] co-op observer reports TSTM WND DMG at 12 Mar, 05:52 AM CST -- barn damaged. trees down. power pole down.
+[13:04:13] <iembot> 3 Se Elkton [Hickory Co, MO] co-op observer reports TSTM WND DMG at 12 Mar, 05:52 AM CST -- possible tornado. metal roof of off business. six trailers destroyed at an rv park. trailer house housing six boats destroyed. on rb highway two miles east of highway 83
+[13:12:38] <iembot> 3 Se Elkton [Hickory Co, MO] co-op observer reports TSTM WND DMG at 10:15 PM CST -- possible tornado. metal roof of off business. six trailers destroyed at an rv park. trailer house housing six boats destroyed. on rb highway two miles east of highway 83
+[13:14:07] <iembot> 3 Wnw Cole Camp [Benton Co, MO] co-op observer reports TSTM WND DMG at 11:30 PM CST -- barn damaged. trees down. power pole down.
+[13:23:43] <iembot> 4 E Eagle Rock [Barry Co, MO] public reports HAIL of quarter size (E1.00 INCH) at 10:30 PM CST -- trees also down. volunteer weather observer report.
+[13:55:34] <iembot> Competition [Laclede Co, MO] amateur radio reports TORNADO at 02:00 AM CST -- from 2 miles south to 3 miles east of competition...6 homes and over one dozen barns damaged or destroyed.
+[13:56:40] <iembot> Buffalo [Dallas Co, MO] co-op observer reports TSTM WND GST of E60 MPH at 12 Mar, 07:55 AM CST -- 
+[14:03:22] <iembot> 1 Nw Forsyth [Taney Co, MO] amateur radio reports HAIL of penny size (E0.75 INCH) at 12 Mar, 07:55 AM CST -- 
+[14:06:51] <iembot> 1 S Noble [Ozark Co, MO] public reports HAIL of golf ball size (E1.75 INCH) at 12 Mar, 07:55 AM CST -- 
+[14:20:14] <iembot> Springfield [Greene Co, MO] law enforcement reports HAIL of golf ball size (E1.75 INCH) at 12 Mar, 07:55 AM CST -- 
+[14:21:16] <iembot> 6 Ne Winona [Shannon Co, MO] public reports HAIL of golf ball size (E1.75 INCH) at 01:00 AM CST -- 
+[14:21:56] <iembot> 6 Ne Winona [Shannon Co, MO] public reports HAIL of golf ball size (E1.75 INCH) at 03:00 AM CST -- 
+[16:01:21] <iembot> 2 Nw Marionville [Lawrence Co, MO] co-op observer reports TORNADO at 09:56 AM CST -- reports considerable damage near state route 1220 and 2180. turkey houses totally flattened. multiple house roofs damaged. power lines down across road. multiple trees down.
+[17:13:36] <iembot> Hartville [Wright Co, MO] public reports TORNADO at 12 Mar, 09:50 AM CST -- a mobile home was damaged near cass road.
+[17:19:12] <iembot> Hartville [Wright Co, MO] public reports TORNADO at 11:35 PM CST -- a mobile home was damaged near cass road.
+[17:24:19] <iembot> Springfield [Greene Co, MO] law enforcement reports HAIL of golf ball size (E1.75 INCH) at 12 Mar, 09:55 PM CST -- 
+[17:24:21] <iembot> 1 Nw Forsyth [Taney Co, MO] amateur radio reports HAIL of penny size (E0.75 INCH) at 12 Mar, 09:55 PM CST -- 
+[17:24:23] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 12 Mar, 10:05 PM CST -- at 321 east chestnut.
+[17:24:25] <iembot> 1 S Noble [Ozark Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 12 Mar, 10:05 PM CST -- 
+[17:24:28] <iembot> 1 S Noble [Ozark Co, MO] public reports HAIL of golf ball size (E1.75 INCH) at 12 Mar, 10:05 PM CST -- 
+[17:24:30] <iembot> 2 Nw Marionville [Lawrence Co, MO] co-op observer reports TORNADO at 12 Mar, 10:15 PM CST -- reports considerable damage near state route 1220 and 2180. turkey houses totally flattened. multiple house roofs damaged. power lines down across road. multiple trees down.
+[17:24:31] <iembot> Buffalo [Dallas Co, MO] co-op observer reports TSTM WND GST of E60.00 MPH at 11:25 PM CST -- 
+[19:17:33] <iembot> Uniontown [Bourbon Co, KS] public reports HAIL of quarter size (E1.00 INCH) at 12 Mar, 07:00 PM CST -- 
+[19:18:58] <iembot> Springfield [Greene Co, MO] public reports HAIL of golf ball size (E1.75 INCH) at 13 Mar, 01:00 AM CST -- strong winds torn roof off of garage.
+[19:22:32] <iembot> 2 W Bendavis [Texas Co, MO] trained spotter reports HAIL of quarter size (E1.00 INCH) at 02:14 AM CST -- reported on the wright...texas county line.
+[19:25:54] <iembot> Golden [Barry Co, MO] post office reports HAIL of quarter size (E1.00 INCH) at 12 Mar, 10:30 PM CST -- 
+[19:37:21] <iembot> Jasper [Jasper Co, MO] public reports TSTM WND GST of E60.00 MPH at 12 Mar, 09:25 PM CST -- limbs down.
+[19:41:49] <iembot> 2 E Salem [Dent Co, MO] law enforcement reports TSTM WND DMG at 02:30 AM CST -- roof blown off a large shed.
+[19:48:47] <iembot> Thomasville [Oregon Co, MO] law enforcement reports TSTM WND DMG at 04:29 AM CST -- trees down near town.
+[19:55:34] <iembot> Wasola [Ozark Co, MO] law enforcement reports HAIL of golf ball size (E1.75 INCH) at 02:40 AM CST -- 
+[19:57:45] <iembot> Bakersfield [Ozark Co, MO] public reports TSTM WND DMG at 02:58 AM CST -- trees down across road.
+[20:07:34] <iembot> Pittsburg [Crawford Co, KS] co-op observer reports HAIL of nickle size (E0.88 INCH) at 12 Mar, 08:50 PM CST -- nickel size hail reported by coop
+[20:09:25] <iembot> 4 Nw Drury [Douglas Co, MO] law enforcement reports HAIL of quarter size (E1.00 INCH) at 13 Mar, 12:30 AM CST -- 
+[20:13:03] <iembot> Hallowell [Cherokee Co, KS] emergency mngr reports HAIL of golf ball size (E1.75 INCH) at 12 Mar, 09:30 PM CST -- golf ball hail reported to emergency manager by trained spotter at s.w. 90th and messer road in hallowell
+[20:25:04] <iembot> West Plains [Howell Co, MO] law enforcement reports HAIL of penny size (E0.75 INCH) at 03:30 AM CST -- reports of hail occured county wide.
+[20:27:53] <iembot> White Church [Howell Co, MO] law enforcement reports HAIL of baseball size (E2.75 INCH) at 13 Mar, 01:30 AM CST -- 
+[20:41:20] <iembot> Fort Scott [Bourbon Co, KS] public reports TSTM WND DMG at 12 Mar, 10:00 PM CST -- one tree reported blown down in the 1400 block of main street. another tree blown down on couch street. nickel size hail was also observed.
+[20:46:21] <iembot> Walnut [Crawford Co, KS] public reports HAIL of nickle size (E0.88 INCH) at 12 Mar, 10:00 PM CST -- 
+[20:56:01] <iembot> Uniontown [Bourbon Co, KS] public reports HAIL of penny size (E0.75 INCH) at 12 Mar, 07:23 PM CST -- 
+[21:39:35] <iembot> Springfield [Greene Co, MO] amateur radio reports HAIL of golf ball size (E1.75 INCH) at 13 Mar, 12:28 AM CST -- covered the ground.
+[21:39:37] <iembot> Willard [Greene Co, MO] amateur radio reports HAIL of nickle size (E0.88 INCH) at 13 Mar, 12:31 AM CST -- estimated 50mph winds.
+[21:39:39] <iembot> Ash Grove [Greene Co, MO] amateur radio reports HAIL of quarter size (E1.00 INCH) at 13 Mar, 12:25 AM CST -- covered the ground.
+[21:39:41] <iembot> Marionville [Lawrence Co, MO] amateur radio reports TSTM WND GST of M90 MPH at 12 Mar, 10:22 AM CST -- 
+[21:39:43] <iembot> 3 Ne Uniontown [Bourbon Co, KS] amateur radio reports HAIL of E4.25 INCH at 12 Mar, 02:25 PM CST -- 
+[22:14:14] <iembot> Marionville [Lawrence Co, MO] amateur radio reports TSTM WND GST of M90.00 MPH at 12 Mar, 10:22 PM CST -- 
+[23:16:18] <iembot> 3 Sw Gravois Mills [Morgan Co, MO] nws storm survey reports TORNADO at 12 Mar, 10:20 PM CST -- *** 3 inj *** a 3/8 of a mile wide tornado path was noted extending from three miles southwest of gravois mills...across state highway 5 just south of the junction of cr-5-14...across the gravois arm of the lake of the ozaarks...to five miles east of gravois mills before lifting. most of the damage was confined to trees down on homes/cars/outbuildings. however...within the center of the damage path...f-2 damage to framed homes was observed east-southeast of gravois mills on both sides of the lake.

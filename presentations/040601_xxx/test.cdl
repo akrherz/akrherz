@@ -1,0 +1,14 @@
+netcdf test {
+dimensions:
+        recNum = UNLIMITED ; 
+variables:
+        float temperature(recNum) ;
+                temperature:long_name = "temperature" ;
+                temperature:units = "kelvin" ;
+        float latitude(recNum) ;
+                latitude:long_name = "latitude" ;
+                latitude:units = "degree_north" ;
+        float longitude(recNum) ;
+                longitude:long_name = "longitude" ;
+                longitude:units = "degree_east" ;
+}
