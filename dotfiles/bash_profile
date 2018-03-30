@@ -9,3 +9,5 @@ fi
 
 PATH=/opt/miniconda2/bin:$PATH:$HOME/.local/bin:$HOME/bin:/opt/gradle/bin
 export PATH
+
+source activate prod
