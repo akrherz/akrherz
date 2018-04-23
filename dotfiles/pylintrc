@@ -6,5 +6,7 @@ variable-rgx=[a-z_][a-z0-9_]{1,30}$
 [MESSAGES CONTROL]
 # Don't whine about catching bare exceptions
 # bad-continuation is busted see https://github.com/PyCQA/pylint/issues/747
+# C0103 having a two char function arg
 disable=W0703,
-  bad-continuation
+  bad-continuation,
+  C0103
