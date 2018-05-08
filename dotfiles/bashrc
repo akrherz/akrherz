@@ -9,7 +9,7 @@ fi
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
-PYTHONPATH=/home/akrherz/projects/pyLDM/:/home/akrherz/projects/pyIEM:/home/akrherz/projects/nwnserver:/home/akrherz/projects/twitty-twister:/opt/rtstats/pylib:/home/akrherz/projects/iembot/:/home/akrherz/projects/pyVBCam/:/home/akrherz/projects/cartopy/build/lib.linux-x86_64-2.7
+PYTHONPATH=/home/akrherz/projects/pyLDM/:/home/akrherz/projects/pyIEM:/home/akrherz/projects/nwnserver:/home/akrherz/projects/twitty-twister:/opt/rtstats/pylib:/home/akrherz/projects/iembot/:/home/akrherz/projects/pyVBCam/
 export PYTHONPATH
 
 PATH=/home/akrherz/bin:$PATH

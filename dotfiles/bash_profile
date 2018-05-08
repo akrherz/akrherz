@@ -7,7 +7,10 @@ fi
 
 # User specific environment and startup programs
 
-PATH=/opt/miniconda2/bin:$PATH:$HOME/.local/bin:$HOME/bin:/opt/gradle/bin
+PATH=$PATH:$HOME/.local/bin:$HOME/bin:/opt/gradle/bin:$HOME/install4j7/bin
 export PATH
 
-source activate prod
+if [ -f /opt/miniconda3/bin/activate ]; then
+	. /opt/miniconda3/etc/profile.d/conda.sh
+	conda activate prod
+fi
