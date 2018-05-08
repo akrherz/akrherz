@@ -1,3 +1,4 @@
 *.aaa
 .project
 **/Thumbs.db
+.vscode
