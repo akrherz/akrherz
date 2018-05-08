@@ -14,5 +14,9 @@
         "**/.DS_Store": true
     },
     "python.linting.flake8Enabled": true,
-    "python.linting.pep8Enabled": true
+    "python.linting.pep8Enabled": true,
+    "files.associations": {"*.wsgi": "python",
+    "*.tac": "python"
+},
+"workbench.editor.enablePreview": false
 }
