@@ -25,8 +25,10 @@ do
 done
 
 # extra stuff
-conda install -y flake8 pep8
+conda install -y flake8 pep8 wrf-python geopy twisted=18.4.0 jupyterhub notebook
 
 # manual stuff to do before uploading to servers
 # echo " + add CDATA patch to feedgen"
 echo " + need MANUAL edit of cartopy for 3 point polygon issue"
+echo " + need to add 102100 900913 codes into share/proj/epsg"
+echo " + make install in mapserver/build, not just python there"
