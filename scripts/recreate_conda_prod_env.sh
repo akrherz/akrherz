@@ -32,3 +32,4 @@ conda install -y flake8 pep8 wrf-python geopy twisted=18.4.0 jupyterhub notebook
 echo " + need MANUAL edit of cartopy for 3 point polygon issue"
 echo " + need to add 102100 900913 codes into share/proj/epsg"
 echo " + make install in mapserver/build, not just python there"
+echo " + metpy 0.8 PR #887 mased_array needed"
