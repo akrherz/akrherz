@@ -26,7 +26,7 @@ done
 
 # extra stuff
 conda install -y flake8 pep8 wrf-python geopy twisted=18.4.0 jupyterhub \
- notebook twine eccodes jupyterlab
+ notebook twine eccodes jupyterlab sphinx
 
 # adds jupyterhub stuff to lab
 jupyter labextension install @jupyterlab/hub-extension
