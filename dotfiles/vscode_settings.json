@@ -18,5 +18,6 @@
     "files.associations": {"*.wsgi": "python",
     "*.tac": "python"
 },
-"workbench.editor.enablePreview": false
+"workbench.editor.enablePreview": false,
+"window.titleBarStyle": "native"
 }
