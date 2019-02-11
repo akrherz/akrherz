@@ -24,6 +24,8 @@ do
   pip install --upgrade -r /home/akrherz/projects/$project/pip_requirements.txt
 done
 
+pip install cdsapi
+
 # extra stuff
 conda install -y flake8 pep8 wrf-python geopy twisted=18.4.0 jupyterhub \
  notebook twine eccodes jupyterlab sphinx siphon
