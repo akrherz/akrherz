@@ -19,5 +19,6 @@
     "*.tac": "python"
 },
 "workbench.editor.enablePreview": false,
-"window.titleBarStyle": "native"
+"window.titleBarStyle": "native",
+"git.autofetch": true
 }
