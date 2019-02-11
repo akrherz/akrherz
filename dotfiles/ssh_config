@@ -1,3 +1,4 @@
+AddressFamily inet
 Host gerrit
 	HostName vlab.ncep.noaa.gov
 	User Daryl.Herzmann
