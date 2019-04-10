@@ -27,7 +27,7 @@ done
 pip install cdsapi
 
 # extra stuff
-conda install -y flake8 pep8 wrf-python geopy twisted=18.4.0 jupyterhub \
+conda install -y flake8 pep8 wrf-python geopy twisted jupyterhub \
  notebook twine eccodes jupyterlab sphinx siphon
 
 # adds jupyterhub stuff to lab
