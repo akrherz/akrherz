@@ -1,4 +1,6 @@
 AddressFamily inet
+Host github.com
+	ForwardX11 no
 Host gerrit
 	HostName vlab.ncep.noaa.gov
 	User Daryl.Herzmann
