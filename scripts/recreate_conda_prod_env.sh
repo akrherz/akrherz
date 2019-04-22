@@ -34,7 +34,7 @@ conda install -y flake8 pep8 wrf-python geopy twisted jupyterhub \
 jupyter labextension install @jupyterlab/hub-extension
 
 # manual stuff to do before uploading to servers
-# echo " + add CDATA patch to feedgen"
+echo " + ensure pint<0.9 is installed due to metpy + units issues"
 echo " + need MANUAL edit of cartopy for 3 point polygon issue"
 echo " + need to add 102100 900913 codes into share/proj/epsg"
 echo " + make install in mapserver/build, not just python there"
