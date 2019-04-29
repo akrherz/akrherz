@@ -28,7 +28,7 @@ pip install cdsapi
 
 # extra stuff
 conda install -y flake8 pep8 wrf-python geopy twisted jupyterhub \
- notebook twine eccodes jupyterlab sphinx siphon
+ notebook twine eccodes jupyterlab sphinx siphon cfgrib pynio
 
 # adds jupyterhub stuff to lab
 jupyter labextension install @jupyterlab/hub-extension
