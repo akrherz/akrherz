@@ -25,6 +25,8 @@ Host mesonet
 	LocalForward 2003 198.62.108.14:80
 	# UNI
         LocalForward 172.16.172.1:2004 134.161.116.56:80
+        # Hiawatha
+        LocalForward 172.16.172.1:2006 162.253.47.2:80
         # Openfire
         LocalForward 9999 127.0.0.1:9091
 	# openmanage on iemvm2
