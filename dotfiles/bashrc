@@ -25,3 +25,4 @@ parse_git_branch() {
 PROMPT_DIRTRIM=2
 export PS1="\h \[\033[32m\]\w\[\033[33m\]\$(parse_git_branch)\[\033[00m\] $ "
 
+alias javaws="/usr/lib/jvm/jre-1.8.0_oracle/bin/javaws"
