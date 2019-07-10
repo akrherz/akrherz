@@ -4,13 +4,13 @@
     "editor.rulers": [79,],
     "extensions.ignoreRecommendations": false,
     "files.exclude": {
-        "**/*.pyc": true,
         "**/__pycache__": true,
+        "**/.DS_Store": true,
         "**/.git": true,
-        "**/.svn": true,
         "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true
+        "**/.svn": true,
+        "**/*.pyc": true,
+        "**/CVS": true
     },
     "python.linting.flake8Enabled": true,
     "python.linting.pep8Enabled": true,
