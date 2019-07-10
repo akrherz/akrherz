@@ -1,0 +1,17 @@
+[user]
+	name = akrherz
+	email = akrherz@iastate.edu
+	signingkey = 8052B92BCD50364F
+[core]
+	excludesfile = /home/akrherz/.gitignore
+[push]
+	default = current
+[pull]
+	default = current
+[alias]
+	unstage = reset HEAD --
+	last = log -1 HEAD
+[commit]
+	gpgsign = true
+[gpg]
+	program = /usr/bin/gpg
