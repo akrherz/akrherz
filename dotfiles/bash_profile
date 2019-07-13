@@ -10,7 +10,3 @@ fi
 PATH=$PATH:$HOME/.local/bin:$HOME/bin:/opt/gradle/bin:$HOME/install4j7/bin:/opt/maven/bin
 export PATH
 
-if [ -f /opt/miniconda3/bin/activate ]; then
-	. /opt/miniconda3/etc/profile.d/conda.sh
-	conda activate prod
-fi

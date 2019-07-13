@@ -19,5 +19,7 @@
 },
 "workbench.editor.enablePreview": false,
 "window.titleBarStyle": "native",
-"git.autofetch": true
+"git.autofetch": true,
+"python.pythonPath": "/opt/miniconda3/envs/prod/bin/python",
+"python.dataScience.sendSelectionToInteractiveWindow": false
 }
