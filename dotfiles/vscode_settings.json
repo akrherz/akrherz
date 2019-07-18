@@ -13,7 +13,6 @@
         "**/CVS": true
     },
     "python.linting.flake8Enabled": true,
-    "python.linting.pep8Enabled": true,
     "files.associations": {"*.wsgi": "python",
     "*.tac": "python"
 },
@@ -21,5 +20,7 @@
 "window.titleBarStyle": "native",
 "git.autofetch": true,
 "python.pythonPath": "/opt/miniconda3/envs/prod/bin/python",
-"python.dataScience.sendSelectionToInteractiveWindow": false
+"python.dataScience.sendSelectionToInteractiveWindow": false,
+"python.linting.pep8Enabled": true,
+"python.linting.pep8Path": "pycodestyle"
 }
