@@ -22,5 +22,7 @@
 "python.pythonPath": "/opt/miniconda3/envs/prod/bin/python",
 "python.dataScience.sendSelectionToInteractiveWindow": false,
 "python.linting.pep8Enabled": true,
-"python.linting.pep8Path": "pycodestyle"
+"python.linting.pep8Path": "pycodestyle",
+"editor.detectIndentation": false,
+"window.zoomLevel": 0
 }

@@ -32,3 +32,5 @@ if [ -f /opt/miniconda3/bin/activate ]; then
         conda activate prod
 fi
 
+
+alias vpnui='/opt/cisco/anyconnect/bin/vpnui'

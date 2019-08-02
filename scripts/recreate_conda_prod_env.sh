@@ -29,7 +29,7 @@ pip install cdsapi
 # extra stuff
 conda install -y flake8 pycodestyle wrf-python geopy twisted jupyterhub \
  notebook twine eccodes jupyterlab sphinx siphon cfgrib pynio pyngl \
- xesmf pre_commit sphinx-gallery
+ xesmf pre_commit sphinx-gallery black
 
 # adds jupyterhub stuff to lab
 jupyter labextension install @jupyterlab/hub-extension
