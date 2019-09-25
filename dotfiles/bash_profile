@@ -7,6 +7,6 @@ fi
 
 # User specific environment and startup programs
 
-PATH=$PATH:$HOME/.local/bin:$HOME/bin:/opt/gradle/bin:$HOME/install4j7/bin:/opt/maven/bin
+PATH=$PATH:$HOME/.local/bin:$HOME/bin:/opt/gradle/bin:$HOME/install4j7/bin:/opt/maven/bin:/opt/intel/bin
 export PATH
 
