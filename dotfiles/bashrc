@@ -1,18 +1,17 @@
 # .bashrc
 
-# Source global definitions
-if [ -f /etc/bashrc ]; then
-	. /etc/bashrc
-fi
+for f in /etc/bashrc ~/.bashrc.local; do
+	[[ -r $f ]] && . $f
+done
 
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
-PYTHONPATH=/home/akrherz/projects/pyLDM/:/home/akrherz/projects/pyIEM/src:/home/akrherz/projects/nwnserver:/home/akrherz/projects/twitty-twister:/opt/rtstats/pylib:/home/akrherz/projects/iembot/:/home/akrherz/projects/pyVBCam/:/home/akrherz/projects/python-metar
+PYTHONPATH=/home/akrherz/projects/pyLDM/:/home/akrherz/projects/pyIEM/src:/home/akrherz/projects/nwnserver:/home/akrherz/projects/twitty-twister:/opt/rtstats/pylib:/home/akrherz/projects/iembot/:/home/akrherz/projects/pyVBCam/:/home/akrherz/projects/python-metar:/home/akrherz/projects/MetPy/src
 export PYTHONPATH
 
-PATH=/home/akrherz/bin:$PATH
+PATH=$PATH:$HOME/.local/bin:$HOME/bin:/opt/gradle/bin:$HOME/install4j7/bin:/opt/maven/bin:/opt/intel/bin
 export PATH
 
 SVN_EDITOR=vi
