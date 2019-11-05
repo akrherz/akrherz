@@ -30,7 +30,7 @@ pip install cdsapi
 conda install -y flake8 pycodestyle wrf-python geopy twisted jupyterhub \
  notebook twine eccodes jupyterlab sphinx siphon cfgrib pynio pyngl \
  xesmf pre_commit sphinx-gallery black arm_pyart imagemagick \
- scikit-learn scikit-image pytest-xdist setuptools_scm
+ scikit-learn scikit-image pytest-xdist setuptools_scm numba
 
 # adds jupyterhub stuff to lab
 jupyter labextension install @jupyterlab/hub-extension
