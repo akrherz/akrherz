@@ -9,7 +9,7 @@ Host mtremote
 	HostName mtremote.agron.iastate.edu
 	LocalForward 1080 nagios.agron.iastate.edu:443
 Host mesonet
-	Hostname iem12.agron.iastate.edu
+	Hostname iem14.agron.iastate.edu
         # Proxied iemdb connection
 	LocalForward 172.16.170.1:5432 metvm4-iemdb.local:5432
 	LocalForward 172.16.171.1:5432 metvm5-iemdb.local:5432
@@ -29,7 +29,7 @@ Host mesonet
         # Hiawatha
         LocalForward 172.16.172.1:2006 162.253.47.2:80
         # Openfire
-        LocalForward 9999 127.0.0.1:9091
+        LocalForward 9999 192.168.0.240:9091
 	LocalForward 9998 52.28.200.98:9091
 Host tunnel
 	LocalForward 1081 www.nids.noaa.gov:443
