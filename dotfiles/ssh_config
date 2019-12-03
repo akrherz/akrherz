@@ -23,11 +23,13 @@ Host mesonet
         # kirkwood
 	LocalForward 172.16.172.1:2005 209.56.159.36:80
 	# Iowa City
-	LocalForward 2003 198.62.108.14:80
+	LocalForward 2003 199.201.217.14:80
 	# UNI
         LocalForward 172.16.172.1:2004 134.161.116.56:80
         # Hiawatha
         LocalForward 172.16.172.1:2006 162.253.47.2:80
+	# Dubuque
+	LocalForward 172.16.172.1:2007 170.178.225.113:80
         # Openfire
         LocalForward 9999 192.168.0.240:9091
 	LocalForward 9998 52.28.200.98:9091

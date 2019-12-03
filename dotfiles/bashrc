@@ -8,7 +8,7 @@ done
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
-PYTHONPATH=/home/akrherz/projects/pyLDM/:/home/akrherz/projects/pyIEM/src:/home/akrherz/projects/nwnserver:/home/akrherz/projects/twitty-twister:/opt/rtstats/pylib:/home/akrherz/projects/iembot/src:/home/akrherz/projects/pyVBCam/:/home/akrherz/projects/python-metar:/home/akrherz/projects/MetPy/src:/home/akrherz/projects/tilecache/src
+PYTHONPATH=/home/akrherz/projects/pyLDM/:/home/akrherz/projects/pyIEM/src:/home/akrherz/projects/nwnserver:/home/akrherz/projects/twitty-twister:/opt/rtstats/pylib:/home/akrherz/projects/iembot/src:/home/akrherz/projects/pyVBCam/src:/home/akrherz/projects/python-metar:/home/akrherz/projects/MetPy/src:/home/akrherz/projects/tilecache/src
 export PYTHONPATH
 
 PATH=$PATH:$HOME/.local/bin:$HOME/bin:/opt/gradle-6.0.1/bin:$HOME/install4j7/bin:/opt/maven/bin:/opt/intel/bin:/home/meteor_ldm/bin
