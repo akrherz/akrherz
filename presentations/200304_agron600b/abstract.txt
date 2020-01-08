@@ -1,0 +1,15 @@
+Title: Providing the E in G x E x M
+
+Abstract: The Iowa Environmental Mesonet (IEM) is an ISU Agronomy
+project that aims to provide synthesized datasets relevant to support
+agronomic research and Iowa's Ag Economy.  This talk will detail the
+datasets made available by this project and how they are used by
+modeling projects like the Daily Erosion Project and Dr Archontoulis's
+FACTs Project.  Finding and understanding the environmental data necessary
+to support soil science can be extremely confounding.  This talk will
+attempt to demystify available datasets and provide tips for their 
+application.
+
+Bio: Daryl Herzmann is a System's Analyst in Agronomy and has worked on
+the IEM since its founding in 2001.  He has a bachelor's degree in
+Meteorology and enjoys ths apex of physical and computer science.
