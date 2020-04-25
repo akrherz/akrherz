@@ -32,6 +32,8 @@ Host mesonet
 	LocalForward 172.16.172.1:2007 170.178.225.113:80
 	# Ottumwa
 	LocalForward 172.16.172.1:2008 192.199.183.66:8003
+	# Amana
+	LocalForward 172.16.172.1:2009 162.244.43.144:80
         # Openfire
         LocalForward 9999 192.168.0.240:9091
 	LocalForward 9998 52.28.200.98:9091
