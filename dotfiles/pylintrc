@@ -1,6 +1,6 @@
 [TYPECHECK]
 ignored-classes=twisted.internet.reactor,ephem,numpy,netCDF4,pygrib,googleapiclient.discovery.Resource
-ignored-modules=numpy,netCDF4
+ignored-modules=numpy,netCDF4,pydantic
 [BASIC]
 variable-rgx=[a-z_][a-z0-9_]{1,30}$
 [MESSAGES CONTROL]
