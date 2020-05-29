@@ -19,7 +19,7 @@ Host mesonet
         # Washington
         LocalForward 172.16.172.1:2001 205.221.150.200:80
         # Coralville
-	LocalForward 172.16.172.1:2002 199.120.90.95:80
+	LocalForward 172.16.172.1:2002 207.191.193.167:80
         # kirkwood
 	LocalForward 172.16.172.1:2005 209.56.159.36:80
 	# Iowa City
