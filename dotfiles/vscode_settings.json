@@ -25,5 +25,6 @@
 "python.linting.pycodestyleEnabled": true,
 "python.linting.pycodestylePath": "pycodestyle",
 "editor.detectIndentation": false,
-"window.zoomLevel": 0
+"window.zoomLevel": 0,
+"python.showStartPage": false
 }

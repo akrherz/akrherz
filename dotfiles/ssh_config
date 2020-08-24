@@ -37,6 +37,7 @@ Host mesonet
         # Openfire
         LocalForward 9999 192.168.0.240:9091
 	LocalForward 9998 52.28.200.98:9091
+	LocalForward 9997 52.58.162.38:9091
 Host tunnel
 	LocalForward 1081 www.nids.noaa.gov:443
 	LocalForward 1082 phppgadmin.dev.nids.noaa.gov:443
