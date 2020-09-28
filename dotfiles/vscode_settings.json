@@ -26,5 +26,6 @@
 "python.linting.pycodestylePath": "pycodestyle",
 "editor.detectIndentation": false,
 "window.zoomLevel": 0,
-"python.showStartPage": false
+"python.showStartPage": false,
+"python.dataScience.alwaysTrustNotebooks": true
 }
