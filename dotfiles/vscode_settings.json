@@ -21,11 +21,11 @@
 "window.titleBarStyle": "native",
 "git.autofetch": true,
 "python.pythonPath": "/opt/miniconda3/envs/prod/bin/python",
-"python.dataScience.sendSelectionToInteractiveWindow": false,
 "python.linting.pycodestyleEnabled": true,
 "python.linting.pycodestylePath": "pycodestyle",
 "editor.detectIndentation": false,
 "window.zoomLevel": 0,
 "python.showStartPage": false,
-"python.dataScience.alwaysTrustNotebooks": true
+"jupyter.sendSelectionToInteractiveWindow": false,
+"jupyter.alwaysTrustNotebooks": true
 }

@@ -8,6 +8,7 @@
 	default = current
 [pull]
 	default = current
+	rebase = true
 [alias]
 	unstage = reset HEAD --
 	last = log -1 HEAD
