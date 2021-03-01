@@ -27,5 +27,6 @@
 "window.zoomLevel": 0,
 "python.showStartPage": false,
 "jupyter.sendSelectionToInteractiveWindow": false,
-"jupyter.alwaysTrustNotebooks": true
+"jupyter.alwaysTrustNotebooks": true,
+"python.languageServer": "Pylance"
 }
