@@ -28,5 +28,11 @@
 "python.showStartPage": false,
 "jupyter.sendSelectionToInteractiveWindow": false,
 "jupyter.alwaysTrustNotebooks": true,
-"python.languageServer": "Pylance"
+"python.languageServer": "Pylance",
+"workbench.editorAssociations": [
+    {
+        "viewType": "jupyter.notebook.ipynb",
+        "filenamePattern": "*.ipynb"
+    }
+]
 }
