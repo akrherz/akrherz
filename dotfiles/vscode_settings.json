@@ -23,6 +23,7 @@
 "python.pythonPath": "/opt/miniconda3/envs/prod/bin/python",
 "python.linting.pycodestyleEnabled": true,
 "python.linting.pycodestylePath": "pycodestyle",
+"python.formatting.provider": "black",
 "editor.detectIndentation": false,
 "window.zoomLevel": 0,
 "python.showStartPage": false,
