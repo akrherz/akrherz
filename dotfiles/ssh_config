@@ -28,15 +28,19 @@ Host mesonet
 	# UNI
         LocalForward 172.16.172.1:2004 134.161.116.56:80
         # Hiawatha
-        LocalForward 172.16.172.1:2006 162.253.47.2:80
+        LocalForward 172.16.172.1:2006 198.199.60.123:80
 	# Dubuque
 	LocalForward 172.16.172.1:2007 170.178.225.113:80
 	# Ottumwa
-	LocalForward 172.16.172.1:2008 192.199.183.66:8003
+	LocalForward 172.16.172.1:2008 69.18.55.115:8003
 	# Amana
 	LocalForward 172.16.172.1:2009 162.244.43.144:80
 	# Mount Vernon
         LocalForward 172.16.172.1:2010 67.135.88.19:80
+	# Coralville
+        LocalForward 172.16.172.1:2011 207.191.193.167:80
+        # Decorah
+	LocalForward 172.16.172.1:2012 74.207.33.12:80
         # Openfire
         LocalForward 9999 192.168.0.240:9091
 	LocalForward 9998 52.28.200.98:9091

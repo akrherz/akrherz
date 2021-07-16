@@ -30,10 +30,9 @@
 "jupyter.sendSelectionToInteractiveWindow": false,
 "jupyter.alwaysTrustNotebooks": true,
 "python.languageServer": "Pylance",
-"workbench.editorAssociations": [
-    {
-        "viewType": "jupyter.notebook.ipynb",
-        "filenamePattern": "*.ipynb"
-    }
-]
+"python.analysis.indexing": false,
+"workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+},
+"python.defaultInterpreterPath": "/opt/miniconda3/envs/prod/bin/python"
 }
