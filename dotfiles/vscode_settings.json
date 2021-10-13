@@ -32,7 +32,11 @@
 "python.languageServer": "Pylance",
 "python.analysis.indexing": false,
 "workbench.editorAssociations": {
-    "*.ipynb": "jupyter.notebook.ipynb"
+    "*.ipynb": "jupyter-notebook"
 },
-"python.defaultInterpreterPath": "/opt/miniconda3/envs/prod/bin/python"
+"python.defaultInterpreterPath": "/opt/miniconda3/envs/prod/bin/python",
+"notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+}
 }

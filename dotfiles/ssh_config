@@ -15,6 +15,7 @@ Host mesonet
 	LocalForward 172.16.171.1:5432 metvm1-iemdb.local:5432
 	LocalForward 172.16.172.1:5432 metvm6-iemdb.local:5432
 	LocalForward 172.16.173.1:5432 metvm7-iemdb.local:5432
+	LocalForward 172.16.174.1:5432 metvm2-iemdb.local:5432
         # Waverly webcam
         LocalForward 172.16.172.1:2000 170.76.211.180:80
         # Washington
