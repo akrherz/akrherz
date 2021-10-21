@@ -24,6 +24,8 @@
 "python.linting.pycodestyleEnabled": true,
 "python.linting.pycodestylePath": "pycodestyle",
 "python.formatting.provider": "black",
+"python.linting.pylintEnabled": true,
+"python.linting.enabled": true,
 "editor.detectIndentation": false,
 "window.zoomLevel": 0,
 "python.showStartPage": false,

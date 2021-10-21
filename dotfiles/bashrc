@@ -34,3 +34,4 @@ fi
 
 alias javaws='/opt/jre1.8.0_231/bin/javaws'
 alias vpnui='/opt/cisco/anyconnect/bin/vpnui'
+alias inkscape="flatpak run org.inkscape.Inkscape"
