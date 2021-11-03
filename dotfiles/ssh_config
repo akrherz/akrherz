@@ -9,7 +9,7 @@ Host mtremote
 	HostName mtremote.agron.iastate.edu
 	LocalForward 1080 nagios.agron.iastate.edu:443
 Host mesonet
-	Hostname iem14.agron.iastate.edu
+	Hostname iem12.agron.iastate.edu
         # Proxied iemdb connection
 	LocalForward 172.16.170.1:5432 metvm4-iemdb.local:5432
 	LocalForward 172.16.171.1:5432 metvm1-iemdb.local:5432

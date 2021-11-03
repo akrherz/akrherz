@@ -40,5 +40,12 @@
 "notebook.cellToolbarLocation": {
     "default": "right",
     "jupyter-notebook": "left"
+},
+"editor.inlineSuggest.enabled": true,
+"github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": false
 }
 }
