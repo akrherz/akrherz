@@ -47,5 +47,6 @@
     "yaml": false,
     "plaintext": true,
     "markdown": false
-}
+},
+"workbench.startupEditor": "none"
 }

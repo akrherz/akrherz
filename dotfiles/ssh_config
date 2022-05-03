@@ -1,4 +1,10 @@
 AddressFamily inet
+
+Host *
+	# http://www.hjackson.org/blog/archives/2007/03/ssh_connection.html
+	ServerAliveInterval 300
+	ServerAliveCountMax 300
+
 Host github.com
 	ForwardX11 no
 Host gerrit
