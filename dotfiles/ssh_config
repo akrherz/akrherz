@@ -46,6 +46,8 @@ Host mesonet
         LocalForward 172.16.172.1:2011 207.191.193.167:80
         # Decorah
 	LocalForward 172.16.172.1:2012 74.207.33.12:80
+	# Peosta
+	LocalForward 172.16.172.1:2013 205.221.99.39:443
         # Openfire
         LocalForward 9999 192.168.0.240:9091
 	LocalForward 9998 52.28.200.98:9091
