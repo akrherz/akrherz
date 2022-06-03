@@ -42,6 +42,7 @@
     "jupyter-notebook": "left"
 },
 "editor.inlineSuggest.enabled": true,
+"editor.renderWhitespace": "all",
 "github.copilot.enable": {
     "*": true,
     "yaml": false,
