@@ -52,19 +52,3 @@ Host mesonet
         LocalForward 9999 192.168.0.240:9091
 	LocalForward 9998 52.28.200.98:9091
 	LocalForward 9997 52.58.162.38:9091
-Host tunnel
-	LocalForward 1081 www.nids.noaa.gov:443
-	LocalForward 1082 phppgadmin.dev.nids.noaa.gov:443
-	LocalForward 1083 subversion.dev.nids.noaa.gov:443
-	LocalForward 1084 nwschat1.dev.nids.noaa.gov:80
-	LocalForward 1085 nwschat1.dev.nids.noaa.gov:9090
-	LocalForward 1086 nwschat1.dev.nids.noaa.gov:9091
-	LocalForward 1087 jira.dev.nids.noaa.gov:443
-	LocalForward 1088 10.60.113.187:9091
-	LocalForward 1089 10.60.113.187:5222
-	LocalForward 1090 10.60.115.22:80
-	LocalForward 1091 10.60.115.22:443
-	LocalForward 1092 127.0.0.1:9999
-	LocalForward 1093 127.0.0.1:10000
-	LocalForward 1094 127.0.0.1:10001
-        Hostname rhel6
