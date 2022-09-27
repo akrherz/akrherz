@@ -37,7 +37,8 @@ export PYTHONPATH
 PATH=$PATH:$HOME/.local/bin:$HOME/bin:/opt/gradle-6.0.1/bin:$HOME/install4j7/bin:/opt/maven/bin:/home/meteor_ldm/bin
 export PATH
 
-. /opt/intel/oneapi/setvars.sh >& /dev/null
+# 27 Sep 2022 caused X logins to fail
+#. /opt/intel/oneapi/setvars.sh >& /dev/null
 
 SVN_EDITOR=vi
 export SVN_EDITOR
