@@ -50,7 +50,8 @@ parse_git_branch() {
 PROMPT_DIRTRIM=2
 export PS1="\h \[\033[32m\]\w\[\033[33m\]\$(parse_git_branch)\[\033[00m\] $ "
 
-alias javaws='/opt/jre1.8.0_231/bin/javaws'
+# To use for older iDrac console access
+alias javaws='/opt/jdk1.7.0_80/bin/javaws'
 alias vpnui='/opt/cisco/anyconnect/bin/vpnui'
 alias inkscape="flatpak run org.inkscape.Inkscape"
 
