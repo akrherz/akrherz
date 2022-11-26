@@ -123,5 +123,8 @@
     "zip",
     "zlib",
     "mapscript"
-]
+],
+"[python]": {
+    "editor.formatOnType": true
+}
 }
