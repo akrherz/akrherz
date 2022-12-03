@@ -125,6 +125,5 @@
     "mapscript"
 ],
 "[python]": {
-    "editor.formatOnType": true
 }
 }
