@@ -49,6 +49,6 @@ Host mesonet
 	# Peosta
 	LocalForward 172.16.172.1:2013 205.221.99.39:443
         # Openfire
-        LocalForward 9999 192.168.0.240:9091
+        LocalForward 9999 iem-openfire.agron.iastate.edu:9090
 	LocalForward 9998 52.28.200.98:9091
 	LocalForward 9997 52.58.162.38:9091
