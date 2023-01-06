@@ -1,5 +1,7 @@
 channel_priority: strict
 channels:
+#  - ngam
+#  - cftf-linux
   - conda-forge
   - defaults
 #  - pypi
