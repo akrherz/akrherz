@@ -125,5 +125,8 @@
     "mapscript"
 ],
 "[python]": {
-}
+},
+"intelephense.environment.includePaths": [
+    "/usr/lib64/php/modules/"
+]
 }
