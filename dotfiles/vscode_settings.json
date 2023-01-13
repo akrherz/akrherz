@@ -14,9 +14,11 @@
         "**/CVS": true
     },
     "python.linting.flake8Enabled": true,
-    "files.associations": {"*.wsgi": "python",
-    "*.tac": "python"
-},
+    "files.associations": {
+        "*.wsgi": "python",
+        "*.tac": "python",
+        "*.html": "php"
+    },
 "workbench.editor.enablePreview": false,
 "window.titleBarStyle": "native",
 "git.autofetch": true,
