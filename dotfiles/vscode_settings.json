@@ -51,6 +51,11 @@
     "plaintext": true,
     "markdown": false
 },
+ "markdownlint.config": {
+    "MD033": {
+      "allowed_elements": ["nobr", "sup", "a"]
+    }
+  },
 "workbench.startupEditor": "none",
 "intelephense.stubs": [
     "apache",
