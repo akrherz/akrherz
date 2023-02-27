@@ -132,6 +132,7 @@
     "mapscript"
 ],
 "[python]": {
+    "editor.formatOnType": true
 },
 "intelephense.environment.includePaths": [
     "/usr/lib64/php/modules/"
