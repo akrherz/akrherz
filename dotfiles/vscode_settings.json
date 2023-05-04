@@ -13,7 +13,7 @@
         "**/*.pyc": true,
         "**/CVS": true
     },
-    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Enabled": false,
     "files.associations": {
         "*.wsgi": "python",
         "*.tac": "python",
@@ -23,10 +23,10 @@
 "window.titleBarStyle": "native",
 "git.autofetch": true,
 "python.pythonPath": "/opt/miniconda3/envs/prod/bin/python",
-"python.linting.pycodestyleEnabled": true,
+"python.linting.pycodestyleEnabled": false,
 "python.linting.pycodestylePath": "pycodestyle",
 "python.formatting.provider": "black",
-"python.linting.pylintEnabled": true,
+"python.linting.pylintEnabled": false,
 "python.linting.enabled": true,
 "editor.detectIndentation": false,
 "window.zoomLevel": 0,
