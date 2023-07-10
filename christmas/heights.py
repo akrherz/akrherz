@@ -31,17 +31,17 @@ age Charlotte Robert Maggie
 
 def inch2mm(val):
     """Units"""
-    return (val * units('inch')).to(units('cm')).m
+    return (val * units("inch")).to(units("cm")).m
 
 
 def main():
     """Go Main Go."""
-    df = pd.read_csv(StringIO(data), delimiter=' ', index_col="age")
+    df = pd.read_csv(StringIO(data), delimiter=" ", index_col="age")
     (fig, ax) = plt.subplots()
     ax.set_position([0.08, 0.1, 0.8, 0.8])
-    colors = ['r', 'g', 'b']
-    markers = ['v', 'o', 'x']
-    for c, mk, name in zip(colors, markers, ['Charlotte', 'Robert', 'Maggie']):
+    colors = ["r", "g", "b"]
+    markers = ["v", "o", "x"]
+    for c, mk, name in zip(colors, markers, ["Charlotte", "Robert", "Maggie"]):
         df2 = df[~pd.isna(df[name])]
         xaxis = np.array([df2.index.values[-1] - 1, 18])
         ax.plot(df2.index, df2[name], color=c, marker=mk, label=name, markevery=4)
@@ -72,7 +72,7 @@ def main():
 
     # inset axes....
     axins = ax.inset_axes([0.05, 0.5, 0.35, 0.35])
-    for c, mk, name in zip(colors, markers, ['Charlotte', 'Robert', 'Maggie']):
+    for c, mk, name in zip(colors, markers, ["Charlotte", "Robert", "Maggie"]):
         df2 = df[~pd.isna(df[name])]
         xaxis = np.array([df2.index.values[-1] - 1, 18])
         axins.plot(df2.index, df2[name], color=c, marker=mk, label=name)

@@ -2,10 +2,10 @@
 
 from Scientific.IO import NetCDF
 
-nc = NetCDF.NetCDFFile('test.nc', 'a')
+nc = NetCDF.NetCDFFile("test.nc", "a")
 
-tmpk = nc.variables['temperature']
+tmpk = nc.variables["temperature"]
 tmpk[0] = 273.5
-recNum = nc.dimensions['recNum']
+recNum = nc.dimensions["recNum"]
 
 nc.close()

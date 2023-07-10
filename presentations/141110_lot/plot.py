@@ -60,10 +60,10 @@ counts = []
 sizes = []
 years = []
 for line in data.split("\n"):
-  tokens = line.split()
-  years.append( int(tokens[0]) )
-  sizes.append( float(tokens[2]) )
-  counts.append( float(tokens[1]) )
+    tokens = line.split()
+    years.append(int(tokens[0]))
+    sizes.append(float(tokens[2]))
+    counts.append(float(tokens[1]))
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -72,22 +72,22 @@ sizes = np.array(sizes)
 counts = np.array(counts)
 years = np.array(years)
 
-(fig, ax) = plt.subplots(1,1)
+(fig, ax) = plt.subplots(1, 1)
 
-ax.bar(years-0.4, counts, width=0.4, fc='r')
-ax.set_ylabel("Warning Count", color='r')
+ax.bar(years - 0.4, counts, width=0.4, fc="r")
+ax.set_ylabel("Warning Count", color="r")
 
 y2 = ax.twinx()
-y2.bar(years, sizes, width=0.4, fc='b')
-y2.set_ylabel("Size (Continental United States)", color='b')
+y2.bar(years, sizes, width=0.4, fc="b")
+y2.set_ylabel("Size (Continental United States)", color="b")
 
 p1 = plt.Rectangle((0, 0), 1, 1, fc="r")
 p3 = plt.Rectangle((0, 0), 1, 1, fc="b")
-ax.legend([p1,p3], ["Counts", "Size"], loc=2)
+ax.legend([p1, p3], ["Counts", "Size"], loc=2)
 ax.grid(True)
 
 ax.set_title("NWS *Polygon* Tornado + Severe Thunderstorm Warnings")
-ax.set_ylim(0,90000)
-y2.set_ylim(0,25)
+ax.set_ylim(0, 90000)
+y2.set_ylim(0, 25)
 
-fig.savefig('yearly_size_counts_polygons.png', dpi=100)
+fig.savefig("yearly_size_counts_polygons.png", dpi=100)

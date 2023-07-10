@@ -11,17 +11,27 @@ def main():
     for sid in nt.sts:
         data[sid if len(sid) == 3 else sid[1:]] = 5
 
-    data['EWX'] = 9
-    data['FWD'] = 1
-    data['SJT'] = 3
-    data['HGX'] = 6
+    data["EWX"] = 9
+    data["FWD"] = 1
+    data["SJT"] = 3
+    data["HGX"] = 6
 
-    mp = MapPlot(sector='state', state='TX', axisbg='white',
-                 title='Weather Bureau Office Coolness Factor')
-    mp.fill_cwas(data, bins=range(0, 11), lblformat='%.0f', units='awesome',
-                 ilabel=True, extend='neither')
-    mp.postprocess(filename='coolness.png')
+    mp = MapPlot(
+        sector="state",
+        state="TX",
+        axisbg="white",
+        title="Weather Bureau Office Coolness Factor",
+    )
+    mp.fill_cwas(
+        data,
+        bins=range(0, 11),
+        lblformat="%.0f",
+        units="awesome",
+        ilabel=True,
+        extend="neither",
+    )
+    mp.postprocess(filename="coolness.png")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

@@ -11,17 +11,18 @@ gmt += mx.DateTime.RelativeDateTime(hour=myhour)
 endgmt = gmt + mx.DateTime.RelativeDateTime(days=+2)
 
 dict = {}
-dict['syear'] = gmt.year
-dict['smonth'] = gmt.month
-dict['sday'] = gmt.day
-dict['shour'] = gmt.hour
-dict['eyear'] = endgmt.year
-dict['emonth'] = endgmt.month
-dict['eday'] = endgmt.day
-dict['ehour'] = endgmt.hour
+dict["syear"] = gmt.year
+dict["smonth"] = gmt.month
+dict["sday"] = gmt.day
+dict["shour"] = gmt.hour
+dict["eyear"] = endgmt.year
+dict["emonth"] = endgmt.month
+dict["eday"] = endgmt.day
+dict["ehour"] = endgmt.hour
 
 
-s = """&record1
+s = (
+    """&record1
 
 
 
@@ -46,8 +47,10 @@ s = """&record1
 
 
 /
-""" % dict
+"""
+    % dict
+)
 
-out = open('my.namelist', 'w')
+out = open("my.namelist", "w")
 out.write(s)
 out.close()

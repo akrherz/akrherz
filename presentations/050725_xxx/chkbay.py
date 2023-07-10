@@ -25,24 +25,24 @@ from Scientific.IO.NetCDF import NetCDFFile
 #
 #    https://sourceforge.net/projects/oceanmodelfiles
 #
-dirc  = Ngl.ncargpath("data")
-cfile = NetCDFFile(dirc + "/cdf/ctcbay.nc","r")
+dirc = Ngl.ncargpath("data")
+cfile = NetCDFFile(dirc + "/cdf/ctcbay.nc", "r")
 
 #
 #  Read the lat/lon/ele/depth arrays to Numeric arrays.
 #
-lat   = cfile.variables["lat"][:]
-lon   = cfile.variables["lon"][:]
-ele   = cfile.variables["ele"][:]
+lat = cfile.variables["lat"][:]
+lon = cfile.variables["lon"][:]
+ele = cfile.variables["ele"][:]
 depth = cfile.variables["depth"][:]
 
 #
 #  Select a colormap and open an X11 window.
 #
-rlist            = Ngl.Resources()
+rlist = Ngl.Resources()
 rlist.wkColorMap = "rainbow+gray"
 wks_type = "ps"
-wks = Ngl.open_wks(wks_type,"chkbay",rlist)
+wks = Ngl.open_wks(wks_type, "chkbay", rlist)
 
 #
 #  The next set of resources will apply to the contour plot.
@@ -50,16 +50,16 @@ wks = Ngl.open_wks(wks_type,"chkbay",rlist)
 resources = Ngl.Resources()
 
 resources.nglSpreadColorStart = 15
-resources.nglSpreadColorEnd   = -2 
+resources.nglSpreadColorEnd = -2
 
-resources.sfXArray         = lon  # Portion of map on which to overlay
-resources.sfYArray         = lat  # contour plot.
-resources.sfElementNodes   = ele
+resources.sfXArray = lon  # Portion of map on which to overlay
+resources.sfYArray = lat  # contour plot.
+resources.sfElementNodes = ele
 resources.sfFirstNodeIndex = 1
 
-resources.cnFillOn         = True 
-resources.cnLinesOn        = False
-resources.cnLineLabelsOn   = False
+resources.cnFillOn = True
+resources.cnLinesOn = False
+resources.cnLineLabelsOn = False
 
 #
 # This plot isn't very interesting because it isn't overlaid on a map.
@@ -67,7 +67,7 @@ resources.cnLineLabelsOn   = False
 # to overlay it on a map plot later. You can turn off this plot
 # by setting the nglDraw and nglFrame resources to False.
 #
-contour = Ngl.contour(wks,depth,resources)
+contour = Ngl.contour(wks, depth, resources)
 
 #
 #  The next set of resources will apply to the map plot.
@@ -99,16 +99,16 @@ resources.mpDataBaseVersion = "MediumRes"
 # Retrieve the actual lat/lon end points of the scalar array so
 # we know where to overlay on map.
 #
-xs = Ngl.get_float(contour.sffield,"sfXCActualStartF")
-xe = Ngl.get_float(contour.sffield,"sfXCActualEndF")
-ys = Ngl.get_float(contour.sffield,"sfYCActualStartF")
-ye = Ngl.get_float(contour.sffield,"sfYCActualEndF")
+xs = Ngl.get_float(contour.sffield, "sfXCActualStartF")
+xe = Ngl.get_float(contour.sffield, "sfXCActualEndF")
+ys = Ngl.get_float(contour.sffield, "sfYCActualStartF")
+ye = Ngl.get_float(contour.sffield, "sfYCActualEndF")
 
-resources.mpLimitMode           = "LatLon"
-resources.mpMinLonF             = xs     # -77.3244
-resources.mpMaxLonF             = xe     # -75.5304
-resources.mpMinLatF             = ys     #  36.6342
-resources.mpMaxLatF             = ye     #  39.6212
+resources.mpLimitMode = "LatLon"
+resources.mpMinLonF = xs  # -77.3244
+resources.mpMaxLonF = xe  # -75.5304
+resources.mpMinLatF = ys  #  36.6342
+resources.mpMaxLatF = ye  #  39.6212
 
 #
 # In the chkbay.res file, a resource is being set to indicate the "~"
@@ -118,9 +118,9 @@ resources.mpMaxLatF             = ye     #  39.6212
 # a line feed (carriage return.
 #
 
-resources.tiMainString       = "~H10Q~Chesapeake Bay~C~Bathymetry~H16Q~meters"
+resources.tiMainString = "~H10Q~Chesapeake Bay~C~Bathymetry~H16Q~meters"
 resources.lbLabelFontHeightF = 0.02
 
-map = Ngl.contour_map(wks,depth,resources)
+map = Ngl.contour_map(wks, depth, resources)
 
 Ngl.end()
