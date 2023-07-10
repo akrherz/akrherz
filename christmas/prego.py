@@ -35,11 +35,11 @@ def main():
     ax.set_ylabel("Consecutive Days")
     ax.set_xlabel("Date During Marriage Period")
     ax.set_ylim(bottom=-4)
-    ax.axhline(y[-1], linestyle='-.', lw=2, color='r')
+    ax.axhline(y[-1], linestyle="-.", lw=2, color="r")
 
     plt.show()
-    fig.savefig('plots/prego.eps')
+    fig.savefig("plots/prego.eps")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

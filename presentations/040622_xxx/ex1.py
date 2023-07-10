@@ -15,15 +15,15 @@ latitudes = readFloatArray("lats.dat")
 longitudes = readFloatArray("lons.dat")
 
 # Create NetCDF file
-nc = NetCDFFile("precip.nc", 'w')
+nc = NetCDFFile("precip.nc", "w")
 # Create two dimensions with the size of the precip data
 nc.createDimension("x", shp[1])
 nc.createDimension("y", shp[0])
 
 # Create three variables
-lat = nc.createVariable("latitude", Numeric.Float, ("y", "x") )
-lon = nc.createVariable("longitude", Numeric.Float, ("y", "x") )
-prec = nc.createVariable("precip", Numeric.Float, ("y", "x") )
+lat = nc.createVariable("latitude", Numeric.Float, ("y", "x"))
+lon = nc.createVariable("longitude", Numeric.Float, ("y", "x"))
+prec = nc.createVariable("precip", Numeric.Float, ("y", "x"))
 
 # Assign in.
 lat.assignValue(latitudes)

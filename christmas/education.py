@@ -10,8 +10,8 @@ def main():
     c_years = list(range(2023, 2036))
 
     (fig, ax) = plt.subplots(1, 1)
-    ax.plot(m_years, range(0, 13), ls='--')
-    ax.plot(m_years[:3], range(0, 3), lw=3, color='k')
+    ax.plot(m_years, range(0, 13), ls="--")
+    ax.plot(m_years[:3], range(0, 3), lw=3, color="k")
     ax.annotate(
         f"Maggie {m_years[-1]}",
         xy=(m_years[-1], 12),
@@ -24,8 +24,8 @@ def main():
         ),
     )
 
-    ax.plot(r_years, range(0, 13), ls='--')
-    ax.plot(r_years[:2], range(0, 2), lw=3, color='k')
+    ax.plot(r_years, range(0, 13), ls="--")
+    ax.plot(r_years[:2], range(0, 2), lw=3, color="k")
     ax.annotate(
         f"Robert {r_years[-1]}",
         xy=(r_years[-1], 12),
@@ -37,7 +37,7 @@ def main():
             arrowstyle="->", connectionstyle="angle,angleA=0,angleB=90,rad=1"
         ),
     )
-    ax.plot(c_years, range(0, 13), ls='--')
+    ax.plot(c_years, range(0, 13), ls="--")
     ax.annotate(
         f"Charlotte {c_years[-1]}",
         xy=(c_years[-1], 12),
@@ -60,8 +60,8 @@ def main():
     ax.set_ylim(-0.1, 15)
 
     plt.show()
-    fig.savefig('plots/education.eps')
+    fig.savefig("plots/education.eps")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

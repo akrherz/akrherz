@@ -7,7 +7,7 @@
 #
 #   Date:    Fri Nov 19 13:00:45 MST 2004
 #
-#   Description:     
+#   Description:
 #            Given a simple mathematically generated data set,
 #            demonstrates Ngl.contour with all resources set
 #            to their defaults.
@@ -15,28 +15,28 @@
 import Ngl
 import Numeric
 
-M=29
-N=25
-T = Numeric.zeros([N,M])
- 
+M = 29
+N = 25
+T = Numeric.zeros([N, M])
+
 #
 # create a mound as a test data set
 #
-jspn = Numeric.power(xrange(-M/2+5,M/2+5),2)
-ispn = Numeric.power(xrange(-N/2-3,N/2-3),2)
+jspn = Numeric.power(xrange(-M / 2 + 5, M / 2 + 5), 2)
+ispn = Numeric.power(xrange(-N / 2 - 3, N / 2 - 3), 2)
 for i in xrange(len(ispn)):
-  T[i,:] = ispn[i] + jspn
-T = 100. - 8.*Numeric.sqrt(T)
+    T[i, :] = ispn[i] + jspn
+T = 100.0 - 8.0 * Numeric.sqrt(T)
 
 #
 #  Open a workstation and draw the contour plot.
 #
 wks_type = "ps"
-wks = Ngl.open_wks(wks_type,"cns01p")
+wks = Ngl.open_wks(wks_type, "cns01p")
 
 res = Ngl.Resources()
 res.cnMonoLineDashPattern = False
 
-Ngl.contour(wks,T,res)
+Ngl.contour(wks, T, res)
 
 Ngl.end()

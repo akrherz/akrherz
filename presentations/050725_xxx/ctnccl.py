@@ -22,40 +22,40 @@ from Scientific.IO.NetCDF import *
 #  Circulation: Rip Currents" (Mark Cobb and Cheryl Ann Blain,
 #  Ocean Dynamics and Prediction Branch).
 #
-dirc  = Ngl.ncargpath("data")
-cfile = NetCDFFile(dirc + "/cdf/ctnccl.nc","r")
+dirc = Ngl.ncargpath("data")
+cfile = NetCDFFile(dirc + "/cdf/ctnccl.nc", "r")
 
 #
 #  Read the lat/lon/ele/depth arrays to Numeric arrays.
 #
-lat   = cfile.variables["lat"][:]
-lon   = cfile.variables["lon"][:]
-ele   = cfile.variables["ele"][:]
+lat = cfile.variables["lat"][:]
+lon = cfile.variables["lon"][:]
+ele = cfile.variables["ele"][:]
 depth = cfile.variables["dat"][:]
 
 #
 # Create colormap
 #
-cmap = Numeric.zeros((104,3),Numeric.Float0)
-cmap[0] = [1.,1.,1.]
-cmap[1] = [0.,0.,0.]
-cmap[2] = [.5,.5,.5]
-cmap[3] = [.8,.8,.8]
+cmap = Numeric.zeros((104, 3), Numeric.Float0)
+cmap[0] = [1.0, 1.0, 1.0]
+cmap[1] = [0.0, 0.0, 0.0]
+cmap[2] = [0.5, 0.5, 0.5]
+cmap[3] = [0.8, 0.8, 0.8]
 
 iofc = 151
 iolc = 250
-for i in xrange(151,251):
-  p = (1.*iolc-i)/(1.*iolc-1.*iofc)
-  q = (i-1.*iofc)/(1.*iolc-1.*iofc)
-  cmap[i-147] = [0.,p,q]
+for i in xrange(151, 251):
+    p = (1.0 * iolc - i) / (1.0 * iolc - 1.0 * iofc)
+    q = (i - 1.0 * iofc) / (1.0 * iolc - 1.0 * iofc)
+    cmap[i - 147] = [0.0, p, q]
 
 #
 #  Open workstation.
 #
-rlist            = Ngl.Resources()
+rlist = Ngl.Resources()
 rlist.wkColorMap = cmap
 wks_type = "ps"
-wks = Ngl.open_wks(wks_type,"ctnccl",rlist)
+wks = Ngl.open_wks(wks_type, "ctnccl", rlist)
 
 #
 #  The next set of resources will apply to the contour plot.
@@ -64,44 +64,85 @@ resources = Ngl.Resources()
 
 resources.nglSpreadColorStart = 4
 
-resources.sfXArray              = lon  # Portion of map on which to overlay
-resources.sfYArray              = lat  # contour plot.
-resources.sfElementNodes        = ele
-resources.sfFirstNodeIndex      = 1
+resources.sfXArray = lon  # Portion of map on which to overlay
+resources.sfYArray = lat  # contour plot.
+resources.sfElementNodes = ele
+resources.sfFirstNodeIndex = 1
 
-resources.cnFillOn              = True 
-resources.cnFillMode            = "RasterFill"
-resources.cnRasterSmoothingOn   = True
-resources.cnLinesOn             = False
-resources.cnLineLabelsOn        = False
-resources.cnLevelSelectionMode  = "ExplicitLevels"
-resources.cnLevels              = [ 1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,15.,20.,
-                                   25.,30.,35.,40.,45.,50.,100.,200.,300.,400.,
-                                   500.,600.,700.,800.,900.,1000.,1250.,1500.,
-                                   1750.,2000.,2250.,2500.,2750.,3000.,3250.,
-                                   3500.,3750.,4000.,4250.,4500.,4750.,5000.]
+resources.cnFillOn = True
+resources.cnFillMode = "RasterFill"
+resources.cnRasterSmoothingOn = True
+resources.cnLinesOn = False
+resources.cnLineLabelsOn = False
+resources.cnLevelSelectionMode = "ExplicitLevels"
+resources.cnLevels = [
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    6.0,
+    7.0,
+    8.0,
+    9.0,
+    10.0,
+    15.0,
+    20.0,
+    25.0,
+    30.0,
+    35.0,
+    40.0,
+    45.0,
+    50.0,
+    100.0,
+    200.0,
+    300.0,
+    400.0,
+    500.0,
+    600.0,
+    700.0,
+    800.0,
+    900.0,
+    1000.0,
+    1250.0,
+    1500.0,
+    1750.0,
+    2000.0,
+    2250.0,
+    2500.0,
+    2750.0,
+    3000.0,
+    3250.0,
+    3500.0,
+    3750.0,
+    4000.0,
+    4250.0,
+    4500.0,
+    4750.0,
+    5000.0,
+]
 
-resources.tiMainString          = "North Carolina Coast (depth in meters)"
-resources.tiMainFontHeightF     = 0.015
+resources.tiMainString = "North Carolina Coast (depth in meters)"
+resources.tiMainFontHeightF = 0.015
 
-resources.nglDraw               = False
-resources.nglFrame              = False
+resources.nglDraw = False
+resources.nglFrame = False
 
-contour = Ngl.contour(wks,depth,resources)
+contour = Ngl.contour(wks, depth, resources)
 
 #
 # Retrieve the actual lat/lon end points of the scalar array so
 # we know where to overlay on map.
 #
-xs = Ngl.get_float(contour.sffield,"sfXCActualStartF")
-xe = Ngl.get_float(contour.sffield,"sfXCActualEndF")
-ys = Ngl.get_float(contour.sffield,"sfYCActualStartF")
-ye = Ngl.get_float(contour.sffield,"sfYCActualEndF")
+xs = Ngl.get_float(contour.sffield, "sfXCActualStartF")
+xe = Ngl.get_float(contour.sffield, "sfXCActualEndF")
+ys = Ngl.get_float(contour.sffield, "sfYCActualStartF")
+ye = Ngl.get_float(contour.sffield, "sfYCActualEndF")
 
 #
 #  The next set of resources will apply to the map plot.
 #
-resources.mpProjection          = "CylindricalEquidistant"
+resources.mpProjection = "CylindricalEquidistant"
 
 #
 # If you want high resolution map coastlines, download the RANGS/GSHHS
@@ -122,28 +163,28 @@ resources.mpProjection          = "CylindricalEquidistant"
 #
 # Now you can change the following resource to "HighRes".
 #
-resources.mpDataBaseVersion     = "MediumRes"
-resources.mpLimitMode           = "LatLon"
-resources.mpMinLonF             = xs
-resources.mpMaxLonF             = xe
-resources.mpMinLatF             = ys
-resources.mpMaxLatF             = ye
-resources.mpPerimOn             = True
-resources.mpGridAndLimbOn       = False
-resources.mpPerimDrawOrder      = "PostDraw"
-resources.mpFillDrawOrder       = "PostDraw"
-resources.mpFillOn              = True
-resources.mpFillColors          = ["background","transparent","LightGray","transparent"]
-resources.lbLabelFontHeightF    = 0.01
-resources.lbBoxLinesOn          = False
-resources.lbOrientation         = "Horizontal"
+resources.mpDataBaseVersion = "MediumRes"
+resources.mpLimitMode = "LatLon"
+resources.mpMinLonF = xs
+resources.mpMaxLonF = xe
+resources.mpMinLatF = ys
+resources.mpMaxLatF = ye
+resources.mpPerimOn = True
+resources.mpGridAndLimbOn = False
+resources.mpPerimDrawOrder = "PostDraw"
+resources.mpFillDrawOrder = "PostDraw"
+resources.mpFillOn = True
+resources.mpFillColors = ["background", "transparent", "LightGray", "transparent"]
+resources.lbLabelFontHeightF = 0.01
+resources.lbBoxLinesOn = False
+resources.lbOrientation = "Horizontal"
 
-resources.pmTickMarkDisplayMode    = "Never"
+resources.pmTickMarkDisplayMode = "Never"
 resources.pmLabelBarOrthogonalPosF = -0.05
 
-resources.nglDraw                  = True
-resources.nglFrame                 = True
+resources.nglDraw = True
+resources.nglFrame = True
 
-map = Ngl.contour_map(wks,depth,resources)
+map = Ngl.contour_map(wks, depth, resources)
 
 Ngl.end()
