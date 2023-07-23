@@ -7,50 +7,12 @@ Host *
 
 Host github.com
 	ForwardX11 no
-Host gerrit
-	HostName vlab.ncep.noaa.gov
-	User Daryl.Herzmann
-	Port 29418
-Host mtremote
-	HostName mtremote.agron.iastate.edu
-	LocalForward 1080 nagios.agron.iastate.edu:443
 Host mesonet
 	Hostname iem12.agron.iastate.edu
         # Proxied iemdb connection
 	LocalForward 172.16.170.1:5432 iemdb1.local:5432
 	LocalForward 172.16.172.1:5432 iemdb2.local:5432
 	LocalForward 172.16.174.1:5432 iemdb3.local:5432
-        # Waverly webcam
-        LocalForward 172.16.172.1:2000 170.76.211.180:80
-        # Washington
-        LocalForward 172.16.172.1:2001 205.221.150.200:80
-        # Coralville
-	LocalForward 172.16.172.1:2002 207.191.193.167:80
-        # kirkwood
-	LocalForward 172.16.172.1:2005 209.56.159.36:80
-	# Iowa City
-	LocalForward 2003 199.201.217.14:80
-	# UNI
-        LocalForward 172.16.172.1:2004 134.161.116.56:80
-        # Hiawatha
-        LocalForward 172.16.172.1:2006 198.199.60.123:80
-	# Dubuque
-	LocalForward 172.16.172.1:2007 170.178.225.113:80
-	# Ottumwa
-	LocalForward 172.16.172.1:2008 69.18.55.115:8003
-	# Amana
-	LocalForward 172.16.172.1:2009 162.244.43.144:80
-	# Mount Vernon
-        LocalForward 172.16.172.1:2010 67.135.88.19:80
-	# Coralville
-        LocalForward 172.16.172.1:2011 207.191.193.167:80
-        # Decorah
-	LocalForward 172.16.172.1:2012 74.207.33.12:80
-	# Peosta
-	LocalForward 172.16.172.1:2013 205.221.99.39:443
-	# CDR Downtown?
-	LocalForward 172.16.172.1:2014 192.199.183.69:80
-        # Openfire
         LocalForward 9999 iem-openfire.agron.iastate.edu:9090
 	LocalForward 9998 52.28.200.98:9091
 	LocalForward 9997 52.58.162.38:9091

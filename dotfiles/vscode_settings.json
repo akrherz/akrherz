@@ -128,7 +128,8 @@
     "Zend OPcache",
     "zip",
     "zlib",
-    "mapscript"
+    "mapscript",
+    "memcached"
 ],
 "[python]": {
     "editor.formatOnType": true
