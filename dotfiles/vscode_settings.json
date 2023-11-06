@@ -132,7 +132,8 @@
     "memcached"
 ],
 "[python]": {
-    "editor.formatOnType": true
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "charliermarsh.ruff"
 },
 "intelephense.environment.includePaths": [
     "/usr/lib64/php/modules/"
