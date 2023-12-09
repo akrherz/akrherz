@@ -15,7 +15,9 @@ def main():
     data["GID"] = 2
 
     mp = MapPlot(
-        sector="midwest", axisbg="white", title="Weather Bureau Office Coolness Factor"
+        sector="midwest",
+        axisbg="white",
+        title="Weather Bureau Office Coolness Factor",
     )
     mp.fill_cwas(
         data, bins=range(0, 11), lblformat="%.0f", units="awesome", ilabel=True

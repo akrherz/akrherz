@@ -47,7 +47,9 @@ def main():
         col = int((i % 30) / 10)
         row = i % 10
         xpos = paper_margin_left + col * (label_padding_left + label_width)
-        ypos = paper_margin_top + row * (label_padding_top + label_height + jitter)
+        ypos = paper_margin_top + row * (
+            label_padding_top + label_height + jitter
+        )
         frame1 = Frame(
             *coord(xpos + 0.1, ypos + 1, height, inch),
             2.4 * inch,

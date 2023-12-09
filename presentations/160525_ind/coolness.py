@@ -11,6 +11,10 @@ data["IWX"] = 2
 
 from pyiem.plot import MapPlot
 
-p = MapPlot(sector="nws", axisbg="white", title="Weather Bureau Office Coolness Factor")
-p.fill_cwas(data, bins=range(0, 11), lblformat="%.0f", units="awesome", ilabel=True)
+p = MapPlot(
+    sector="nws", axisbg="white", title="Weather Bureau Office Coolness Factor"
+)
+p.fill_cwas(
+    data, bins=range(0, 11), lblformat="%.0f", units="awesome", ilabel=True
+)
 p.postprocess(filename="coolness.png")

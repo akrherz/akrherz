@@ -109,7 +109,9 @@ resources.sfYCEndV = max(sst_lat)
 
 resources.pmLabelBarDisplayMode = "Never"  # Turn off the label bar.
 
-map = Ngl.contour_map(wks, sst[0, :, :], resources)  # Draw contours over a map.
+map = Ngl.contour_map(
+    wks, sst[0, :, :], resources
+)  # Draw contours over a map.
 
 # ----------- Begin third plot -----------------------------------------
 

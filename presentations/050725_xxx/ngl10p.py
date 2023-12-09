@@ -17,12 +17,15 @@ import Ngl
 def wigley(time):
     y = Numeric.zeros(time.shape, Numeric.Float0)
     Numeric.putmask(
-        y, Numeric.less(time, 1953.0), ((time - 1860.0) / (1953.0 - 1860.0)) * 35.0
+        y,
+        Numeric.less(time, 1953.0),
+        ((time - 1860.0) / (1953.0 - 1860.0)) * 35.0,
     )
     Numeric.putmask(
         y,
         Numeric.logical_and(
-            Numeric.greater_equal(time, 1953.0), Numeric.less_equal(time, 1973.0)
+            Numeric.greater_equal(time, 1953.0),
+            Numeric.less_equal(time, 1973.0),
         ),
         ((time - 1953.0) / (1973.0 - 1953.0)) * (68.0 - 35.0) + 35.0,
     )
@@ -86,7 +89,9 @@ y2 = wigley(time2)  # Calculate proposed values as a function of time.
 
 maxdim = max(y1.shape[0], y2.shape[0])
 y = -999.0 * Numeric.ones((2, maxdim), Numeric.Float0)  # Create 2D arrays to
-time = -999.0 * Numeric.ones((2, maxdim), Numeric.Float0)  # hold 1D arrays above.
+time = -999.0 * Numeric.ones(
+    (2, maxdim), Numeric.Float0
+)  # hold 1D arrays above.
 
 y[0, 0 : y1.shape[0]] = y1
 y[1, 0 : y2.shape[0]] = y2

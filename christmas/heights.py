@@ -44,7 +44,9 @@ def main():
     for c, mk, name in zip(colors, markers, ["Charlotte", "Robert", "Maggie"]):
         df2 = df[~pd.isna(df[name])]
         xaxis = np.array([df2.index.values[-1] - 1, 18])
-        ax.plot(df2.index, df2[name], color=c, marker=mk, label=name, markevery=4)
+        ax.plot(
+            df2.index, df2[name], color=c, marker=mk, label=name, markevery=4
+        )
         hs, hint, _, _, _ = linregress(df2.index.values, df2[name].values)
         ys = xaxis * hs + hint
         ax.plot(xaxis, ys, color=c, linestyle="--", marker=mk)

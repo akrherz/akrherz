@@ -43,7 +43,9 @@ skewtOpts.sktDrawColAreaFill = True  # Default is False
 skewtOpts.tiMainString = "Raob Data; No Winds"
 
 skewt_bkgd = Ngl.skewt_bkg(wks, skewtOpts)
-skewt_data = Ngl.skewt_plt(wks, skewt_bkgd, p, tc, tdc, z, wspd, wdir, skewtOpts)
+skewt_data = Ngl.skewt_plt(
+    wks, skewt_bkgd, p, tc, tdc, z, wspd, wdir, skewtOpts
+)
 Ngl.draw(skewt_bkgd)
 Ngl.draw(skewt_data)
 Ngl.frame(wks)
@@ -57,7 +59,9 @@ wdir = Ngl.fspan(0.0, 360.0, nlvl)  # wind direction.
 #
 #  Create a few artificial "pibal" reports.
 #
-hght = Numeric.array([1500.0, 6000.0, 10000.0, 15000.0], Numeric.Float0)  # Meters
+hght = Numeric.array(
+    [1500.0, 6000.0, 10000.0, 15000.0], Numeric.Float0
+)  # Meters
 hspd = Numeric.array([50.0, 27.0, 123.0, 13.0], Numeric.Float0)
 hdir = Numeric.array([315.0, 225.0, 45.0, 135.0], Numeric.Float0)
 
@@ -77,7 +81,9 @@ skewtOpts.sktDrawColAreaFill = True  # default is False
 
 skewtOpts.sktcolWindZ = "Red"
 skewt_bkgd = Ngl.skewt_bkg(wks, skewtOpts)
-skewt_data = Ngl.skewt_plt(wks, skewt_bkgd, p, tc, tdc, z, wspd, wdir, dataOpts)
+skewt_data = Ngl.skewt_plt(
+    wks, skewt_bkgd, p, tc, tdc, z, wspd, wdir, dataOpts
+)
 Ngl.draw(skewt_bkgd)
 Ngl.draw(skewt_data)
 Ngl.frame(wks)

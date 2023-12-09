@@ -174,7 +174,12 @@ resources.mpGridAndLimbOn = False
 resources.mpPerimDrawOrder = "PostDraw"
 resources.mpFillDrawOrder = "PostDraw"
 resources.mpFillOn = True
-resources.mpFillColors = ["background", "transparent", "LightGray", "transparent"]
+resources.mpFillColors = [
+    "background",
+    "transparent",
+    "LightGray",
+    "transparent",
+]
 resources.lbLabelFontHeightF = 0.01
 resources.lbBoxLinesOn = False
 resources.lbOrientation = "Horizontal"

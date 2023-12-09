@@ -82,7 +82,9 @@ txres = Ngl.Resources()
 txres.txFont = "helvetica-bold"
 txres.txFontHeightF = 0.02
 txres.txJust = "CenterLeft"
-Ngl.text_ndc(wks, "LWP=0.5 x 1.55 x 10:S:-6:N: x Thickness:S1:2", 0.24, 0.85, txres)
+Ngl.text_ndc(
+    wks, "LWP=0.5 x 1.55 x 10:S:-6:N: x Thickness:S1:2", 0.24, 0.85, txres
+)
 
 xpos = 0.245
 delx = 0.02
@@ -161,7 +163,9 @@ for i in xrange(len(data)):
     elif color_index[i] == 4:
         mres.gsMarkerColor = "green"
         mres.gsMarkerSizeF = 0.05  # Increase marker size by a factor of 10.
-    Ngl.polymarker(wks, plot, [data[i][0]], [data[i][1]], mres)  # Draw polymarkers.
+    Ngl.polymarker(
+        wks, plot, [data[i][0]], [data[i][1]], mres
+    )  # Draw polymarkers.
 
 Ngl.frame(wks)
 

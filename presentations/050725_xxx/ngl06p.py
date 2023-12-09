@@ -151,7 +151,9 @@ resources.lbTitleFont = 25  # label bar.
 
 resources.mpOutlineBoundarySets = "GeophysicalAndUSStates"
 
-map = Ngl.vector_scalar_map(wks, ua[::2, ::2], va[::2, ::2], tempa[::2, ::2], resources)
+map = Ngl.vector_scalar_map(
+    wks, ua[::2, ::2], va[::2, ::2], tempa[::2, ::2], resources
+)
 
 del map
 del u

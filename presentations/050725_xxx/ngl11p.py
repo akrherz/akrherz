@@ -71,7 +71,9 @@ resources.tmYRMinorOn = False  # No minor tick marks.
 
 resources.tmYRMode = "Explicit"  # Define own tick mark labels.
 hnice = range(0, 23, 2)  # Set range of "nice" height values.
-pnice = Ngl.ftcurv(height, pressure, hnice)  # Calculate "nice" pressure values.
+pnice = Ngl.ftcurv(
+    height, pressure, hnice
+)  # Calculate "nice" pressure values.
 resources.tmYRValues = pnice  # At each "nice" pressure value,
 resources.tmYRLabels = hnice  # put a "height" value label.
 
@@ -181,6 +183,8 @@ resources.tmXBLabels = [
     "Jan",
 ]
 
-xy = Ngl.xy(wks, range(0, 13, 1), unew, resources)  # Create and draw an XY plot.
+xy = Ngl.xy(
+    wks, range(0, 13, 1), unew, resources
+)  # Create and draw an XY plot.
 
 Ngl.end()

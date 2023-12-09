@@ -20,7 +20,9 @@ def main():
     data["PAH"] = 1
 
     mp = MapPlot(
-        sector="midwest", axisbg="white", title="Weather Bureau Office Coolness Factor"
+        sector="midwest",
+        axisbg="white",
+        title="Weather Bureau Office Coolness Factor",
     )
     mp.fill_cwas(
         data,

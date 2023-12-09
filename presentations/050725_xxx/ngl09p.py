@@ -123,8 +123,12 @@ for nmo in range(1, nmos):
     icemon = MA.masked_values(icemon, 0.0, rtol=0.0, atol=1.0e-15)
     icemon = MA.filled(icemon, value=fill_value)
 
-    resources.tiMainString = "CSM Y00-99 Mean Ice Fraction Month =" + str(month)
-    map = Ngl.contour_map(wks, Ngl.add_cyclic(icemon[0 : nsub + 1, :]), resources)
+    resources.tiMainString = "CSM Y00-99 Mean Ice Fraction Month =" + str(
+        month
+    )
+    map = Ngl.contour_map(
+        wks, Ngl.add_cyclic(icemon[0 : nsub + 1, :]), resources
+    )
 
 del icemon  # Clean up.
 del icemonnew

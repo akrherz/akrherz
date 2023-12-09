@@ -83,7 +83,9 @@ text_res = Ngl.Resources()  # text resources
 text_res.txFontHeightF = 0.03  # font height
 text_res.txFontColor = "Red"
 
-Ngl.text_ndc(wks, "dashed red line shows area with no data", 0.5, 0.17, text_res)
+Ngl.text_ndc(
+    wks, "dashed red line shows area with no data", 0.5, 0.17, text_res
+)
 
 Ngl.frame(wks)  # Now advance frame.
 

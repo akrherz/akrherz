@@ -15,7 +15,9 @@ def main():
     data["DVN"] = 2
 
     mp = MapPlot(
-        sector="conus", axisbg="white", title="Weather Bureau Office Coolness Factor"
+        sector="conus",
+        axisbg="white",
+        title="Weather Bureau Office Coolness Factor",
     )
     mp.fill_cwas(
         data,

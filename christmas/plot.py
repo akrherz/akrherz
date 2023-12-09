@@ -26,7 +26,9 @@ y = d * h_slope + intercept
 
 ax.plot(x, y, label="Fit + Extrapolation", lw=3)
 
-ax.set_title("Herzmann Family Size\nFamily Size on 1 Jan 2020: %.8f" % (y[-1],))
+ax.set_title(
+    "Herzmann Family Size\nFamily Size on 1 Jan 2020: %.8f" % (y[-1],)
+)
 ax.legend(loc=4, ncol=2, fontsize=18)
 ax.set_xticks(x)
 ax.xaxis.set_major_formatter(mdates.DateFormatter("%-d %b\n%Y"))

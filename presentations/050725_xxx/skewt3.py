@@ -63,7 +63,9 @@ skewtOpts.tiMainString = "ATS Rawindsonde: degC + Thin wind"
 skewtOpts.sktDrawFahrenheit = False  # default is True
 
 skewt_bkgd = Ngl.skewt_bkg(wks, skewtOpts)
-skewt_data = Ngl.skewt_plt(wks, skewt_bkgd, p, tc, tdc, z, wspd, wdir, dataOpts)
+skewt_data = Ngl.skewt_plt(
+    wks, skewt_bkgd, p, tc, tdc, z, wspd, wdir, dataOpts
+)
 Ngl.draw(skewt_bkgd)
 Ngl.draw(skewt_data)
 Ngl.frame(wks)

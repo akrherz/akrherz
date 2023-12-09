@@ -11,6 +11,8 @@ data["DVN"] = 2
 
 from pyiem.plot import MapPlot
 
-p = MapPlot(sector="nws", axisbg="white", title="Weather Bureau Office Coolness Factor")
+p = MapPlot(
+    sector="nws", axisbg="white", title="Weather Bureau Office Coolness Factor"
+)
 p.fill_cwas(data, bins=range(0, 11), lblformat="%.0f", units="awesome")
 p.postprocess(filename="coolness.png")

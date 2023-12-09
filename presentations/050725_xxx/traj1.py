@@ -189,7 +189,9 @@ for i in xrange(len(traj)):
         elif cindex > 13:
             cindex = 13
         pres.gsLineColor = cindex
-        Ngl.polyline(wks, map, [xpt[j], xpt[j + 1]], [ypt[j], ypt[j + 1]], pres)
+        Ngl.polyline(
+            wks, map, [xpt[j], xpt[j + 1]], [ypt[j], ypt[j + 1]], pres
+        )
 
         #
         #  Draw a polymarker at the beginning of each trajectory.

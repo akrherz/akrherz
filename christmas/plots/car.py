@@ -59,7 +59,8 @@ def main():
     ax.set_xlabel("Year")
     ax.set_ylabel("Gasoline Outlay (US Dollars)")
     ax.set_title(
-        "'IEM1' Yearly Gasoline Expenditure\n" "2008 Pontiac Vibe + 2018 Honda Pilot"
+        "'IEM1' Yearly Gasoline Expenditure\n"
+        "2008 Pontiac Vibe + 2018 Honda Pilot"
     )
     ax.grid(True)
     fig.savefig("f3_2020.eps")

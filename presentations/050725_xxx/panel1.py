@@ -196,7 +196,9 @@ Ngl.panel(wks, plot[0:nplots], [3, 2], panelres)
 textres = Ngl.Resources()
 textres.txFontHeightF = 0.025  # Size of title.
 
-Ngl.text_ndc(wks, ":F26:Temperature (K) at every six hours", 0.5, 0.97, textres)
+Ngl.text_ndc(
+    wks, ":F26:Temperature (K) at every six hours", 0.5, 0.97, textres
+)
 
 textres.txFontHeightF = 0.02  # Make second title slightly smaller.
 
