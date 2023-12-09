@@ -1,11 +1,11 @@
 """Label generation from code, yippee..."""
 
 import pandas as pd
-from reportlab.pdfgen import canvas
-from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.pagesizes import LETTER
+from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.units import inch
-from reportlab.platypus import Paragraph, Frame, KeepInFrame
+from reportlab.pdfgen import canvas
+from reportlab.platypus import Frame, KeepInFrame, Paragraph
 
 
 def coord(x, y, height, unit=1):
