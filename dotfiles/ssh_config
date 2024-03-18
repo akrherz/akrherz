@@ -1,18 +1,19 @@
 AddressFamily inet
 
 Host *
-	# http://www.hjackson.org/blog/archives/2007/03/ssh_connection.html
-	ServerAliveInterval 300
-	ServerAliveCountMax 300
+    # http://www.hjackson.org/blog/archives/2007/03/ssh_connection.html
+    ServerAliveInterval 300
+    ServerAliveCountMax 300
 
 Host github.com
-	ForwardX11 no
+    ForwardX11 no
 Host mesonet
-	Hostname iem12.agron.iastate.edu
-        # Proxied iemdb connection
-	LocalForward 172.16.170.1:5432 iemdb1.local:5432
-	LocalForward 172.16.172.1:5432 iemdb2.local:5432
-	LocalForward 172.16.174.1:5432 iemdb3.local:5432
-        LocalForward 9999 iem-openfire.agron.iastate.edu:9090
-	LocalForward 9998 52.28.200.98:9091
-	LocalForward 9997 52.58.162.38:9091
+    Hostname iem12.agron.iastate.edu
+    # Proxied iemdb connection
+    LocalForward 172.16.170.1:5432 iemdb1.local:5432
+    LocalForward 172.16.172.1:5432 iemdb2.local:5432
+    LocalForward 172.16.174.1:5432 iemdb3.local:5432
+    LocalForward 9999 iem-openfire.agron.iastate.edu:9090
+    # Openfire 4.8 does not permit remote console connections
+    LocalForward 9998 localhost:9998
+    LocalForward 9997 localhost:9997
