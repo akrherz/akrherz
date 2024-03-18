@@ -1,4 +1,5 @@
 """Simple"""
+
 from pyiem.network import Table as NetworkTable
 from pyiem.plot import MapPlot
 

@@ -1,4 +1,5 @@
 """A plot of non-prego."""
+
 import datetime
 
 import pandas as pd

@@ -1,5 +1,4 @@
 class temperature:
-
     """Constructor
     - Value is required, unit is not.
     """

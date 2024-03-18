@@ -1,4 +1,5 @@
 """A plot of heights."""
+
 from io import StringIO
 
 from metpy.units import units

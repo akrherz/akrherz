@@ -1,4 +1,5 @@
 """Christmas 2023 figure 2."""
+
 import calendar
 
 import matplotlib.pyplot as plt
