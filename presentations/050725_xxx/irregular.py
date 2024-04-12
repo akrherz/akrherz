@@ -6,17 +6,15 @@
 #
 #  Import NumPy.
 #
-import Numeric
 
 #
 #  Import the NetCDF reader.
 #
-from Scientific.IO.NetCDF import NetCDFFile
-
 #
 #  Import Ngl support functions.
 #
 import Ngl
+from Scientific.IO.NetCDF import NetCDFFile
 
 #
 #  Open a netCDF file and get some data..

@@ -1,6 +1,19 @@
 
 [tool.ruff]
 line-length = 79
-lint.select = ["E", "F", "I"]
 target-version = "py39"
 
+[tool.ruff.lint]
+select = [
+    "E",
+    "F",
+    "I",
+]
+ignore = [
+    "E402",  # module level import not at top of file
+    "E501",  # line too long
+    "E721",  # do not compare types, use 'isinstance()'
+    "F4",  # eh
+    "F821",  # undefined name
+    "F841",  # local variable is assigned to but never used
+]

@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
-from Scientific.IO import NetCDF
-import Numeric
 import Ngl
+import Numeric
+from Scientific.IO import NetCDF
 
 nc = NetCDF.NetCDFFile("MMOUT_DOMAIN2.nc")
 

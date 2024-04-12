@@ -2,10 +2,10 @@
 
 from io import StringIO
 
-from metpy.units import units
 import numpy as np
-from pyiem.plot.use_agg import plt
 import pandas as pd
+from metpy.units import units
+from pyiem.plot.use_agg import plt
 from scipy.stats import linregress
 
 data = """

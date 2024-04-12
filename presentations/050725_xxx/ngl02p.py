@@ -1,17 +1,19 @@
 #
 #  Import Python modules to be used.
 #
-import Numeric, sys, os
-
-#
-#  Import the NetCDF reader.
-#
-from Scientific.IO.NetCDF import NetCDFFile
+import os
+import sys
 
 #
 #  Import Ngl support functions.
 #
 import Ngl
+import Numeric
+
+#
+#  Import the NetCDF reader.
+#
+from Scientific.IO.NetCDF import NetCDFFile
 
 #
 #  Open the netCDF file.

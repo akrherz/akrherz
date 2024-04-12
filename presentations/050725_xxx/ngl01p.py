@@ -1,12 +1,11 @@
 #
 #  Import NumPy.
 #
-import Numeric
-
 #
 #  Import Ngl support functions.
 #
 import Ngl
+import Numeric
 
 #
 #  Define coordinate data for an XY plot.

@@ -1,14 +1,13 @@
+#
+#  Import Ngl support functions.
+#
+import Ngl
 import Numeric
 
 #
 #  Import all names from the NetCDF module.
 #
 from Scientific.IO.NetCDF import NetCDFFile
-
-#
-#  Import Ngl support functions.
-#
-import Ngl
 
 #
 #  The data is from the 1-degree (1:250,000) Digital Elevation

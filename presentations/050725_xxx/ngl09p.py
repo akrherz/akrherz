@@ -2,12 +2,14 @@
 #  Import the Masked array module from
 #  Numerical Python; import sys
 #
-import Numeric, MA, sys
+
+import MA
 
 #
 #  Import Ngl support functions.
 #
 import Ngl
+import Numeric
 
 #
 #  Import the NetCDF reader.

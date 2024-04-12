@@ -138,5 +138,7 @@
 "intelephense.environment.includePaths": [
     "/usr/lib64/php/modules/"
 ],
-"jupyter.interactiveWindow.textEditor.executeSelection": false
+"jupyter.interactiveWindow.textEditor.executeSelection": false,
+"python.analysis.nodeExecutable": "/opt/miniconda3/envs/prod/bin/node",
+"python.analysis.logLevel": "Trace"
 }

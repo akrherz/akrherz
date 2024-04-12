@@ -3,21 +3,22 @@
 #  Fleet Numerical Meteorology and Oceanography Center
 #
 import copy
-
-#
-#  Import all names from the NetCDF module.
-#
-from Scientific.IO.NetCDF import NetCDFFile
-
-#
-#  Import Numeric and sys.
-#
-import Numeric, sys
+import sys
 
 #
 #  Import the PyNGL module names.
 #
 import Ngl
+
+#
+#  Import Numeric and sys.
+#
+import Numeric
+
+#
+#  Import all names from the NetCDF module.
+#
+from Scientific.IO.NetCDF import NetCDFFile
 
 
 #

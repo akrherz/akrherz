@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-import numarray, myfort
+import myfort
+import numarray
 from Scientific.IO import NetCDF
 
 nc = NetCDF.NetCDFFile("testdata.nc", "r")

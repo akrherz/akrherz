@@ -1,8 +1,9 @@
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
 import datetime
-import scipy.stats
+
+import matplotlib.dates as mdates
+import matplotlib.pyplot as plt
 import numpy as np
+import scipy.stats
 
 x = [
     datetime.date(2010, 7, 24),

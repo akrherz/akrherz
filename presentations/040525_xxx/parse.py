@@ -1,7 +1,8 @@
 #!/usr/bin/python
 
 # Python Imports
-import re, string
+import re
+import string
 
 # Load my cdf file, read-only (r flag)
 f = open("disks.csv", "r")

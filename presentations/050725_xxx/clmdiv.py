@@ -6,17 +6,17 @@
 #
 #  Import NumPy.
 #
-import Numeric, whrandom
+#
+#  Import Ngl support functions.
+#
+import Ngl
+import Numeric
+import whrandom
 
 #
 #  Import all names from the NetCDF module.
 #
 from Scientific.IO.NetCDF import NetCDFFile
-
-#
-#  Import Ngl support functions.
-#
-import Ngl
 
 #
 #  Open the netCDF file containing the climate divisions polygons.

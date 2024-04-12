@@ -7,17 +7,16 @@
 #
 #  Import NumPy.
 #
+#
+#  Import Ngl support functions.
+#
+import Ngl
 import Numeric
 
 #
 #  Import all names from the NetCDF module.
 #
 from Scientific.IO.NetCDF import NetCDFFile
-
-#
-#  Import Ngl support functions.
-#
-import Ngl
 
 
 #

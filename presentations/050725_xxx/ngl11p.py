@@ -1,12 +1,12 @@
 #
 #  Import NumPy.
 #
-import Numeric, sys
 
 #
 #  Import NGL support functions.
 #
 import Ngl
+import Numeric
 
 #
 #  Define a color table and open a workstation.

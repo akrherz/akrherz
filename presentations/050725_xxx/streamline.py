@@ -1,12 +1,11 @@
 #
 #  Import all names from the NetCDF module.
 #
-from Scientific.IO.NetCDF import NetCDFFile
-
 #
 #  Import Ngl support functions.
 #
 import Ngl
+from Scientific.IO.NetCDF import NetCDFFile
 
 #
 #  Open the netCDF file.

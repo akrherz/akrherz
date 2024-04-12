@@ -1,12 +1,11 @@
 #
 #  Import NumPy.
 #
-import Numeric
-
 #
 #  Import PyNGL support functions.
 #
 import Ngl
+import Numeric
 
 
 #

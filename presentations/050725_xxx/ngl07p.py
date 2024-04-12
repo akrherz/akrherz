@@ -1,12 +1,11 @@
 #
 #  Import NumPy.
 #
-import Numeric
-
 #
 #  Import Ngl support functions.
 #
 import Ngl
+import Numeric
 
 xi = [0.000, 0.210, 0.360, 0.540, 1.000, 1.500, 1.970, 2.300, 2.500, 2.700]
 yi = [0.000, 2.600, 3.000, 2.500, 0.000, -1.000, 0.000, 0.800, 0.920, 0.700]

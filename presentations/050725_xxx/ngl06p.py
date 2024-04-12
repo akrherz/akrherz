@@ -1,17 +1,16 @@
 #
 #  Import NumPy.
 #
+#
+#  Import PyNGL support functions.
+#
+import Ngl
 import Numeric
 
 #
 #  Import the NetCDF reader.
 #
 from Scientific.IO.NetCDF import NetCDFFile
-
-#
-#  Import PyNGL support functions.
-#
-import Ngl
 
 #
 #  Open netCDF files.

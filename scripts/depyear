@@ -1,0 +1,14 @@
+#!/bin/bash
+
+YEAR=$1
+SCRIPT=$2
+
+for i in $(seq 15 30); do
+    python $SCRIPT --date=${YEAR}-04-$i
+done
+for i in $(seq 1 31); do
+    python $SCRIPT --date=${YEAR}-05-$i
+done
+for i in $(seq 1 14); do
+    python $SCRIPT --date=${YEAR}-06-$i
+done

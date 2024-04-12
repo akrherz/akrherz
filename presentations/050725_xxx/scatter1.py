@@ -1,19 +1,18 @@
 #
 #  Import NumPy
 #
+#
+#  Import PyNGL.
+#
+import Ngl
 import Numeric
+from Scientific.Functions.LeastSquares import polynomialLeastSquaresFit
 
 #
 #  From Scientific import the NetCDF file reader and the
 #  polynomial least squares function.
 #
 from Scientific.IO.NetCDF import NetCDFFile
-from Scientific.Functions.LeastSquares import polynomialLeastSquaresFit
-
-#
-#  Import PyNGL.
-#
-import Ngl
 
 #
 # This plot is very similar to one done by Joel Norris of GFDL. The

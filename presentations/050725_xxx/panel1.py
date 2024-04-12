@@ -1,12 +1,11 @@
 #
 #  Import NumPy.
 #
-import Numeric
-
 #
 #  Import Ngl support functions.
 #
 import Ngl
+import Numeric
 
 #
 #  Import all names from the NetCDF module.

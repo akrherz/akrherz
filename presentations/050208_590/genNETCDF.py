@@ -2,8 +2,8 @@
 
 # Generate the NetCDF Test dataset
 
-from Scientific.IO import NetCDF
 import numarray
+from Scientific.IO import NetCDF
 
 nc = NetCDF.NetCDFFile("testdata.nc", "w")
 

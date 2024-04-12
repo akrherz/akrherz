@@ -1,5 +1,4 @@
 import Ngl
-import os, sys
 
 wks_type = "ps"
 wks = Ngl.open_wks(wks_type, "color1")

@@ -11,7 +11,8 @@
 #            Produces two skew-T plots using real data.  The winds from
 #            a (bogus) pibal are drawn using a different colors.
 #
-import Ngl, Numeric
+import Ngl
+import Numeric
 
 nlvl = 30
 ncol = 16

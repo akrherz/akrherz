@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-import glob, re
+import glob
+import re
 
 files = glob.glob("output/svr_2005_???.html")
 for file in files:

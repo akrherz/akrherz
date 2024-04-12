@@ -1,8 +1,8 @@
 #!/mesonet/python/bin/python
 
 # Python Imports
-from Scientific.IO.ArrayIO import *
 import Numeric
+from Scientific.IO.ArrayIO import *
 from Scientific.IO.NetCDF import *
 
 # Load up the precip data from file

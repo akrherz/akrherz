@@ -1,8 +1,11 @@
 #!/mesonet/python/bin/python
 
 # Python Imports
+import re
+import string
+
+import Numeric
 from Scientific.IO import NetCDF
-import Numeric, re, string
 
 # Open the NetCDF file
 nc = NetCDF.NetCDFFile("disks.nc", "w")

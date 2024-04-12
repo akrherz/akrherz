@@ -3,7 +3,6 @@
 #
 #  Import NumPy.
 #
-import Numeric, sys
 
 #
 #  Import Ngl support functions.

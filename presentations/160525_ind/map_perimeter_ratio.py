@@ -1,5 +1,4 @@
 import psycopg2
-import numpy as np
 
 POSTGIS = psycopg2.connect(database="postgis", host="iemdb", user="nobody")
 cursor = POSTGIS.cursor()

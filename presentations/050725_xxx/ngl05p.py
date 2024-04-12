@@ -1,17 +1,16 @@
 #
 #  Import NumPy.
 #
+#
+#  Import Ngl support functions.
+#
+import Ngl
 import Numeric
 
 #
 #  Import the NetCDF reader.
 #
 from Scientific.IO.NetCDF import NetCDFFile
-
-#
-#  Import Ngl support functions.
-#
-import Ngl
 
 #
 #  Open three netCDF files and get variables.

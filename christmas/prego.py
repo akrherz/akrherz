@@ -2,11 +2,8 @@
 
 import datetime
 
-import pandas as pd
 import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
-import scipy.stats
-import numpy as np
+import pandas as pd
 
 D9 = datetime.timedelta(days=280)
 DATES = [

@@ -1,11 +1,12 @@
 import sys
 
 sys.path.append("/home/akrherz/projects/iemwebsite/scripts/lib/")
-import iemplot
 import os
+
+import iemplot
+import mx.DateTime
 import Nio
 import numpy
-import mx.DateTime
 
 # 18-19 19-20 20-21 21-22 22-23 23-24
 

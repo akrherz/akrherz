@@ -1,7 +1,4 @@
 import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
-import datetime
-import scipy.stats
 import numpy as np
 
 levels = [0, 0.25, 0.5, 0.75, 1]

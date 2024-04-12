@@ -1,7 +1,7 @@
 """Plot car stuff."""
 
-from pyiem.plot.use_agg import plt
 import pandas as pd
+from pyiem.plot.use_agg import plt
 
 
 def main():
