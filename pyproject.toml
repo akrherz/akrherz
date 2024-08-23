@@ -9,6 +9,9 @@ select = [
     "F",
     "I",
 ]
+exclude = [
+    "**/*.ipynb",
+]
 ignore = [
     "E402",  # module level import not at top of file
     "E501",  # line too long
