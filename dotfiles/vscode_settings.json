@@ -141,5 +141,9 @@
 "jupyter.interactiveWindow.textEditor.executeSelection": false,
 "python.analysis.nodeExecutable": "/opt/miniconda3/envs/prod/bin/node",
 "python.analysis.logLevel": "Trace",
-"github.copilot.editor.enableAutoCompletions": true
+"github.copilot.editor.enableAutoCompletions": true,
+"python.analysis.inlayHints.callArgumentNames": "all",
+"python.analysis.diagnosticSeverityOverrides": {
+    "reportCallIssue": "warning",
+}
 }
