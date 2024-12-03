@@ -3,7 +3,7 @@ channels:
 #  - ngam
 #  - cftf-linux
   - conda-forge
-  - defaults
+#  - defaults
 #  - pypi
 #  - HCC
 #  - cgat
