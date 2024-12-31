@@ -139,8 +139,6 @@
     "/usr/lib64/php/modules/"
 ],
 "jupyter.interactiveWindow.textEditor.executeSelection": false,
-"python.analysis.nodeExecutable": "/opt/miniconda3/envs/prod/bin/node",
-"python.analysis.logLevel": "Trace",
 "github.copilot.editor.enableAutoCompletions": true,
 "python.analysis.diagnosticSeverityOverrides": {
     "reportCallIssue": "warning"
