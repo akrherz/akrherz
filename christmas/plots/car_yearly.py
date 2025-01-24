@@ -60,7 +60,7 @@ def main():
     ax.set_xlabel("Year")
     ax.set_ylabel(r"Daily Driving Pain mi d$^{-1}$")
     ax.set_title(
-        "'IEM1' Miles Driven per Day\n" "2008 Pontiac Vibe + 2018 Honda Pilot"
+        "'IEM1' Miles Driven per Day\n2008 Pontiac Vibe + 2018 Honda Pilot"
     )
     ax.grid(True)
     fig.savefig("f1_2024.eps")

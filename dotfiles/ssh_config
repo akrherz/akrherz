@@ -8,7 +8,7 @@ Host *
 Host github.com
     ForwardX11 no
 Host mesonet
-    Hostname iem12.agron.iastate.edu
+    Hostname iem8-dc.agron.iastate.edu
     # Proxied iemdb connection
     LocalForward 172.16.170.1:5432 iemdb1.local:5432
     LocalForward 172.16.172.1:5432 iemdb2.local:5432
