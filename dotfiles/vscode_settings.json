@@ -22,7 +22,7 @@
 "window.titleBarStyle": "native",
 "git.autofetch": true,
 "python.pythonPath": "/opt/miniconda3/envs/prod/bin/python",
-"python.formatting.provider": "black",
+"python.formatting.provider": "charliermarsh.ruff",
 "editor.detectIndentation": false,
 "window.zoomLevel": 0,
 "python.showStartPage": false,
