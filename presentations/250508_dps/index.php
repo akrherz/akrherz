@@ -46,7 +46,7 @@ $t->content = <<<EOM
 <h4>Iowa Specific Archives</h4>
 
 <p>Webcam archives (Iowa RWIS + Track-A-Plow + Some TV stations)
-<br /><a href="/current/viewer.phtml#IDOT-090/2025-03-19T15:50:00Z">IEM Webcam Viewer</a>
+<br /><a href="/current/viewer.phtml#A33650/2025-03-19T15:50:00Z">IEM Webcam Viewer</a>
 
 </div><!-- ./iowa specific archives -->
 <div class="col-md-4 well">
