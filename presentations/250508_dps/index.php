@@ -48,6 +48,9 @@ $t->content = <<<EOM
 <p>Webcam archives (Iowa RWIS + Track-A-Plow + Some TV stations)
 <br /><a href="/current/viewer.phtml#A33650/2025-03-19T15:50:00Z">IEM Webcam Viewer</a>
 
+<p>Iowa DPS Winter Road Conditions
+<br /><a href="/timemachine/?product=118&timestamp=202503191605">Static Map Archive</a>
+
 </div><!-- ./iowa specific archives -->
 <div class="col-md-4 well">
 <h4>NWS Warnings + Forecasts</h4>
