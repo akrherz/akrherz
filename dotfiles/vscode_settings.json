@@ -29,6 +29,7 @@
 "jupyter.alwaysTrustNotebooks": true,
 "python.languageServer": "Pylance",
 "python.analysis.indexing": false,
+"python.analysis.nodeExecutable": "/opt/miniconda3/envs/prod/bin/node",
 "workbench.editorAssociations": {
     "*.ipynb": "jupyter-notebook"
 },
