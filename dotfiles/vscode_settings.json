@@ -238,5 +238,8 @@
 "github.copilot.editor.enableAutoCompletions": true,
 "python.analysis.diagnosticSeverityOverrides": {
     "reportCallIssue": "warning"
+},
+"[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
 }
