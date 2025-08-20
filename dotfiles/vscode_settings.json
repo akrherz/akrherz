@@ -241,5 +241,6 @@
 },
 "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-}
+},
+"chat.mcp.autostart": "newAndOutdated"
 }
