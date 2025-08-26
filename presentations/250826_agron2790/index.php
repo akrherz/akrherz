@@ -4,7 +4,7 @@ require_once "/opt/iem/config/settings.inc.php";
 require_once "/opt/iem/include/myview.php";
 
 $t = new MyView();
-$t->title = "Agronomy 2790 - 27 August 2024";
+$t->title = "Agronomy 2790 - 26 August 2025";
 $t->thispage = "iem-present";
 
 $t->content = <<<EOF
