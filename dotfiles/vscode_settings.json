@@ -242,5 +242,6 @@
 "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
-"chat.mcp.autostart": "newAndOutdated"
+"chat.mcp.autostart": "newAndOutdated",
+"editor.inlineSuggest.minShowDelay": 1500
 }
