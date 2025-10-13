@@ -243,5 +243,20 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
 "chat.mcp.autostart": "newAndOutdated",
-"editor.inlineSuggest.minShowDelay": 1500
+"editor.inlineSuggest.minShowDelay": 1500,
+"chat.tools.terminal.autoApprove": {
+    "npm test": true
+},
+"[dockercompose]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+},
+"[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+},
+"[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+}
 }
