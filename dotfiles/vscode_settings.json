@@ -245,7 +245,20 @@
 "chat.mcp.autostart": "newAndOutdated",
 "editor.inlineSuggest.minShowDelay": 1500,
 "chat.tools.terminal.autoApprove": {
-    "npm test": true
+    "npm test": true,
+    "npx": true,
+    "/^perl -c cgi-bin/lib/DIALOG\\.pm 2>&1$/": {
+        "approve": true,
+        "matchCommandLine": true
+    },
+    "/^perl -c /home/akrherz/projects/classnet/cgi-bin/lib/CLASS\\.pm 2>&1$/": {
+        "approve": true,
+        "matchCommandLine": true
+    },
+    "/^for f in cgi-bin/\\*; do if \\[ -f \"\\$f\" \\] && head -1 \"\\$f\" \\| grep -q perl; then echo \"Checking \\$f\"; perl -c \"\\$f\" 2>&1 \\| grep -v \"syntax OK\" \\| head -5; fi; done$/": {
+        "approve": true,
+        "matchCommandLine": true
+    }
 },
 "[dockercompose]": {
     "editor.insertSpaces": true,
