@@ -258,7 +258,9 @@
     "/^for f in cgi-bin/\\*; do if \\[ -f \"\\$f\" \\] && head -1 \"\\$f\" \\| grep -q perl; then echo \"Checking \\$f\"; perl -c \"\\$f\" 2>&1 \\| grep -v \"syntax OK\" \\| head -5; fi; done$/": {
         "approve": true,
         "matchCommandLine": true
-    }
+    },
+    "pytest": true,
+    "ruff": true
 },
 "[dockercompose]": {
     "editor.insertSpaces": true,
