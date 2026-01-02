@@ -26,6 +26,7 @@
 "editor.detectIndentation": false,
 "window.zoomLevel": 0,
 "python.showStartPage": false,
+  "coverage-gutters.showGutterCoverage": true,
 "jupyter.alwaysTrustNotebooks": true,
 "python.languageServer": "Pylance",
 "python.analysis.indexing": false,
