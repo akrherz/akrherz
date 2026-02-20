@@ -261,7 +261,12 @@
         "matchCommandLine": true
     },
     "pytest": true,
-    "ruff": true
+    "ruff": true,
+    "npm run lint": true,
+    "/^php -l /home/akrherz/projects/iem/include/generators\\.php$/": {
+        "approve": true,
+        "matchCommandLine": true
+    }
 },
 "[dockercompose]": {
     "editor.insertSpaces": true,
@@ -275,5 +280,6 @@
 "[css]": {
     "editor.defaultFormatter": "vscode.css-language-features"
 },
-"coverage-gutters.watchOnActivate": true
+"coverage-gutters.watchOnActivate": true,
+"sqlfluff.dialect": "postgres"
 }
