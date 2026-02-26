@@ -266,7 +266,8 @@
     "/^php -l /home/akrherz/projects/iem/include/generators\\.php$/": {
         "approve": true,
         "matchCommandLine": true
-    }
+    },
+    "sqlfluff": true
 },
 "[dockercompose]": {
     "editor.insertSpaces": true,
