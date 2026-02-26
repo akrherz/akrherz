@@ -1,0 +1,17 @@
+Iowa Environmental Mesonet (IEM) Dog and Pony Show
+
+https://mesonet.agron.iastate.edu
+
+Daryl Herzmann started the IEM website 25 years ago with the aim of making
+environmental data easier to use.  Through many fruitful NWS collaborations and
+a brief stint as a NWS contractor, Daryl developed many tools on the IEM website
+utilized by all corners of the NWS.  The NWS developed tools included NWSChat (version 1),
+NWWS-OI, and RA4-GIFS. The IEM developed tools include the "IEM Cow", "VTEC Browser",
+"LSR App" and about everything else you can't easily find at NCEI, nor can easily find
+on the IEM website! The "IEM Dog and Pony Show" presentation
+highlights the many tools and archives useful for WFO usage with significant
+amounts of dry humor and candor attempting to illustrate why "we can't have nice things".
+
+
+Please let Daryl know if you have any specific topics or NWS data statistics you would
+like to see addressed during the talk.
