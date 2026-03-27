@@ -282,5 +282,6 @@
     "editor.defaultFormatter": "vscode.css-language-features"
 },
 "coverage-gutters.watchOnActivate": true,
-"sqlfluff.dialect": "postgres"
+"sqlfluff.dialect": "postgres",
+"workbench.colorTheme": "Dark Modern"
 }
