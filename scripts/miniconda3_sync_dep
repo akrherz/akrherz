@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for machine in $(ansible dep_workers -i /home/akrherz/projects/infra-ansible/inventories --list-hosts | awk 'NR>1 {print $1}'); do
+  echo "rsyncing $machine..."
+  # ssh root@$machine "systemctl disable --now dep-weps2sweep-worker.service"
+  rsync -a -H --delete /opt/miniconda3 mesonet@${machine}:/opt/
+done
