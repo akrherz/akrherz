@@ -283,5 +283,7 @@
 },
 "coverage-gutters.watchOnActivate": true,
 "sqlfluff.dialect": "postgres",
-"workbench.colorTheme": "Dark Modern"
+"workbench.colorTheme": "Dark Modern",
+"intelephense.diagnostics.undefinedVariables": "local",
+"php.validate.executablePath": ""
 }
