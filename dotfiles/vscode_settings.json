@@ -285,5 +285,6 @@
 "sqlfluff.dialect": "postgres",
 "workbench.colorTheme": "Dark Modern",
 "intelephense.diagnostics.undefinedVariables": "local",
-"php.validate.executablePath": ""
+"php.validate.executablePath": "",
+"chat.viewSessions.orientation": "stacked"
 }
