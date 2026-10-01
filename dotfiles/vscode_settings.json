@@ -273,6 +273,17 @@
 "coverage-gutters.watchOnActivate": true,
 "sqlfluff.dialect": "postgres",
 "workbench.colorTheme": "Dark Modern",
+"phpTools.language": "",
 "chat.viewSessions.orientation": "stacked",
-"phpTools.language": ""
+"chat.tools.urls.autoApprove": {
+    "https://code.visualstudio.com": true,
+    "https://github.com/microsoft/vscode/wiki/*": true,
+    "https://bufkitwarehouse.org": true
+},
+"[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+},
+"[sql]": {
+    "editor.defaultFormatter": "sqlfluff.vscode-sqlfluff"
+}
 }
