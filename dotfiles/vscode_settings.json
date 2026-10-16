@@ -285,5 +285,6 @@
 },
 "[sql]": {
     "editor.defaultFormatter": "sqlfluff.vscode-sqlfluff"
-}
+},
+"python.analysis.diagnosticsSource": "Pylance + Pyright"
 }

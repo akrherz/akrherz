@@ -1,0 +1,7 @@
+#!/bin/bash
+
+python /home/akrherz/projects/infra-ansible/scripts/list_postgresql.py
+
+echo
+
+sudo /usr/bin/python3 /home/akrherz/projects/iem/scripts/util/set_iemdb_etc_hosts.py $1
