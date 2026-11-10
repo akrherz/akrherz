@@ -3,5 +3,12 @@
 # Needs to run against test database to get predictable coverage result
 iemdb test
 
-python -m pytest --mpl --cov=iemweb --durations=10 -n 4 -W error::FutureWarning tests/iemweb/
+python -m pytest \
+	--mpl \
+	--cov=iemweb \
+	--durations=10 \
+	-o parametrize_long_str_id_strategy=legacy \
+	-n 4 \
+	-W error::FutureWarning \
+	tests/iemweb/
 python -m coverage xml

@@ -27,7 +27,7 @@
 "python.showStartPage": false,
   "coverage-gutters.showGutterCoverage": true,
 "jupyter.alwaysTrustNotebooks": true,
-"python.languageServer": "Pylance",
+"python.languageServer": "Default",
 "python.analysis.indexing": false,
 "python.analysis.nodeExecutable": "/opt/miniconda3/envs/prod/bin/node",
 "workbench.editorAssociations": {
@@ -256,7 +256,9 @@
     "pytest": true,
     "ruff": true,
     "npm run lint": true,
-    "sqlfluff": true
+    "sqlfluff": true,
+    "/^curl --silent --show-error --list-only --ssl-reqd --max-time 15 ftp://smos-diss\\.eo\\.esa\\.int/$/": true,
+    "/^curl --verbose --connect-timeout 8 --max-time 20 --user : --output /tmp/smos-one\\.nc 'ftps://smos-diss\\.eo\\.esa\\.int/oads/data/SMOS_Open_V7/SM_OPER_MIR_SMUDP2_20261023T110204_20261023T115523_700_001_1\\.nc'$/": true
 },
 "[dockercompose]": {
     "editor.insertSpaces": true,
@@ -278,13 +280,32 @@
 "chat.tools.urls.autoApprove": {
     "https://code.visualstudio.com": true,
     "https://github.com/microsoft/vscode/wiki/*": true,
-    "https://bufkitwarehouse.org": true
+    "https://bufkitwarehouse.org": true,
+    "https://raw.githubusercontent.com": {
+        "approveRequest": true,
+        "approveResponse": false
+    },
+    "https://smos-diss.eo.esa.int": {
+        "approveRequest": true,
+        "approveResponse": false
+    },
+    "https://github.com": {
+        "approveRequest": true,
+        "approveResponse": false
+    },
+    "https://api.github.com": {
+        "approveRequest": true,
+        "approveResponse": false
+    }
 },
 "[markdown]": {
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
 },
 "[sql]": {
-    "editor.defaultFormatter": "sqlfluff.vscode-sqlfluff"
+    "editor.defaultFormatter": "Quary.sqruff"
 },
-"python.analysis.diagnosticsSource": "Pylance + Pyright"
+"python.analysis.diagnosticsSource": "Pylance + Pyright",
+"python.analysis.inlayHints": {
+    "variableTypes": false
+}
 }

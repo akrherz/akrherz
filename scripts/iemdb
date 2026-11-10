@@ -1,7 +1,20 @@
 #!/bin/bash
 
+# Ensure that this script is called with either test|proxy|local arg
+if [[ "$1" != "test" && "$1" != "proxy" && "$1" != "local" ]]; then
+    echo "Usage: $0 {test|proxy|local}"
+    exit 1
+fi
+
+# If test
+if [[ "$1" == "test" ]]; then
+    set -x
+    docker run -d -p 172.16.171.1:5432:5432 ghcr.io/akrherz/iem_database:test_data
+    set +x
+fi
+
 python /home/akrherz/projects/infra-ansible/scripts/list_postgresql.py
 
 echo
 
-sudo /usr/bin/python3 /home/akrherz/projects/iem/scripts/util/set_iemdb_etc_hosts.py $1
+sudo /usr/bin/python3 /home/akrherz/projects/iem/scripts/util/set_iemdb_etc_hosts.py "$1"
